@@ -1,8 +1,8 @@
-#story #sinco
+#story #sinco #retelling
 
 # Overview
 
-A 2025 retelling of the Sinco story.
+A 2025 retelling of the [Sinco](../../Other/Characters/Sinco.md) story.
 
 # Links
 
