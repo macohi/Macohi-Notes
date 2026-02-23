@@ -9,3 +9,5 @@ Example:
 - Part 1 of the Level Pack has a video released
 
 And the same would happen for the other parts
+
+Cutscenes come later or for special occasions.

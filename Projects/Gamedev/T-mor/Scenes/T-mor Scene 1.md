@@ -1,11 +1,15 @@
 #t-mor 
 
+# Intro Cutscene (Optional)
+
+{{intro cutscene description}}
+
 # Parts
 
 ***
 
 Part 1
-Sinco and 
+{{part 1}}
 
 ***
 
