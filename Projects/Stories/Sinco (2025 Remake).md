@@ -2,7 +2,7 @@
 
 # Overview
 
-A 2025 retelling of the [Sinco](../../Other/Characters/Sinco.md) story.
+A retelling of the [Sinco](../../Other/Characters/Sinco.md) story [Sinco Retold](Sinco%20Retold.md).
 
 # Links
 
