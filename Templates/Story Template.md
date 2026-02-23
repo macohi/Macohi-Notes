@@ -4,10 +4,6 @@
 
 {{overview}}
 
-# Characters
-
-{{characters}}
-
 # Links
 
 {{links}}

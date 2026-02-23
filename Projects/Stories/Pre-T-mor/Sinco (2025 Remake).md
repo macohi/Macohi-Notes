@@ -4,10 +4,6 @@
 
 A retelling of the [Sinco](../../../Other/Characters/Pre-T-mor/Sinco.md) story [Sinco Retold](Sinco%20Retold.md).
 
-# Characters
-
-{{characters}}
-
 # Links
 
 - [Season 1](https://www.youtube.com/watch?v=J47g8-bVXA4&list=PLJriJE7npWYg8B0A-DvPRqEP2JCxHlwEp&pp=sAgC)
