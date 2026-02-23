@@ -2,7 +2,7 @@
 
 # Overview
 
-A Teenage Boy raised by himself going up against the likes of [Tirok](Tirok.md) and more.
+A Teenage Boy raised by himself going up against the likes of [Tirok](Tirok/Tirok.md) and more.
 
 Pronouns: He / Him
 Species: [Meta-Human](../../Species/Humans/Meta-Human.md)
