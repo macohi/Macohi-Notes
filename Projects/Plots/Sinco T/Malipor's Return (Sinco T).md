@@ -33,4 +33,10 @@ Malipor screams in frustration as Sinco rises, all wounds and bruises being heal
 
 "FUERZA!"
 
-A red aura takes over as Hyper Sinco 
+A red aura takes over as Hyper Sinco punches Malipor straight in the chest, ripping through.
+
+"N-N-Noooo..."
+
+Sinco charges up his energy into a blue orb and blasts Malipor's body into *bits*.
+
+"Never again should you EVER come back."
