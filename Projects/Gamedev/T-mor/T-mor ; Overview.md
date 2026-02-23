@@ -1,4 +1,4 @@
-#gamedev #sinco
+#gamedev #sinco #t-mor
 
 # Overview
 
@@ -17,8 +17,8 @@ The main stories that came to mind:
 - [[Macohi and Lathol]]
 
 Additional stories:
-- [[../Portilizen]]
+- [[../../Portilizen]]
 
 # Links
 
-{{links}}
+N / A
