@@ -1,9 +1,0 @@
-#story #macohi #lathol #macohi-and-lathol
-
-# Overview
-
-{{overview}}
-
-# Links
-
-{{links}}
