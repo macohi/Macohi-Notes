@@ -9,7 +9,7 @@ In all seriousness he's a rich science tech guy that's just, livin' the best lif
 Pronouns: He / Him
 Gender: Male
 
-Species: Human
+Species: [Human](../../Species/Human.md)
 
 ## Powers
 
