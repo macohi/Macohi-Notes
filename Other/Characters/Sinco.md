@@ -16,4 +16,4 @@ Species: [Meta-Human](../Species/Meta-Human.md)
 
 # Projects
 
-- [Sinco (2025 Remake)](../../Projects/Stories/Sinco%20(2025%20Remake).md)
+- [Sinco (2025 Remake)](../../Projects/Stories/Pre-T-mor/Sinco%20(2025%20Remake).md)

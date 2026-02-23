@@ -2,7 +2,7 @@
 
 # Overview
 
-A retelling of the [Sinco](../../Other/Characters/Sinco.md) story [Sinco Retold](Sinco%20Retold.md).
+A retelling of the [Sinco](../../../Other/Characters/Sinco.md) story [Sinco Retold](Sinco%20Retold.md).
 
 # Links
 
