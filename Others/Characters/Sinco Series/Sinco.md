@@ -21,4 +21,4 @@ Gender: Male
 - [[../../../Projects/Gamedev/Sinco And Portilizen]]
 - [[Sinco Retold]]
 - #sinco
-- [[../../../Projects/Gamedev/T-mor/T-mor ; Overview|T-mor ; Overview]]
+- [[../../../Projects/Gamedev/T-mor/T-mor Overview|T-mor Overview]]
