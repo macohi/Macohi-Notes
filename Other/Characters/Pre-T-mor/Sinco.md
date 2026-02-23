@@ -11,9 +11,11 @@ Species: [Meta-Human](../../Species/Meta-Human.md)
 
 ## Powers
 
-- Enhanced Speed
+- Super Speed
 - Lightning / Electricity Control
 
 # Projects
 
 - [Sinco (2025 Remake)](../../../Projects/Stories/Pre-T-mor/Sinco%20(2025%20Remake).md)
+- [Sinco Retold](../../../Projects/Stories/Pre-T-mor/Sinco%20Retold.md)
+- [Sin Consistencia](../../../Projects/Stories/Pre-T-mor/Sin%20Consistencia.md)
