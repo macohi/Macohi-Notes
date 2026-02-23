@@ -2,9 +2,9 @@
 
 # Overview
 
-A retelling / continuation of [[Sin Consistencia]]
+A retelling / continuation of [Sin Consistencia](Sin%20Consistencia.md)
 
-Connected to [[../../../Portilizen]] via [[../../../Gamedev/Sinco And Portilizen]]
+Connected to [Portilizen](../../../Portilizen.md) via [Sinco And Portilizen](../../../Gamedev/Sinco%20And%20Portilizen.md)
 
 # Links
 

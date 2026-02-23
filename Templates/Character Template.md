@@ -13,6 +13,6 @@ Species: {{species}}
 
 N / A
 
-# Projects, Stories, and Tags
+# Projects
 
 N / A

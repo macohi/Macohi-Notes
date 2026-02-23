@@ -2,7 +2,7 @@
 
 # Overview
 
-AU of [[Sinco (General)]], technically.
+AU of [Sinco](../Sinco/Sinco%20(General).md), technically.
 
 # Links
 

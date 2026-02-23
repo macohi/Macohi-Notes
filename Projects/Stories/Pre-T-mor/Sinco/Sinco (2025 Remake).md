@@ -2,7 +2,7 @@
 
 # Overview
 
-Redo of [[Sinco Retold]] but from the start and with better writing.
+Redo of [Sinco Retold](Sinco%20Retold.md) but from the start and with better writing.
 
 # Links
 

@@ -2,7 +2,7 @@
 
 # Overview
 
-AU of [[Nicom (OG)]]
+AU of [Nicom (OG)](Nicom%20(OG).md)
 
 # Links
 

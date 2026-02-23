@@ -1,4 +1,4 @@
-A variation of regular [[Riryk]]s.
+A variation of regular [Riryk](Riryk.md)s.
 
 More to be like foxes. Cause, yeah.
 

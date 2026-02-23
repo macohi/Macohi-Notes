@@ -2,7 +2,7 @@
 
 # Overview
 
-The cancelled OG story of [[Sinco (General)]]
+The cancelled OG story of [Sinco](Sinco%20(General).md)
 
 # Links
 
