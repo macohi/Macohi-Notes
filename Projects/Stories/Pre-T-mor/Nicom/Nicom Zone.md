@@ -1,3 +1,7 @@
+#story #nicom
+
+# Overview
+
 A connection between:
 
 - [[Nicom (OG)]]
@@ -5,3 +9,7 @@ A connection between:
 - [[Nicom (Goddesses)]]
 
 And more. But things have happened.
+
+# Links
+
+N / A
