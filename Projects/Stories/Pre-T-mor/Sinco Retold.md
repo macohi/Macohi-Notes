@@ -10,7 +10,18 @@ A retelling of the original [Sinco](../../../Other/Characters/Pre-T-mor/Sinco.md
 - Tirok
 - TJ
 - Osin
+
 - Sam4
+
+- Malipor
+- Crepode
+
+- Docaci
+
+- Furosi
+- Yamka / Kiyamot
+
+- Karo
 
 # Links
 
