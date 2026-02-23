@@ -2,7 +2,7 @@
 
 # Overview
 
-Meta-Human teenager
+Meta-Human teenager raised by himself in Tempo City.
 
 Pronouns: He / Him
 Gender: Male
