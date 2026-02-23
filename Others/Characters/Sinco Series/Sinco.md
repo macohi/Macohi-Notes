@@ -20,4 +20,3 @@ Gender: Male
 - [Sinco (General)](../../../Projects/Stories/Pre-T-mor/Sinco/Sinco%20(General).md)
 - [Sinco And Portilizen](../../../Projects/Gamedev/Sinco%20And%20Portilizen.md)
 - [Sinco Retold](../../../Projects/Stories/Pre-T-mor/Sinco/Sinco%20Retold.md)
-- [T-mor](../../../Projects/Gamedev/T-mor/T-mor%20Overview.md)
