@@ -1,4 +1,9 @@
+#story #sinco
+
+# Overview
+
 The cancelled OG story of [[Sinco (General)]]
 
-## Links
+# Links
+
 [Webtoons](https://www.webtoons.com/en/canvas/sin-consistencia-cancelled/list?title_no=1020225)

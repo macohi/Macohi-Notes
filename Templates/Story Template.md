@@ -1,4 +1,4 @@
-#story #macohi #lathol #macohi-and-lathol
+#story 
 
 # Overview
 

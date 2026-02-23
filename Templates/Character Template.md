@@ -1,6 +1,8 @@
-{{bio}}
+#character 
 
 # Overview
+
+{{overview}}
 
 Pronouns: {{pronouns}}
 Gender: {{gender}}
@@ -11,4 +13,6 @@ Species: {{species}}
 
 N / A
 
-# Projects and Stories
+# Projects, Stories, and Tags
+
+N / A
