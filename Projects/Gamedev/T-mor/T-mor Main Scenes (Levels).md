@@ -1,6 +1,6 @@
 #t-mor 
 
-- [[Scenes/T-mor Scene 1|Scene 1]] : Merge Conflict
+- [Scene 1](Scenes/T-mor%20Scene%201.md) : Merge Conflict
 - Scene 2 : ???
 - Scene 3 : ???
 - Scene 4 : ???

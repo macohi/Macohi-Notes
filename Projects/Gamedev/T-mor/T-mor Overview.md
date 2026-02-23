@@ -14,7 +14,7 @@ The main stories that came to mind:
 
 - [[Li Sut]]
 
-- [[Macohi and Lathol]]
+- Macohi and Lathol
 
 Additional stories:
 - [[../../Portilizen]]
