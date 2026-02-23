@@ -7,7 +7,7 @@ Meta-Human teenager raised by himself in Tempo City.
 Pronouns: He / Him
 Gender: Male
 
-Species: [Meta-Human](../Species/Meta-Human.md)
+Species: [Meta-Human](../../Species/Meta-Human.md)
 
 ## Powers
 
@@ -16,4 +16,4 @@ Species: [Meta-Human](../Species/Meta-Human.md)
 
 # Projects
 
-- [Sinco (2025 Remake)](../../Projects/Stories/Pre-T-mor/Sinco%20(2025%20Remake).md)
+- [Sinco (2025 Remake)](../../../Projects/Stories/Pre-T-mor/Sinco%20(2025%20Remake).md)
