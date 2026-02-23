@@ -2,7 +2,7 @@
 
 # Overview
 
-The original [Sinco](../../../Other/Characters/Pre-T-mor/Sinco.md) story.
+The original [Sinco](../../../Other/Characters/Sinco.md) story.
 
 # Links
 

@@ -2,7 +2,7 @@
 
 # Overview
 
-A retelling of the original [Sinco](../../../Other/Characters/Pre-T-mor/Sinco.md) story, [Sin Consistencia](Sin%20Consistencia.md) after it was cancelled.
+A retelling of the original [Sinco](../../../Other/Characters/Sinco.md) story, [Sin Consistencia](Sin%20Consistencia.md) after it was cancelled.
 
 # Links
 
