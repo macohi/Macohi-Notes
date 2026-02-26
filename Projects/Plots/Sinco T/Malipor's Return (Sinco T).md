@@ -1,3 +1,9 @@
+#plot #sinco
+
+| Story Date        |
+| ----------------- |
+| January 7th, 2032 |
+
 After [T-mor](../../Stories/T-mor.md), [Sinco](../../../Other/Characters/Sinco.md)'s moving through Tempo City trying to process all of these new memories, abilities and powers that he has just received.
 
 When all of a sudden a purple blur flies straight at him, colliding and creating a crater in the ground.
