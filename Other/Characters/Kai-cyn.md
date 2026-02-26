@@ -13,6 +13,10 @@ Gender: Males
 
 Species: [Human](../Species/Human.md) (HA_06)
 
+## Alt Names
+
+- Kai
+
 ## Techniques
 
 - Fuerza (hehehe)
