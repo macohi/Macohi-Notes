@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "6e471c2567129fa0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f49feb8ea3336c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "777c8679efe43f92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "8d2a7fd6834b31d8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "086778f6f117a953",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b240134848e1418",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34cda017165404b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1f97272c213f115d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#sinco",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4bc906311ee0474a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f08e0a01e8f8028",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e47eae5dfc4535a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af6b6c9cd3f10bb8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "280fd711686355bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "89fef489c98f2a2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0aac8ccaa8b4547d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "910004ca6f626b62",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          },
+          {
+            "id": "e75e7876739a0a19",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": true,
+      "obsidian-git:Open Git source control": false,
+      "enhance-youtube-links:Get YouTube data": false,
+      "activity-heatmap:Open activity heatmap": false
+    }
+  },
+  "active": "777c8679efe43f92",
+  "lastOpenFiles": [
+    "Projects/Plots/Sinco T/Sinco's Fuerza Training Arc.md",
+    "Other/Species/Human.md",
+    "Projects/Plots/Kai-cyn (Story)/1 Year after discovery.md",
+    "Projects/Plots/Sinco T/Malipor's Return (Sinco T).md",
+    "Projects/Plots/Kai-cyn (Story)/The discovery.md",
+    "Other/Characters/Osin.md",
+    "Projects/Plots/Kai-cyn (Story)/README.md",
+    "Projects/Plots/Kai-cyn (Story)/kaicyn-fuerza20.jpg",
+    "Other/Species/Anohun.md",
+    "Other/Characters/Kai-cyn.md",
+    "Other/Species/Meta-Human.md",
+    "Projects/Plots/Kai-cyn (Story)/kaicyn-thediscovery.jpg",
+    "Projects/Plots/Sinco T/sincot-crash.jpg",
+    "Projects/Plots/Sinco T/sincot-fuerzatraining.jpg",
+    "Daily/2026-02-26.md",
+    "Projects/Stories/Post-T-mor/Kai-cyn (Story).md",
+    "Projects/Stories/Pre-T-mor/Sinco Retold.md",
+    "Templates/Plot Template.md",
+    "Projects/Plots/Sinco T/sincot-malipor.jpg",
+    "Untitled.base",
+    "Templates/Character Template.md",
+    "Projects/Plots/Kai-cyn (Story)",
+    "Other/Characters/TJ.md",
+    "Other/Characters/Tirok.md",
+    "Other/Characters/Sinco.md",
+    "Projects/Stories/Post-T-mor/Sinco T.md",
+    "Daily/2026-02-25.md",
+    "Daily/line-types.jpg",
+    "Daily/Pasted image 20260225201826.png",
+    "Daily/2026-02-24.md",
+    "Daily/line-types-2.jpg",
+    "Projects/Plots/Sinco T",
+    "Projects/Plots",
+    "Templates/Misc Template.md",
+    "Daily/2026-02-23.md",
+    "Projects/Stories/T-mor.md",
+    "Projects/Stories/Pre-T-mor/Sinco (2025 Remake).md",
+    "Untitled.canvas",
+    "Projects/Stories/Pre-T-mor/Sin Consistencia.md",
+    "Other/Characters/Pre-T-mor",
+    "Projects/Stories/Post-T-mor",
+    "Projects/Stories/Pre-T-mor",
+    "Other/Species",
+    "Other/Characters",
+    "Other"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "openBehavior": "daily",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true,
+  "vimMode": false,
+  "showLineNumber": true,
+  "useMarkdownLinks": true
+}
