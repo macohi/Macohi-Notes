@@ -42,4 +42,6 @@ While the human body does adapt, a significant amount of exposure or just evolut
 
 - **Level 5**: Body danger adaption is the same but the pace at first exposure is significantly faster.
 
-- **Level 6+**: Not researched or discovered, but in theory is possible and would just be instantaneous.
+- **Level 6**: Not researched or discovered, but in theory is just a quicker level 5.
+
+- **Level 7+**: Not researched or discovered, but in theory is possible and would just be instantaneous.
