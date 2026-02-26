@@ -19,4 +19,4 @@ Species: [Human](../Species/Human.md) (HA_06)
 
 # Projects
 
-- [Kai-cyn](../../Projects/Stories/Post-T-mor/Kai-cyn.md)
+- [Kai-cyn (Story)](../../Projects/Stories/Post-T-mor/Kai-cyn%20(Story).md)
