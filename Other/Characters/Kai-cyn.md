@@ -1,3 +1,7 @@
+---
+aliases:
+  - Kai
+---
 #character #kaicyn 
 
 # Overview

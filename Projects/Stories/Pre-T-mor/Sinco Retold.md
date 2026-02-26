@@ -6,4 +6,4 @@ A retelling of the original [Sinco](../../../Other/Characters/Sinco.md) story, [
 
 # Links
 
-- [Wattpad](https://www.wattpad.com/story/395331264-sinco-retold-the-11th-lilia-jinbi)
+- [Sinco Retold: The 11th Lilia Jinbi](https://www.wattpad.com/story/395331264-sinco-retold-the-11th-lilia-jinbi)
