@@ -1,4 +1,4 @@
-#plot #kaicyn #sinco (technically)
+#plot #kaicyn #sinco 
 
 | Story Date     |
 | -------------- |
@@ -10,7 +10,7 @@ His opponent stares as Kai falls out of the ring, not even worry washing over hi
 
 The bell rings, and some of the crowd cheers and the winner is stated.
 
-"And the winner is Osin!"
+"And the winner is [Osin](../../../Other/Characters/Osin.md)!"
 
 The crowd roars, and Kai passes out.
 
