@@ -1,8 +1,7 @@
 #plot #kaicyn 
 
-| Story Date         |
-| ------------------ |
-| February 29th 2032 |
-May 11th, 2028,
+| Story Date     |
+| -------------- |
+| June 25th 2032 |
 
-One day, [Kai](../../../Other/Characters/Kai-cyn.md) was working at his job at some
+While [Kai](../../../Other/Characters/Kai-cyn.md) was participating in the 2nd Lilia Jinbi Mini he was struck, HARD. Red electricity flowing through him violently as physics flings him out of the ring
