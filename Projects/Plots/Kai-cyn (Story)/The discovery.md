@@ -1,8 +1,3 @@
----
-aliases:
-  - Kai-cyn (Part 1)
-  - Kai-cyn 1
----
 #plot #kaicyn #sinco (technically)
 
 | Story Date     |
