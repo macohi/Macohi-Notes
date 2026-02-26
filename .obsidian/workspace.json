@@ -214,8 +214,12 @@
       "activity-heatmap:Open activity heatmap": false
     }
   },
-  "active": "777c8679efe43f92",
+  "active": "e75e7876739a0a19",
   "lastOpenFiles": [
+    "hxformat.json",
+    "MakeHTMLPage.hx",
+    "makehtml.hx",
+    "makehtml.py",
     "Projects/Plots/Sinco T/Sinco's Fuerza Training Arc.md",
     "Other/Species/Human.md",
     "Projects/Plots/Kai-cyn (Story)/1 Year after discovery.md",
@@ -254,12 +258,8 @@
     "Projects/Stories/T-mor.md",
     "Projects/Stories/Pre-T-mor/Sinco (2025 Remake).md",
     "Untitled.canvas",
-    "Projects/Stories/Pre-T-mor/Sin Consistencia.md",
     "Other/Characters/Pre-T-mor",
     "Projects/Stories/Post-T-mor",
-    "Projects/Stories/Pre-T-mor",
-    "Other/Species",
-    "Other/Characters",
-    "Other"
+    "Projects/Stories/Pre-T-mor"
   ]
 }
