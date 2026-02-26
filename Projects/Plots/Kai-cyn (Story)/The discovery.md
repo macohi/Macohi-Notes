@@ -13,3 +13,5 @@ The bell rings, and some of the crowd cheers and the winner is stated.
 "And the winner is Osin!"
 
 The crowd roars, and Kai passes out.
+
+Hours later, Kai wakes up in the Lilia Jinbi building in the healthcare section. He's almost completely healed, just pain here and there.
