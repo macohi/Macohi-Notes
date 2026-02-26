@@ -22,12 +22,12 @@ A doctor comes into the room, smiling.
 
 "Correct about what?" Kai asked. Confused.
 
-"After watching over your condition after your initial knockout I came to the theory you were one of the humans with the HA 2 anomaly. But later, closer to now, I've realized you have the HA 6 anomaly, a merging of HA 2 and 5. Definitely one of the earlier levels, no more then 4, there'd have to be more instances of your anomaly coming into effect.."
+"After watching over your condition after your initial knockout I came to the theory you are a [Anohun](../../../Other/Species/Anohun.md) with the HA 2 type. But later, closer to now, I've realized you have the HA 6 type, a merging of HA 2 and 5. Definitely one of the earlier levels, no more then 4, there'd have to be more instances of your anomaly coming into effect for an exact estimation..."
 
 Kai stares at the doctor, silence fills the room for seconds that feel like days.
 "And what are those?"
 
-"Oh, I'm sorry. HA 2 is Hiclin, it's basically a person who heals faster then normal, and even faster depending on the level, and HA 5 is Zekin and it makes your body adapt faster and with less exposure then normal."
+"Oh, I'm sorry. Anohuns are humans with anomalies, like how Meta-Humans have powers, but Anohuns are usually just minor mutations or quirks in comparison. HA 2 is Hiclin, it's basically a person who heals faster then normal, and even faster depending on the level, and HA 5 is Zekin and it makes your body adapt faster and with less exposure then normal."
 
 "So... I heal faster and adapt quicker to danger?"
 
@@ -44,3 +44,5 @@ Kai stares at the doctor, silence fills the room for seconds that feel like days
 "Oh, could've been worse."
 
 After a couple more hours, Kai is fully healed, pays the bill ($85.50), and leaves for home, now with the knowledge of his healing factor and adaptation.
+
+![](kaicyn-thediscovery.jpg)
