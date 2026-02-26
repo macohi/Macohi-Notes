@@ -45,3 +45,7 @@ While the human body does adapt, a significant amount of exposure or just evolut
 - **Level 6**: Not researched or discovered, but in theory is just a quicker level 5.
 
 - **Level 7+**: Not researched or discovered, but in theory is possible and would just be instantaneous.
+
+### Healing Factor Body Adaptation (HA_06 : Zekin y Hiclin)
+
+A merging of **HA_02** (Hiclin) and **HA_05** (Zekin).
