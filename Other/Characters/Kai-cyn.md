@@ -15,7 +15,7 @@ So basically a Saiyan with Kaio-Ken and healing powers.
 Pronouns: He / Him
 Gender: Males
 
-Species: [Human](../Species/Human.md) (HA_06)
+Species: [Human](../Species/Human.md) (HA_06 Level 3)
 
 ## Alt Names
 
