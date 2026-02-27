@@ -96,9 +96,9 @@
       "fileSize": 547
     },
     "Other/Characters/Kai-cyn.md": {
-      "mtime": 1772145219141,
-      "wordCount": 87,
-      "fileSize": 574
+      "mtime": 1772151355421,
+      "wordCount": 89,
+      "fileSize": 583
     },
     "Templates/Story Template.md": {
       "mtime": 1771844655130,
@@ -111,9 +111,9 @@
       "fileSize": 53
     },
     "Templates/Character Template.md": {
-      "mtime": 1772074889652,
-      "wordCount": 25,
-      "fileSize": 169
+      "mtime": 1772151363269,
+      "wordCount": 27,
+      "fileSize": 182
     },
     "Templates/Species Template.md": {
       "mtime": 1771815229265,
@@ -163,8 +163,8 @@
   },
   "activityOverTime": {
     "2026-02-26": {
-      "wordCount": 180,
-      "fileSize": 1607
+      "wordCount": 184,
+      "fileSize": 1629
     }
   }
 }

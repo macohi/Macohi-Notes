@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Characters/Osin.md",
+                "file": "Templates/Plot Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Osin"
+              "title": "Plot Template"
             }
           },
           {
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/Characters/Osin.md",
+                "file": "Templates/Plot Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Osin"
+              "title": "Outline of Plot Template"
             }
           },
           {
@@ -216,8 +216,13 @@
   },
   "active": "777c8679efe43f92",
   "lastOpenFiles": [
-    "Other/Characters/Sinco.md",
+    "Templates/Story Template.md",
+    "Templates/Species Template.md",
+    "Templates/Character Template.md",
+    "Templates/Plot Template.md",
     "Other/Characters/Kai-cyn.md",
+    "Other/Characters/Osin.md",
+    "Other/Characters/Sinco.md",
     "README.md",
     "filesize/Templates/Story Template.html",
     "filesize/Templates/Species Template.html",
@@ -247,11 +252,6 @@
     "filesize/Projects/Plots/Kai-cyn (Story)/1 Year after discovery.md",
     "filesize/Other/Species/Meta-Human.md",
     "filesize/Other/Species/Human.md",
-    "filesize/Other/Species/Anohun.md",
-    "filesize/Other/Characters/TJ.md",
-    "filesize/Other/Characters/Tirok.md",
-    "filesize/Other/Characters/Osin.md",
-    "filesize/Other/Characters/Sinco.md",
     "Projects/Plots/Kai-cyn (Story)/kaicyn-fuerza20.jpg",
     "Projects/Plots/Kai-cyn (Story)/kaicyn-thediscovery.jpg",
     "Projects/Plots/Sinco T/sincot-crash.jpg",

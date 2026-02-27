@@ -13,7 +13,7 @@ Species: {{species}}
 
 {{alt_names}}
 
-## Powers
+## Powers / Techniques
 
 N / A
 

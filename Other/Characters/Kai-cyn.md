@@ -21,7 +21,7 @@ Species: [Anohun](../Species/Anohun.md) (HA_06 Level 3)
 
 - Kai
 
-## Techniques
+## Powers / Techniques
 
 - Fuerza (hehehe)
 
