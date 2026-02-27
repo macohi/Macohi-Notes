@@ -35,13 +35,18 @@
             "id": "8d2a7fd6834b31d8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "diff-view",
+              "state": {
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
+                "aRef": ""
+              },
+              "icon": "git-pull-request",
+              "title": "Diff: graph.json"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sinco",
+                "query": "tag:#story",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +99,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,13 +180,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Plot Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Plot Template"
+              "title": "Outline"
             }
           },
           {
@@ -214,12 +219,13 @@
       "activity-heatmap:Open activity heatmap": false
     }
   },
-  "active": "777c8679efe43f92",
+  "active": "8d2a7fd6834b31d8",
   "lastOpenFiles": [
+    "Daily/2026-02-26.md",
+    "Templates/Plot Template.md",
     "Templates/Story Template.md",
     "Templates/Species Template.md",
     "Templates/Character Template.md",
-    "Templates/Plot Template.md",
     "Other/Characters/Kai-cyn.md",
     "Other/Characters/Osin.md",
     "Other/Characters/Sinco.md",
@@ -251,7 +257,6 @@
     "filesize/Projects/Plots/Kai-cyn (Story)/README.md",
     "filesize/Projects/Plots/Kai-cyn (Story)/1 Year after discovery.md",
     "filesize/Other/Species/Meta-Human.md",
-    "filesize/Other/Species/Human.md",
     "Projects/Plots/Kai-cyn (Story)/kaicyn-fuerza20.jpg",
     "Projects/Plots/Kai-cyn (Story)/kaicyn-thediscovery.jpg",
     "Projects/Plots/Sinco T/sincot-crash.jpg",
