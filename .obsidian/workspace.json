@@ -11,24 +11,10 @@
             "id": "777c8679efe43f92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other/Characters/Osin.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Osin"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -164,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/Characters/Osin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Osin"
+              "title": "Outline"
             }
           },
           {
@@ -206,8 +191,8 @@
   },
   "active": "777c8679efe43f92",
   "lastOpenFiles": [
-    "Other/Characters/Kai-cyn.md",
     "Other/Characters/Osin.md",
+    "Other/Characters/Kai-cyn.md",
     "Other/Characters/Sinco.md",
     "Other/Characters/Tirok.md",
     "Other/Characters/TJ.md",
