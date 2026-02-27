@@ -11,10 +11,14 @@
             "id": "777c8679efe43f92",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "git-pull-request",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -191,6 +195,7 @@
   },
   "active": "777c8679efe43f92",
   "lastOpenFiles": [
+    "README.md",
     "Other/Characters/Osin.md",
     "Other/Characters/Kai-cyn.md",
     "Other/Characters/Sinco.md",
@@ -216,7 +221,6 @@
     "Templates/Plot Template.md",
     "Templates/Story Template.md",
     "Templates/Species Template.md",
-    "README.md",
     "filesize/Templates/Story Template.html",
     "filesize/Templates/Species Template.html",
     "filesize/Templates/Plot Template.html",
