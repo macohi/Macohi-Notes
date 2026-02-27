@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Plot Template.md",
+                "file": "Projects/Stories/Post-T-mor/Sinco T.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,25 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Plot Template"
-            }
-          },
-          {
-            "id": "8d2a7fd6834b31d8",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
-                "aRef": ""
-              },
-              "icon": "git-pull-request",
-              "title": "Diff: graph.json"
+              "title": "Sinco T"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,12 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Projects/Stories/Post-T-mor/Sinco T.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Sinco T"
             }
           },
           {
@@ -219,8 +204,19 @@
       "activity-heatmap:Open activity heatmap": false
     }
   },
-  "active": "8d2a7fd6834b31d8",
+  "active": "34cda017165404b9",
   "lastOpenFiles": [
+    "Other/Images/line-types.jpg",
+    "Other/Images/Pasted image 20260225201826.png",
+    "Other/Images/line-types-2.jpg",
+    "Other/Images/sincot-malipor.jpg",
+    "Other/Images/sincot-fuerzatraining.jpg",
+    "Other/Images/kaicyn-fuerza20.jpg",
+    "Other/Images/sincot-crash.jpg",
+    "Other/Images",
+    "Projects/Plots/Sinco T/images",
+    "Projects/Plots/Kai-cyn (Story)/1 Year after discovery.md",
+    "Projects/Plots/Kai-cyn (Story)/images",
     "Daily/2026-02-26.md",
     "Templates/Plot Template.md",
     "Templates/Story Template.md",
@@ -237,9 +233,6 @@
     "filesize/Templates",
     "filesize/README.html",
     "filesize/Projects/Stories/T-mor.html",
-    "filesize/Projects/Stories/Pre-T-mor/Sinco (2025 Remake).html",
-    "filesize/Projects/Stories/Pre-T-mor/Sinco Retold.html",
-    "filesize/Projects/Stories/Pre-T-mor/Sin Consistencia.html",
     "filesize/Templates/Story Template.md",
     "filesize/Templates/Species Template.md",
     "filesize/Templates/Plot Template.md",
@@ -255,16 +248,7 @@
     "filesize/Projects/Plots/Sinco T/Malipor's Return (Sinco T).md",
     "filesize/Projects/Plots/Kai-cyn (Story)/The discovery.md",
     "filesize/Projects/Plots/Kai-cyn (Story)/README.md",
-    "filesize/Projects/Plots/Kai-cyn (Story)/1 Year after discovery.md",
-    "filesize/Other/Species/Meta-Human.md",
-    "Projects/Plots/Kai-cyn (Story)/kaicyn-fuerza20.jpg",
-    "Projects/Plots/Kai-cyn (Story)/kaicyn-thediscovery.jpg",
-    "Projects/Plots/Sinco T/sincot-crash.jpg",
-    "Projects/Plots/Sinco T/sincot-fuerzatraining.jpg",
-    "Projects/Plots/Sinco T/sincot-malipor.jpg",
-    "Daily/line-types.jpg",
-    "Daily/Pasted image 20260225201826.png",
-    "Daily/line-types-2.jpg",
+    "Other/Images/kaicyn-thediscovery.jpg",
     "Untitled.canvas"
   ]
 }

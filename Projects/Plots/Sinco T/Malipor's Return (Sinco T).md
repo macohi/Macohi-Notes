@@ -16,7 +16,7 @@ Suddenly a flash a memories flicker in his mind.
 
 "Malipor! You piece of shit you just won't stay DEAD."
 
-![](sincot-malipor.jpg)
+![](../../../Other/Images/sincot-malipor.jpg)
 (Malipor Drawing inspired by [Powerjack (JP Mix)](https://www.youtube.com/watch?v=sWA9LD6a_xE))
 
 "Not when I have a chance to put your face in the DIRT."

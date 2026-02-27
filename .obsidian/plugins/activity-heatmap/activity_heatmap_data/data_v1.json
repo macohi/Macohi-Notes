@@ -1,19 +1,19 @@
 {
   "checkpoints": {
     "Projects/Plots/Sinco T/Sinco's Fuerza Training Arc.md": {
-      "mtime": 1772145773463,
+      "mtime": 1772152186067,
       "wordCount": 41,
-      "fileSize": 402
+      "fileSize": 446
     },
     "Projects/Plots/Sinco T/Malipor's Return (Sinco T).md": {
-      "mtime": 1772076232066,
+      "mtime": 1772152186044,
       "wordCount": 263,
-      "fileSize": 1691
+      "fileSize": 1713
     },
     "Projects/Plots/Kai-cyn (Story)/1 Year after discovery.md": {
-      "mtime": 1772145697059,
+      "mtime": 1772152179330,
       "wordCount": 66,
-      "fileSize": 495
+      "fileSize": 517
     },
     "Projects/Plots/Kai-cyn (Story)/README.md": {
       "mtime": 1772143630452,
@@ -21,9 +21,9 @@
       "fileSize": 59
     },
     "Projects/Plots/Kai-cyn (Story)/The discovery.md": {
-      "mtime": 1772145688476,
+      "mtime": 1772152179311,
       "wordCount": 364,
-      "fileSize": 2194
+      "fileSize": 2216
     },
     "Projects/Stories/Pre-T-mor/Sinco Retold.md": {
       "mtime": 1772076544482,
@@ -126,14 +126,14 @@
       "fileSize": 15
     },
     "Daily/2026-02-25.md": {
-      "mtime": 1772072310208,
+      "mtime": 1772152202816,
       "wordCount": 71,
-      "fileSize": 462
+      "fileSize": 478
     },
     "Daily/2026-02-24.md": {
-      "mtime": 1771977734372,
+      "mtime": 1772152202781,
       "wordCount": 61,
-      "fileSize": 387
+      "fileSize": 403
     },
     "Daily/2026-02-23.md": {
       "mtime": 1771850469481,
@@ -164,7 +164,7 @@
   "activityOverTime": {
     "2026-02-26": {
       "wordCount": 184,
-      "fileSize": 1629
+      "fileSize": 1771
     }
   }
 }

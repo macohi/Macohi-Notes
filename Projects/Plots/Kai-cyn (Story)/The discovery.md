@@ -45,4 +45,4 @@ Kai stares at the doctor, silence fills the room for seconds that feel like days
 
 After a couple more hours, Kai is fully healed, pays the bill ($85.50), and leaves for home, now with the knowledge of his healing factor and adaptation.
 
-![](kaicyn-thediscovery.jpg)
+![](../../../Other/Images/kaicyn-thediscovery.jpg)
