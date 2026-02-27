@@ -11,24 +11,10 @@
             "id": "777c8679efe43f92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Stories/Post-T-mor/Sinco T.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sinco T"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -164,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Stories/Post-T-mor/Sinco T.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sinco T"
+              "title": "Outline"
             }
           },
           {
@@ -204,8 +189,9 @@
       "activity-heatmap:Open activity heatmap": false
     }
   },
-  "active": "34cda017165404b9",
+  "active": "777c8679efe43f92",
   "lastOpenFiles": [
+    "Projects/Stories/Post-T-mor/Sinco T.md",
     "Other/Images/line-types.jpg",
     "Other/Images/Pasted image 20260225201826.png",
     "Other/Images/line-types-2.jpg",
