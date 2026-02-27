@@ -76,24 +76,24 @@
       "fileSize": 345
     },
     "Other/Characters/Osin.md": {
-      "mtime": 1772151259267,
-      "wordCount": 25,
-      "fileSize": 169
+      "mtime": 1772152780504,
+      "wordCount": 51,
+      "fileSize": 587
     },
     "Other/Characters/Tirok.md": {
-      "mtime": 1771845851974,
-      "wordCount": 53,
-      "fileSize": 561
+      "mtime": 1772152639847,
+      "wordCount": 55,
+      "fileSize": 574
     },
     "Other/Characters/Sinco.md": {
-      "mtime": 1771845846052,
-      "wordCount": 46,
-      "fileSize": 543
+      "mtime": 1772152679417,
+      "wordCount": 53,
+      "fileSize": 580
     },
     "Other/Characters/TJ.md": {
-      "mtime": 1771845116397,
-      "wordCount": 46,
-      "fileSize": 547
+      "mtime": 1772152637651,
+      "wordCount": 48,
+      "fileSize": 560
     },
     "Other/Characters/Kai-cyn.md": {
       "mtime": 1772151355421,
@@ -163,8 +163,8 @@
   },
   "activityOverTime": {
     "2026-02-26": {
-      "wordCount": 184,
-      "fileSize": 1771
+      "wordCount": 245,
+      "fileSize": 2424
     }
   }
 }

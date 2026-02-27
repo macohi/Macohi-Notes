@@ -11,10 +11,24 @@
             "id": "777c8679efe43f92",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Other/Characters/Osin.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Osin"
             }
           }
         ]
@@ -150,12 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Other/Characters/Osin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Osin"
             }
           },
           {
@@ -191,6 +206,15 @@
   },
   "active": "777c8679efe43f92",
   "lastOpenFiles": [
+    "Other/Characters/Kai-cyn.md",
+    "Other/Characters/Osin.md",
+    "Other/Characters/Sinco.md",
+    "Other/Characters/Tirok.md",
+    "Other/Characters/TJ.md",
+    "Templates/Character Template.md",
+    "Projects/Stories/Pre-T-mor/Sin Consistencia.md",
+    "Projects/Stories/Pre-T-mor/Sinco (2025 Remake).md",
+    "Projects/Stories/Pre-T-mor/Sinco Retold.md",
     "Projects/Stories/Post-T-mor/Sinco T.md",
     "Other/Images/line-types.jpg",
     "Other/Images/Pasted image 20260225201826.png",
@@ -207,10 +231,6 @@
     "Templates/Plot Template.md",
     "Templates/Story Template.md",
     "Templates/Species Template.md",
-    "Templates/Character Template.md",
-    "Other/Characters/Kai-cyn.md",
-    "Other/Characters/Osin.md",
-    "Other/Characters/Sinco.md",
     "README.md",
     "filesize/Templates/Story Template.html",
     "filesize/Templates/Species Template.html",
@@ -229,11 +249,6 @@
     "filesize/Projects/Stories/Pre-T-mor/Sin Consistencia.md",
     "filesize/Projects/Stories/Post-T-mor/Sinco T.md",
     "filesize/Projects/Stories/Post-T-mor/Kai-cyn (Story).md",
-    "filesize/Projects/Stories/T-mor.md",
-    "filesize/Projects/Plots/Sinco T/Sinco's Fuerza Training Arc.md",
-    "filesize/Projects/Plots/Sinco T/Malipor's Return (Sinco T).md",
-    "filesize/Projects/Plots/Kai-cyn (Story)/The discovery.md",
-    "filesize/Projects/Plots/Kai-cyn (Story)/README.md",
     "Other/Images/kaicyn-thediscovery.jpg",
     "Untitled.canvas"
   ]

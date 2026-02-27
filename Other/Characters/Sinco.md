@@ -9,7 +9,10 @@ Gender: Male
 
 Species: [Meta-Human](../../Species/Meta-Human.md)
 
-## Powers
+## Powers / Techniques
+
+- Hyper Kaeti
+- Fuerza
 
 - Super Speed
 - Lightning / Electricity Control

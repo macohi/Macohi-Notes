@@ -9,7 +9,7 @@ Gender: Male
 
 Species: [Meta-Human](../../Species/Meta-Human.md)
 
-## Powers
+## Powers / Techniques
 
 - Super Speed
 

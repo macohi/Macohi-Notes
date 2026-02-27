@@ -1,22 +1,24 @@
-#character 
+#character #sinco
 
 # Overview
 
-{{overview}}
+Clone of [Sinco](Sinco.md) created by [Tirok](Tirok.md)
 
-Pronouns: {{pronouns}}
-Gender: {{gender}}
+Pronouns: He / Him
+Gender: Male
 
-Species: {{species}}
+Species: [Meta-Human](../Species/Meta-Human.md)
 
-## Alt Names
+## Powers / Techniques
 
-{{alt_names}}
+- Hyper Kaeti (Retold Version)
 
-## Powers
-
-N / A
+- Super Speed
+- Lightning / Electricity Control
 
 # Projects
 
-N / A
+- [Sinco (2025 Remake)](../../../Projects/Stories/Pre-T-mor/Sinco%20(2025%20Remake).md)
+- [Sinco Retold](../../../Projects/Stories/Pre-T-mor/Sinco%20Retold.md)
+- [Sin Consistencia](../../../Projects/Stories/Pre-T-mor/Sin%20Consistencia.md)
+- [Sinco T](../../Projects/Stories/Post-T-mor/Sinco%20T.md)

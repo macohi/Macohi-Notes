@@ -11,7 +11,7 @@ Gender: Male
 
 Species: [Human](../../Species/Human.md)
 
-## Powers
+## Powers / Techniques
 
 None
 
