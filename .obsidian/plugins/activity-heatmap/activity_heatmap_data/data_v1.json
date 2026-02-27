@@ -76,9 +76,9 @@
       "fileSize": 345
     },
     "Other/Characters/Osin.md": {
-      "mtime": 1772145670767,
-      "wordCount": 1,
-      "fileSize": 0
+      "mtime": 1772151259267,
+      "wordCount": 25,
+      "fileSize": 169
     },
     "Other/Characters/Tirok.md": {
       "mtime": 1771845851974,
@@ -139,12 +139,32 @@
       "mtime": 1771850469481,
       "wordCount": 56,
       "fileSize": 345
+    },
+    "filesize/Daily/2026-02-23.md": {
+      "mtime": 1772149259808,
+      "wordCount": 1,
+      "fileSize": 0
+    },
+    "filesize/Daily/2026-02-24.md": {
+      "mtime": 1772149259880,
+      "wordCount": 1,
+      "fileSize": 0
+    },
+    "filesize/Daily/2026-02-25.md": {
+      "mtime": 1772149259891,
+      "wordCount": 1,
+      "fileSize": 0
+    },
+    "filesize/Daily/2026-02-26.md": {
+      "mtime": 1772149259902,
+      "wordCount": 1,
+      "fileSize": 0
     }
   },
   "activityOverTime": {
     "2026-02-26": {
-      "wordCount": 152,
-      "fileSize": 1438
+      "wordCount": 180,
+      "fileSize": 1607
     }
   }
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Other/Characters/Osin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Osin"
             }
           },
           {
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Other/Characters/Osin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Osin"
             }
           },
           {
@@ -214,52 +214,52 @@
       "activity-heatmap:Open activity heatmap": false
     }
   },
-  "active": "e75e7876739a0a19",
+  "active": "777c8679efe43f92",
   "lastOpenFiles": [
-    "hxformat.json",
-    "MakeHTMLPage.hx",
-    "makehtml.hx",
-    "makehtml.py",
-    "Projects/Plots/Sinco T/Sinco's Fuerza Training Arc.md",
-    "Other/Species/Human.md",
-    "Projects/Plots/Kai-cyn (Story)/1 Year after discovery.md",
-    "Projects/Plots/Sinco T/Malipor's Return (Sinco T).md",
-    "Projects/Plots/Kai-cyn (Story)/The discovery.md",
-    "Other/Characters/Osin.md",
-    "Projects/Plots/Kai-cyn (Story)/README.md",
-    "Projects/Plots/Kai-cyn (Story)/kaicyn-fuerza20.jpg",
-    "Other/Species/Anohun.md",
+    "Other/Characters/Sinco.md",
     "Other/Characters/Kai-cyn.md",
-    "Other/Species/Meta-Human.md",
+    "README.md",
+    "filesize/Templates/Story Template.html",
+    "filesize/Templates/Species Template.html",
+    "filesize/Templates/Plot Template.html",
+    "filesize/Templates/Character Template.html",
+    "filesize/Templates",
+    "filesize/README.html",
+    "filesize/Projects/Stories/T-mor.html",
+    "filesize/Projects/Stories/Pre-T-mor/Sinco (2025 Remake).html",
+    "filesize/Projects/Stories/Pre-T-mor/Sinco Retold.html",
+    "filesize/Projects/Stories/Pre-T-mor/Sin Consistencia.html",
+    "filesize/Templates/Story Template.md",
+    "filesize/Templates/Species Template.md",
+    "filesize/Templates/Plot Template.md",
+    "filesize/Templates/Character Template.md",
+    "filesize/README.md",
+    "filesize/Projects/Stories/Pre-T-mor/Sinco Retold.md",
+    "filesize/Projects/Stories/Pre-T-mor/Sinco (2025 Remake).md",
+    "filesize/Projects/Stories/Pre-T-mor/Sin Consistencia.md",
+    "filesize/Projects/Stories/Post-T-mor/Sinco T.md",
+    "filesize/Projects/Stories/Post-T-mor/Kai-cyn (Story).md",
+    "filesize/Projects/Stories/T-mor.md",
+    "filesize/Projects/Plots/Sinco T/Sinco's Fuerza Training Arc.md",
+    "filesize/Projects/Plots/Sinco T/Malipor's Return (Sinco T).md",
+    "filesize/Projects/Plots/Kai-cyn (Story)/The discovery.md",
+    "filesize/Projects/Plots/Kai-cyn (Story)/README.md",
+    "filesize/Projects/Plots/Kai-cyn (Story)/1 Year after discovery.md",
+    "filesize/Other/Species/Meta-Human.md",
+    "filesize/Other/Species/Human.md",
+    "filesize/Other/Species/Anohun.md",
+    "filesize/Other/Characters/TJ.md",
+    "filesize/Other/Characters/Tirok.md",
+    "filesize/Other/Characters/Osin.md",
+    "filesize/Other/Characters/Sinco.md",
+    "Projects/Plots/Kai-cyn (Story)/kaicyn-fuerza20.jpg",
     "Projects/Plots/Kai-cyn (Story)/kaicyn-thediscovery.jpg",
     "Projects/Plots/Sinco T/sincot-crash.jpg",
     "Projects/Plots/Sinco T/sincot-fuerzatraining.jpg",
-    "Daily/2026-02-26.md",
-    "Projects/Stories/Post-T-mor/Kai-cyn (Story).md",
-    "Projects/Stories/Pre-T-mor/Sinco Retold.md",
-    "Templates/Plot Template.md",
     "Projects/Plots/Sinco T/sincot-malipor.jpg",
-    "Untitled.base",
-    "Templates/Character Template.md",
-    "Projects/Plots/Kai-cyn (Story)",
-    "Other/Characters/TJ.md",
-    "Other/Characters/Tirok.md",
-    "Other/Characters/Sinco.md",
-    "Projects/Stories/Post-T-mor/Sinco T.md",
-    "Daily/2026-02-25.md",
     "Daily/line-types.jpg",
     "Daily/Pasted image 20260225201826.png",
-    "Daily/2026-02-24.md",
     "Daily/line-types-2.jpg",
-    "Projects/Plots/Sinco T",
-    "Projects/Plots",
-    "Templates/Misc Template.md",
-    "Daily/2026-02-23.md",
-    "Projects/Stories/T-mor.md",
-    "Projects/Stories/Pre-T-mor/Sinco (2025 Remake).md",
-    "Untitled.canvas",
-    "Other/Characters/Pre-T-mor",
-    "Projects/Stories/Post-T-mor",
-    "Projects/Stories/Pre-T-mor"
+    "Untitled.canvas"
   ]
 }
