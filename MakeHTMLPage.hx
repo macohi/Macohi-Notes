@@ -72,6 +72,29 @@ class MakeHTMLPage {
 		for (dir => paths in reads) {
 			trace(' * $dir (${paths.length} items)');
 		}
+
+		// --- Generate index.md ---
+		var index = new StringBuf();
+		index.add("# Index\n\n");
+
+		for (dir => paths in reads) {
+			if (paths.length == 0)
+				continue;
+
+			index.add("## " + dir + "\n\n");
+
+			for (path in paths) {
+				if (Path.extension(path) == "md") {
+					var name = Path.withoutExtension(Path.withoutDirectory(path));
+					index.add("- [" + name + "](" + path + ")\n");
+				}
+			}
+
+			index.add("\n");
+		}
+
+		File.saveContent("./index.md", index.toString());
+		trace("Generated ./index.md");
 	}
 }
 
