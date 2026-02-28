@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df10520c3e5f0392",
+        "id": "5d561a0537bf6bcd",
         "type": "tabs",
         "children": [
           {
-            "id": "960d9868f19fe980",
+            "id": "b5eff7612e065452",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -203,12 +203,13 @@
       "activity-heatmap:Open activity heatmap": false
     }
   },
-  "active": "960d9868f19fe980",
+  "active": "b5eff7612e065452",
   "lastOpenFiles": [
+    "README.md",
+    "Other/Ideas/Sinco T Arc Ideas.md",
     "Projects/Stories/T-mor.md",
     "Projects/Stories/Post-T-mor/Sinco T.md",
     "Projects/Stories/Post-T-mor/Kai-cyn (Story).md",
-    "Other/Ideas/Sinco T Arc Ideas.md",
     "Other/Ideas/Sinco T",
     "Other/Characters/Kai-cyn.md",
     "Other/Ideas",
@@ -221,7 +222,6 @@
     "Projects/Stories/Pre-T-mor/Sinco (2025 Remake).md",
     "Projects/Stories/Pre-T-mor/Sin Consistencia.md",
     "Projects/Stories/Pre-T-mor/Sinco Retold.md",
-    "README.md",
     "Other/Characters/Osin.md",
     "Other/Characters/Sinco.md",
     "Other/Characters/Tirok.md",
