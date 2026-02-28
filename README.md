@@ -4,8 +4,8 @@ My "Maochi Notes" Obsidian Vault
 ```contributionGraph
 title: Contributions
 graphType: default
-dateRangeValue: 4
-dateRangeType: LATEST_MONTH
+dateRangeValue: 1
+dateRangeType: LATEST_YEAR
 startOfWeek: 0
 showCellRuleIndicators: true
 titleStyle:

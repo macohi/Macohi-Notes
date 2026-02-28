@@ -18,3 +18,11 @@ A battle then ensues between Knuren and Sinco against Tirok and his new robot ar
 
 Once Knuren and Sinco are done with the fight, Tirok performs a flashing technique (Solar Flare hmmm???) that blinds Sinco and Knuren and escapes with a Master Emerald Shard.
 
+Knuren then grabs the other Master Emerald Shard and attempts to fly at Tirok with Sinco following suit, Tirok notices and then performs the technique again, this time swiping the Master Emerald Shard from Knuren and striking both Sinco and Osin down.
+
+Tirok uses the Master Emerald Shard to blow up the planet Sinco and Knuren fall onto and they drift in space.
+
+# Part 3 : Space Tournament Arc
+
+Sinco and Knuren wake up on a new planet, welcomed by alien folk they've not seen before.
+
