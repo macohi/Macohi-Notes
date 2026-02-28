@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "777c8679efe43f92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-02-28.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-28"
-            }
-          },
-          {
             "id": "b699fbc930d9fb95",
             "type": "leaf",
             "state": {
@@ -215,8 +191,9 @@
       "activity-heatmap:Open activity heatmap": false
     }
   },
-  "active": "777c8679efe43f92",
+  "active": "e75e7876739a0a19",
   "lastOpenFiles": [
+    "Daily/2026-02-27.md",
     "Daily/2026-02-28.md",
     "filesize/index.html",
     "index.md",
@@ -226,7 +203,6 @@
     "Projects/Stories/Pre-T-mor/Sin Consistencia.md",
     "Projects/Stories/Pre-T-mor/Sinco Retold.md",
     "Projects/Stories/T-mor.md",
-    "Daily/2026-02-27.md",
     "README.md",
     "Other/Characters/Osin.md",
     "Other/Characters/Kai-cyn.md",
