@@ -228,7 +228,17 @@ class MarkdownToHtml {
 		text = ~/\*(.*?)\*/g.replace(text, "<em>$1</em>");
 
 		// Links [text](url)
-		text = ~/\[([^\]]+)\]\(([^)]+)\)/g.replace(text, '<a href="$2">$1</a>');
+		text = ~/\[([^\]]+)\]\(([^)]+)\)/g.replace(text, function(r) {
+			var label = r.matched(1);
+			var url = r.matched(2);
+
+			// If link points to a markdown file, convert to html
+			if (StringTools.endsWith(url, ".md")) {
+				url = url.substr(0, url.length - 3) + ".html";
+			}
+
+			return '<a href="' + url + '">' + label + '</a>';
+		});
 
 		return text;
 	}
