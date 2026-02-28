@@ -41,9 +41,9 @@
       "fileSize": 200
     },
     "Projects/Stories/T-mor.md": {
-      "mtime": 1772259263246,
+      "mtime": 1772259412820,
       "wordCount": 38,
-      "fileSize": 262
+      "fileSize": 261
     },
     "Projects/Stories/Post-T-mor/Kai-cyn (Story).md": {
       "mtime": 1772074483970,
@@ -51,7 +51,7 @@
       "fileSize": 392
     },
     "Projects/Stories/Post-T-mor/Sinco T.md": {
-      "mtime": 1772259279965,
+      "mtime": 1772259409490,
       "wordCount": 16,
       "fileSize": 219
     },
@@ -159,6 +159,11 @@
       "mtime": 1772149259902,
       "wordCount": 1,
       "fileSize": 0
+    },
+    "Other/Ideas/Sinco T Arc Ideas.md": {
+      "mtime": 1772259428378,
+      "wordCount": 11,
+      "fileSize": 50
     }
   },
   "activityOverTime": {
@@ -183,8 +188,8 @@
       "fileSize": 1563
     },
     "2026-02-28": {
-      "wordCount": 3,
-      "fileSize": 199
+      "wordCount": 20,
+      "fileSize": 298
     }
   }
 }
