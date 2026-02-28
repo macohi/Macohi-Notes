@@ -13,12 +13,24 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
+                "aFile": "Daily/2026-02-27.md",
+                "bFile": "Daily/2026-02-27.md",
                 "aRef": ""
               },
               "icon": "git-pull-request",
-              "title": "Diff: graph.json"
+              "title": "Diff: 2026-02-27"
+            }
+          },
+          {
+            "id": "b699fbc930d9fb95",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
         ]
@@ -195,7 +207,11 @@
   },
   "active": "777c8679efe43f92",
   "lastOpenFiles": [
+    "Projects/Stories/Pre-T-mor/Sinco (2025 Remake).md",
+    "Projects/Stories/Pre-T-mor/Sin Consistencia.md",
+    "Projects/Stories/Pre-T-mor/Sinco Retold.md",
     "Projects/Stories/T-mor.md",
+    "Daily/2026-02-27.md",
     "README.md",
     "Other/Characters/Osin.md",
     "Other/Characters/Kai-cyn.md",
@@ -203,9 +219,6 @@
     "Other/Characters/Tirok.md",
     "Other/Characters/TJ.md",
     "Templates/Character Template.md",
-    "Projects/Stories/Pre-T-mor/Sin Consistencia.md",
-    "Projects/Stories/Pre-T-mor/Sinco (2025 Remake).md",
-    "Projects/Stories/Pre-T-mor/Sinco Retold.md",
     "Projects/Stories/Post-T-mor/Sinco T.md",
     "Other/Images/line-types.jpg",
     "Other/Images/Pasted image 20260225201826.png",
@@ -237,7 +250,6 @@
     "filesize/Projects/Stories/Pre-T-mor/Sinco Retold.md",
     "filesize/Projects/Stories/Pre-T-mor/Sinco (2025 Remake).md",
     "filesize/Projects/Stories/Pre-T-mor/Sin Consistencia.md",
-    "filesize/Projects/Stories/Post-T-mor/Sinco T.md",
     "Other/Images/kaicyn-thediscovery.jpg",
     "Untitled.canvas"
   ]
