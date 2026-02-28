@@ -11,14 +11,24 @@
             "id": "777c8679efe43f92",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Daily/2026-02-27.md",
-                "bFile": "Daily/2026-02-27.md",
-                "aRef": ""
+                "file": "Daily/2026-02-28.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "git-pull-request",
-              "title": "Diff: 2026-02-27"
+              "icon": "lucide-file",
+              "title": "2026-02-28"
             }
           },
           {
@@ -205,8 +215,9 @@
       "activity-heatmap:Open activity heatmap": false
     }
   },
-  "active": "e75e7876739a0a19",
+  "active": "777c8679efe43f92",
   "lastOpenFiles": [
+    "Daily/2026-02-28.md",
     "filesize/index.html",
     "index.md",
     "index.html",
@@ -243,7 +254,6 @@
     "filesize/Templates/Species Template.html",
     "filesize/Templates/Plot Template.html",
     "filesize/Templates/Character Template.html",
-    "filesize/Templates",
     "filesize/Templates/Story Template.md",
     "filesize/Templates/Species Template.md",
     "filesize/Templates/Plot Template.md",
