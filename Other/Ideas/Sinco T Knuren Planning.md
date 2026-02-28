@@ -12,4 +12,4 @@ With Tirok working with Knuren Tirok also has access to them, and is using them 
 
 # Part 2 : T-GED ( Galaxy Exploration Device ) Arc
 
-Knuren and Sinco are on good sides again and 
+Knuren and Sinco are homies now and they're working together to stop Tirok, they've hoped on T-GED and they are sabotaging it, making a crash land on a random planet that's lightyears away from earth, with our tech anyway lol, in this universe it's just some years away.
