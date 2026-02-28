@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Other/Ideas/Sinco T Knuren Planning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Sinco T Knuren Planning"
             }
           }
         ]
@@ -205,11 +205,11 @@
   },
   "active": "b5eff7612e065452",
   "lastOpenFiles": [
-    "Other/Ideas/Sinco T Knuren Planning.md",
     "Other/Ideas/Sinco T Arc Ideas.md",
+    "README.md",
+    "Other/Ideas/Sinco T Knuren Planning.md",
     "Other/Characters/Knuren.md",
     "Daily/2026-02-28.md",
-    "README.md",
     "Projects/Stories/T-mor.md",
     "Projects/Stories/Post-T-mor/Sinco T.md",
     "Projects/Stories/Post-T-mor/Kai-cyn (Story).md",
