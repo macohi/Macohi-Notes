@@ -1,0 +1,1 @@
+Plans for [Knuren's](../Characters/Knuren.md) involvement so he isn't a one-off
