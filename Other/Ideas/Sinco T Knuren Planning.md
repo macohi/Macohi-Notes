@@ -10,6 +10,6 @@ Knuren has the 6 other chaos emeralds and 2 Master Emerald Shards.
 
 With Tirok working with Knuren Tirok also has access to them, and is using them to power a new machine that will allow him to explore the galaxies.
 
-# Part 2 : T-GED ( Galaxy Exploration Device )
+# Part 2 : T-GED ( Galaxy Exploration Device ) Arc
 
-
+Knuren and Sinco are on good sides again and 
