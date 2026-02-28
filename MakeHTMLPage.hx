@@ -73,28 +73,47 @@ class MakeHTMLPage {
 			trace(' * $dir (${paths.length} items)');
 		}
 
-		// --- Generate index.md ---
+		// --- Generate index.html ---
 		var index = new StringBuf();
-		index.add("# Index\n\n");
+		index.add("<!DOCTYPE html>\n");
+		index.add("<html>\n<head>\n<meta charset=\"UTF-8\">\n");
+		index.add("<title>Index</title>\n");
+		index.add("<style>\n");
+		index.add("body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; line-height: 1.6; }\n");
+		index.add("ul { margin-bottom: 20px; }\n");
+		index.add("</style>\n");
+		index.add("</head>\n<body>\n");
+		index.add("<h1>Index</h1>\n");
 
 		for (dir => paths in reads) {
-			if (paths.length == 0)
-				continue;
-
-			index.add("## " + dir + "\n\n");
+			var addedHeader = false;
 
 			for (path in paths) {
 				if (Path.extension(path) == "md") {
-					var name = Path.withoutExtension(Path.withoutDirectory(path));
-					index.add("- [" + name + "](" + path + ")\n");
+					// Only create section header if directory actually has markdown
+					if (!addedHeader) {
+						index.add("<h2>" + dir + "</h2>\n<ul>\n");
+						addedHeader = true;
+					}
+
+					var name = Path.withoutExtension(path);
+
+					// Match your conversion output structure
+					var htmlPath = './filesize' + Path.withoutExtension(path.substr(1)) + '.html';
+
+					index.add('<li><a href="' + htmlPath + '">' + name + '</a></li>\n');
 				}
 			}
 
-			index.add("\n");
+			if (addedHeader) {
+				index.add("</ul>\n");
+			}
 		}
 
-		File.saveContent("./index.md", index.toString());
-		trace("Generated ./index.md");
+		index.add("</body>\n</html>");
+
+		File.saveContent("./index.html", index.toString());
+		trace("Generated ./index.html");
 	}
 }
 
