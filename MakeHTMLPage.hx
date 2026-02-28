@@ -73,47 +73,28 @@ class MakeHTMLPage {
 			trace(' * $dir (${paths.length} items)');
 		}
 
-		// --- Generate index.html ---
+		// --- Generate index.md ---
 		var index = new StringBuf();
-		index.add("<!DOCTYPE html>\n");
-		index.add("<html>\n<head>\n<meta charset=\"UTF-8\">\n");
-		index.add("<title>Index</title>\n");
-		index.add("<style>\n");
-		index.add("body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; line-height: 1.6; }\n");
-		index.add("ul { margin-bottom: 20px; }\n");
-		index.add("</style>\n");
-		index.add("</head>\n<body>\n");
-		index.add("<h1>Index</h1>\n");
+		index.add("# Index\n\n");
 
 		for (dir => paths in reads) {
-			var addedHeader = false;
+			if (paths.length == 0)
+				continue;
+
+			index.add("## " + dir + "\n\n");
 
 			for (path in paths) {
 				if (Path.extension(path) == "md") {
-					// Only create section header if directory actually has markdown
-					if (!addedHeader) {
-						index.add("<h2>" + dir + "</h2>\n<ul>\n");
-						addedHeader = true;
-					}
-
-					var name = Path.withoutExtension(path);
-
-					// Match your conversion output structure
-					var htmlPath = './filesize' + Path.withoutExtension(path.substr(1)) + '.html';
-
-					index.add('<li><a href="' + htmlPath + '">' + name + '</a></li>\n');
+					var name = Path.withoutExtension(Path.withoutDirectory(path));
+					index.add("- [" + name + "](" + path + ")\n");
 				}
 			}
 
-			if (addedHeader) {
-				index.add("</ul>\n");
-			}
+			index.add("\n");
 		}
 
-		index.add("</body>\n</html>");
-
-		File.saveContent("./index.html", index.toString());
-		trace("Generated ./index.html");
+		File.saveContent("./index.md", index.toString());
+		trace("Generated ./index.md");
 	}
 }
 
@@ -212,7 +193,7 @@ class MarkdownToHtml {
 	}
 
 	/**
-	 * Converts inline Markdown elements (bold, italic, links, inline code).
+	 * Converts inline Markdown elements (bold, italic, links, inline code, images).
 	 */
 	static function parseInline(text:String):String {
 		// Escape HTML first
@@ -227,18 +208,14 @@ class MarkdownToHtml {
 		// Italic *text*
 		text = ~/\*(.*?)\*/g.replace(text, "<em>$1</em>");
 
+		// Images ![alt](url)
+		text = ~/!\[([^\]]*)\]\(([^)]+)\)/g.replace(text, '<img src="$2" alt="$1">');
+
 		// Links [text](url)
-		text = ~/\[([^\]]+)\]\(([^)]+)\)/g.replace(text, function(r) {
-			var label = r.matched(1);
-			var url = r.matched(2);
+		text = ~/\[([^\]]+)\]\(([^)]+)\)/g.replace(text, '<a href="$2">$1</a>');
 
-			// If link points to a markdown file, convert to html
-			if (StringTools.endsWith(url, ".md")) {
-				url = url.substr(0, url.length - 3) + ".html";
-			}
-
-			return '<a href="' + url + '">' + label + '</a>';
-		});
+		// Replace any remaining .md in links to .html
+		text = text.replace(".md", ".html");
 
 		return text;
 	}
