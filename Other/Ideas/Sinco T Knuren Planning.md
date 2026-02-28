@@ -9,3 +9,7 @@ In Knuren's arc its basically a Sonic 3 & Knuckles.
 Knuren has the 6 other chaos emeralds and 2 Master Emerald Shards.
 
 With Tirok working with Knuren Tirok also has access to them, and is using them to power a new machine that will allow him to explore the galaxies.
+
+# Part 2 : T-GED ( Galaxy Exploration Device )
+
+
