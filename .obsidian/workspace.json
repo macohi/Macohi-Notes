@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8f49feb8ea3336c7",
+        "id": "df10520c3e5f0392",
         "type": "tabs",
         "children": [
           {
-            "id": "b699fbc930d9fb95",
+            "id": "960d9868f19fe980",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -191,7 +189,7 @@
       "activity-heatmap:Open activity heatmap": false
     }
   },
-  "active": "e75e7876739a0a19",
+  "active": "960d9868f19fe980",
   "lastOpenFiles": [
     "Daily/2026-02-27.md",
     "Daily/2026-02-28.md",
