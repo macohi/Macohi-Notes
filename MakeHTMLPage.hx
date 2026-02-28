@@ -21,23 +21,62 @@
  *   neko convert.n input.md output.html
  */
 
+import haxe.io.Path;
 import sys.io.File;
 import sys.FileSystem;
 import StringTools;
 
-class MarkdownToHtml {
-	static function main() {
-		// Get command line arguments
-		var args = Sys.args();
+using StringTools;
 
-		if (args.length < 2) {
-			trace("Usage: haxe --main MarkdownToHtml --interp input.md output.html");
-			return;
+class MakeHTMLPage {
+	static var blacklistedPages:Array<String> = ['./.obsidian', './.git', './filesize', './Templates'];
+
+	static var reads:Map<String, Array<String>> = [];
+
+	static function readDir(dir:String, f:String->Void) {
+		var dirList:Array<String> = FileSystem.readDirectory(dir);
+
+		var read:Array<String> = [];
+
+		for (dirEnt in dirList) {
+			final path = '$dir/$dirEnt';
+
+			if (FileSystem.isDirectory(path)) {
+				if (blacklistedPages.contains(path)) {
+					trace('Blacklisted page: $path');
+					continue;
+				}
+
+				FileSystem.createDirectory('./filesize${path.substr(1)}');
+				readDir(path, f);
+			} else {
+				read.push(path);
+
+				if (f != null)
+					f(path);
+			}
 		}
 
-		var inputPath = args[0];
-		var outputPath = args[1];
+		if (read.length > 0)
+			reads.set(dir, read);
+	}
 
+	static function main() {
+		readDir('.', function(f) {
+			if (Path.extension(f) == 'md') {
+				MarkdownToHtml.convert(f, './filesize${Path.withoutExtension(f.substr(1))}.html');
+			}
+		});
+
+		trace('Directories:');
+		for (dir => paths in reads) {
+			trace(' * $dir (${paths.length} items)');
+		}
+	}
+}
+
+class MarkdownToHtml {
+	public static function convert(inputPath:String, outputPath:String) {
 		if (!FileSystem.exists(inputPath)) {
 			trace("Error: Input file does not exist.");
 			return;
@@ -50,7 +89,7 @@ class MarkdownToHtml {
 		var htmlBody = convertMarkdown(markdown);
 
 		// Wrap in basic HTML template
-		var fullHtml = buildHtmlDocument(htmlBody);
+		var fullHtml = buildHtmlDocument(inputPath, htmlBody);
 
 		// Write output file
 		File.saveContent(outputPath, fullHtml);
@@ -162,12 +201,12 @@ class MarkdownToHtml {
 	/**
 	 * Wraps body content inside a minimal HTML document structure.
 	 */
-	static function buildHtmlDocument(body:String):String {
+	static function buildHtmlDocument(file:String, body:String):String {
 		return '<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Converted Markdown</title>
+<title>$file</title>
 <style>
 body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; line-height: 1.6; }
 code { background: #f4f4f4; padding: 2px 4px; }
