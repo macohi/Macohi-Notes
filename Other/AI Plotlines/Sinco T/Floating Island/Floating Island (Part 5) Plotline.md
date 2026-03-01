@@ -14,7 +14,7 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 5. Tirok's entire robotic army attempts attack on Sinco and Knuren, both manage but it's difficult, especially for Knuren who has to make sure the Master Emerald doesn't fall.
 
-6. Sinco breaks out into the center of the Death Star to join Knuren, running with him to escape, 
+6. Sinco breaks out into the center of the Death Star to join Knuren, running with him to escape, also introducing himself and getting Knuren's name.
 
 Here are some notes:
 
