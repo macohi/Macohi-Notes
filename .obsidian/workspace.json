@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/AI Explanations/Knuren.md",
+                "file": "Projects/Plotlines/Sinco T/Floating Island.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Knuren"
+              "title": "Floating Island"
             }
           }
         ]
@@ -205,8 +205,8 @@
   },
   "active": "c718d470c497b9bd",
   "lastOpenFiles": [
-    "Other/Characters/Knuren.md",
     "Projects/AI Explanations/Knuren.md",
+    "Other/Characters/Knuren.md",
     "Other/Characters/Osin.md",
     "Projects/Plotlines/Sinco T/Floating Island.md",
     "Other/Characters/Untitled.md",
