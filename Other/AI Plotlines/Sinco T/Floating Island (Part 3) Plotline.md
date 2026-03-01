@@ -22,4 +22,4 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 9. Sinco quickly knocks out Knuren, and goes to explore the area.
 
-10. Ancient messages in another language that seems familiar to Sinco but he can't remember, 
+10. Ancient messages in another language that seems familiar to Sinco but he can't remember, Sinco continues walking through the area and then arrives at an emerald chamber, there are 7 giant emeralds, all cracked and grayed out, and then 1 emerald thats even bigger
