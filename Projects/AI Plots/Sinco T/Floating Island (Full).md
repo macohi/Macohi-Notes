@@ -18,7 +18,7 @@ The impact detonated the ground beneath him, stone spiderwebbing as Sinco was hu
 
 A shadow fell over him.
 
-Knuren stood at the edge of the crater, shoulders squared, eyes glowing faintly **purple**. The markings along his arms pulsed with the same hue—no energy blasts, no theatrics. Just raw, condensed force humming beneath his skin.
+[Knuren](../../../Other/Characters/Knuren.md) stood at the edge of the crater, shoulders squared, eyes glowing faintly **purple**. The markings along his arms pulsed with the same hue—no energy blasts, no theatrics. Just raw, condensed force humming beneath his skin.
 
 Sinco coughed, pushing himself up. Green sparks danced across his fingers.
 
