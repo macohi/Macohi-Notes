@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/AI Plots/Sinco T/Floating Island (Part 2).md",
+                "file": "Projects/AI Plots/Sinco T/Floating Island (Part 1).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Floating Island (Part 2)"
+              "title": "Floating Island (Part 1)"
             }
           }
         ]
@@ -205,9 +205,9 @@
   },
   "active": "c718d470c497b9bd",
   "lastOpenFiles": [
+    "Projects/AI Plots/Sinco T/Floating Island (Part 2).md",
     "Projects/AI Plots/Sinco T/Floating Island (Part 1).md",
     "Projects/Plots/Kai-cyn (Story)/1 Year after discovery.md",
-    "Projects/AI Plots/Sinco T/Floating Island (Part 2).md",
     "Other/AI Explanations/Tirok.md",
     "Other/AI Explanations/T-mor.md",
     "Other/AI Explanations/Fuerza.md",

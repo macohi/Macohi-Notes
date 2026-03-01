@@ -1,4 +1,4 @@
-#aistory
+#aiplot #sinco 
 
 Sinco burst through the fractured mountain ceiling into open sky, green lightning snapping around him like a living storm. Below sprawled the **launch base**—a sprawling industrial construction site suspended in midair, where Tirok’s forces were feverishly assembling the machinery and scaffolding that would become his full Base of Operations. Massive cranes rotated above half-built platforms, conveyor belts ferried components, and robotic welders flared in synchronized chaos.
 
