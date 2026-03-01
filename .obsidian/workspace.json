@@ -11,14 +11,24 @@
             "id": "21aabebaf35a04a1",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/activity-heatmap/activity_heatmap_data/data_v1.json",
-                "bFile": ".obsidian/plugins/activity-heatmap/activity_heatmap_data/data_v1.json",
-                "aRef": ""
+                "file": "Other/AI Plotlines/Sinco T/Floating Island (Part 4) Plotline.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "git-pull-request",
-              "title": "Diff: data_v1.json"
+              "icon": "lucide-file",
+              "title": "Floating Island (Part 4) Plotline"
             }
           }
         ]
