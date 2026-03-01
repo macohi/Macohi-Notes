@@ -14,7 +14,7 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 8. Sinco can't outmaneuver Tirok's mech, and he falters, Tirok is about to land the finishing blow when Sinco calls out: "FUERZA!".
 9. Evil Tirok didn't know about Fuerza so his mech is quickly overpowered and Sinco escapes.
 10. Sinco flies away and lets the Fuerza power fade away but then Tirok fires a missile at Sinco that had he not ducked under while flying would've killed him, but instead he is just sent flying away by the shockwave.
-11. Tirok returns to his new Base of Operation, mumbling about the power source
+11. Tirok returns to his new Base of Operation, mumbling about a power source still being required.
 
 Here's some things that I figured needed extra explanation:
 
