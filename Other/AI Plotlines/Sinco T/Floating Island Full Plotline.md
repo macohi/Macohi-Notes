@@ -99,7 +99,7 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 Here's some things that I figured needed extra explanation:
 
-[T-mor](../../../Other/AI%20Explanations/T-mor.md)
+T-mor: The merging of all realms, this was an excuse for me to merge all my stories into one, some characters were merged, others now have multiple variants of themself.
 
 [Sinco](../../../Other/AI%20Explanations/Sinco.md)
 
