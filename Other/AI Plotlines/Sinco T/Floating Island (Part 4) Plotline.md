@@ -22,4 +22,5 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 9. More drones and robots come at Sinco, who dodges and punches, ripping holes in them and firing energy blasts at them and the Death Star, in an effort to keep going and in an effort to stop the Death Star.
 
-10. Sinco blitzes
+10. Sinco speeds ahead, getting closer and closer to Tirok.
+11. 
