@@ -20,4 +20,4 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 8. Sinco attempts to tell Knuren he doesn't want to be here but Knuren is still trying to use brute force.
 
-9. Sinco quickly
+9. Sinco quickly 
