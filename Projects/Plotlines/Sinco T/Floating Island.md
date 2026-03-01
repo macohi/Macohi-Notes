@@ -4,7 +4,8 @@ I want you to write a story piece for me, don't worry about the before or the af
 
 Here is a step-by-step of the story plotline that I want you to expand into a full story bit:
 
-1. Sinco arrives at an island floating in the sky, he can see Tirok's 
+1. Sinco arrives at an island floating in the sky, he can see Tirok's base of operation being set up on the island.
+2. Sinco suddenly gets attacked,
 
 Here's some things that I figured needed extra explanation:
 

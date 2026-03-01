@@ -171,9 +171,9 @@
       "fileSize": 2430
     },
     "Other/Characters/Knuren.md": {
-      "mtime": 1772261796930,
-      "wordCount": 1,
-      "fileSize": 0
+      "mtime": 1772381102563,
+      "wordCount": 38,
+      "fileSize": 285
     },
     "Daily/2026-03-01.md": {
       "mtime": 1772379738009,
@@ -211,14 +211,19 @@
       "fileSize": 279
     },
     "Projects/Plotlines/Sinco T/Floating Island.md": {
-      "mtime": 1772380914427,
-      "wordCount": 74,
-      "fileSize": 510
+      "mtime": 1772381028890,
+      "wordCount": 88,
+      "fileSize": 588
     },
     "Projects/AI Explanations/Tirok.md": {
       "mtime": 1772380869797,
       "wordCount": 53,
       "fileSize": 322
+    },
+    "Projects/AI Explanations/Knuren.md": {
+      "mtime": 1772381114175,
+      "wordCount": 17,
+      "fileSize": 86
     }
   },
   "activityOverTime": {
@@ -247,8 +252,8 @@
       "fileSize": 3969
     },
     "2026-03-01": {
-      "wordCount": 671,
-      "fileSize": 3992
+      "wordCount": 763,
+      "fileSize": 4557
     }
   }
 }
