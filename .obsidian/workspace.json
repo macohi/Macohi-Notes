@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/AI Explanations/Tirok.md",
+                "file": "Other/AI Explanations/Knuren.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tirok"
+              "title": "Knuren"
             }
           }
         ],
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/AI Explanations/Tirok.md",
+                "file": "Other/AI Explanations/Knuren.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tirok"
+              "title": "Outline of Knuren"
             }
           },
           {
@@ -233,8 +233,9 @@
   },
   "active": "d6c4e820da4ee5eb",
   "lastOpenFiles": [
-    "Other/AI Explanations/Sinco.md",
+    "Other/AI Explanations/Tirok.md",
     "Other/AI Plotlines/Sinco T/Floating Island Full Plotline.md",
+    "Other/AI Explanations/Sinco.md",
     "Other/AI Explanations/T-mor.md",
     "Other/AI Plotlines/Sinco T/Floating Island (Part 5) Plotline.md",
     "Other/AI Plotlines/Sinco T/Floating Island (Part 4) Plotline.md",
@@ -251,7 +252,6 @@
     "Projects/AI Plots/Sinco T/Floating Island (Part 2.md",
     "Projects/AI Plots/Sinco T/Floating Island (Part 1).md",
     "Projects/Plots/Kai-cyn (Story)/1 Year after discovery.md",
-    "Other/AI Explanations/Tirok.md",
     "Other/AI Explanations/Fuerza.md",
     "Templates/Species Template.md",
     "Other/AI Explanations/Knuren.md",
