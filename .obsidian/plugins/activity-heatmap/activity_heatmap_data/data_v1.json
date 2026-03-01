@@ -191,9 +191,24 @@
       "fileSize": 331
     },
     "Projects/Plotlines/Sinco T/Namek Saga.md": {
-      "mtime": 1772380438351,
-      "wordCount": 83,
-      "fileSize": 463
+      "mtime": 1772380657128,
+      "wordCount": 60,
+      "fileSize": 396
+    },
+    "Templates/AI Explanation Template.md": {
+      "mtime": 1772380586351,
+      "wordCount": 4,
+      "fileSize": 36
+    },
+    "Projects/AI Explanations/T-mor.md": {
+      "mtime": 1772380622924,
+      "wordCount": 32,
+      "fileSize": 187
+    },
+    "Projects/AI Explanations/Sinco.md": {
+      "mtime": 1772380633246,
+      "wordCount": 47,
+      "fileSize": 279
     }
   },
   "activityOverTime": {
@@ -222,8 +237,8 @@
       "fileSize": 3969
     },
     "2026-03-01": {
-      "wordCount": 248,
-      "fileSize": 1387
+      "wordCount": 532,
+      "fileSize": 3086
     }
   }
 }
