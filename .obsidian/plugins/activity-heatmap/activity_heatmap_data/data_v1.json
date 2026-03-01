@@ -249,6 +249,11 @@
       "mtime": 1772382851136,
       "wordCount": 46,
       "fileSize": 273
+    },
+    "Projects/AI Explanations/Fuerza.md": {
+      "mtime": 1772383025564,
+      "wordCount": 4,
+      "fileSize": 36
     }
   },
   "activityOverTime": {
@@ -277,8 +282,8 @@
       "fileSize": 3969
     },
     "2026-03-01": {
-      "wordCount": 2825,
-      "fileSize": 18095
+      "wordCount": 2829,
+      "fileSize": 18131
     }
   }
 }
