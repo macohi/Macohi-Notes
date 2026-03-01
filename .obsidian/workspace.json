@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-03-01.md",
+                "file": "Other/Ideas/Sinco T Arc Ideas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-01"
+              "title": "Sinco T Arc Ideas"
             }
           }
         ]
@@ -203,8 +203,12 @@
       "enhance-youtube-links:Get YouTube data": false
     }
   },
-  "active": "21aabebaf35a04a1",
+  "active": "34cda017165404b9",
   "lastOpenFiles": [
+    "Other/AI Plotlines/Untitled",
+    "Other/Ideas/Sinco T Arc Ideas.md",
+    "Other/Ideas/Sinco T Knuren Planning.md",
+    "Daily/2026-03-01.md",
     "Projects/AI Plots/Sinco T/Floating Island (Full).md",
     "Other/AI Plotlines/Sinco T/Floating Island/Floating Island (Part 5) Plotline.md",
     "Other/AI Plotlines/README.md",
@@ -228,11 +232,7 @@
     "Other/AI Plotlines/Sinco T/Floating Island/Floating Island (Part 2) Plotline.md",
     "Templates/AI Plotline Continuation Template.md",
     "Templates/AI Explanation Template.md",
-    "Templates/Story Template.md",
     "Other/AI Plotlines/Sinco T/Floating Island",
-    "Other/AI Plotlines/Sinco T/Floating Island/Floating Island (Part 3) Plotline.md",
-    "Other/AI Plotlines/Sinco T/Floating Island/Floating Island (Part 4) Plotline.md",
-    "Templates/AI Plotline Template.md",
     "Projects/AI Plots/Sinco T",
     "Projects/AI Plots",
     "Other/AI Explanations",
