@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "770214d578974c25",
+        "id": "f738b0712a3084b2",
         "type": "tabs",
         "children": [
           {
-            "id": "c718d470c497b9bd",
+            "id": "21aabebaf35a04a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/AI Plots/Sinco T/Floating Island (Part 1).md",
+                "file": "Other/AI Plotlines/Sinco T/Floating Island (Part 2) Plotline 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Floating Island (Part 1)"
+              "title": "Floating Island (Part 2) Plotline 1"
             }
           }
         ]
@@ -203,16 +203,18 @@
       "activity-heatmap:Open activity heatmap": false
     }
   },
-  "active": "c718d470c497b9bd",
+  "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
+    "Other/AI Plotlines/Sinco T/Floating Island (Part 2) Plotline.md",
+    "Other/AI Plotlines/Sinco T/Floating Island (Part 2) Plotline 1.md",
     "Projects/AI Plots/Sinco T/Floating Island (Part 2).md",
+    "Projects/AI Plots/Sinco T/Floating Island (Part 2.md",
     "Projects/AI Plots/Sinco T/Floating Island (Part 1).md",
     "Projects/Plots/Kai-cyn (Story)/1 Year after discovery.md",
     "Other/AI Explanations/Tirok.md",
     "Other/AI Explanations/T-mor.md",
     "Other/AI Explanations/Fuerza.md",
     "Other/AI Plotlines/Sinco T/Floating Island (Part 1) Plotline.md",
-    "Other/AI Plotlines/Sinco T/Floating Island (Part 2) Plotline.md",
     "Templates/Plotline Template.md",
     "Templates/Plotline Continuation Template.md",
     "Templates/Species Template.md",
@@ -234,8 +236,6 @@
     "Other/AI Plotlines/Sinco T",
     "Daily/2026-03-01.md",
     "Other/AI Plotlines",
-    "README.md",
-    "Other/Ideas/Sinco T Knuren Planning.md",
     "Other/Ideas/Sinco T",
     "Other/Ideas",
     "filesize/index.html",
