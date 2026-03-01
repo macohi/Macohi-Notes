@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/AI Explanations/Super-Sinco.md",
+                "file": "Other/AI Explanations/Super Sinco.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Super-Sinco"
+              "title": "Super Sinco"
             }
           }
         ]
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/AI Explanations/Super-Sinco.md",
+                "file": "Other/AI Explanations/Super Sinco.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Super-Sinco"
+              "title": "Outline of Super Sinco"
             }
           },
           {
@@ -206,11 +206,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "34cda017165404b9",
+  "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
-    "Other/AI Explanations/Sinco.md",
-    "Other/AI Explanations/Super-Sinco.md",
     "Other/AI Plotlines/Sinco T/Floating Island/Floating Island (Part 5) Plotline.md",
+    "Other/AI Explanations/Super Sinco.md",
+    "Other/AI Explanations/Sinco.md",
     "Other/AI Plotlines/Sinco T/Floating Island/Floating Island Full Plotline.md",
     "Other/AI Plotlines/Sinco T/Floating Island/Floating Island (Part 2) Plotline.md",
     "Templates/AI Plotline Continuation Template.md",
