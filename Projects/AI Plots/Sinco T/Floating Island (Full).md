@@ -382,7 +382,7 @@ The Death Star’s automated defenses whirred to life. Tirok and his army arrive
 
 Sinco’s aura erupted.
 
-His hair spiked upward, golden light cascading from him, eyes blazing red. Chaos energy coursed through him, merging with his lightning, his speed, his phasing. **Super Sinco** was born. The Death Star trembled from the sheer magnitude of his power.
+His hair spiked upward, golden light cascading from him, eyes blazing red. Chaos energy coursed through him, merging with his lightning, his speed, his phasing. **[Super Sinco](../../../Other/AI%20Explanations/Super%20Sinco.md)** was born. The Death Star trembled from the sheer magnitude of his power.
 
 Knuren yelped as the golden figure swooped down, grabbing him and the Master Emerald. Space rushed past, the void pressing against them. Super Sinco shot downward, away from the Death Star, engines and aura blending into one blinding streak of yellow.
 
