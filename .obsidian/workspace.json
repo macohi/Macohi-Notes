@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/AI Plots/Sinco T/Floating Island (Part 1).md",
+                "file": "Projects/AI Plots/Sinco T/Floating Island (Part 2).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Floating Island (Part 1)"
+              "title": "Floating Island (Part 2)"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#story",
+                "query": "tag:#sinco",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,6 +205,7 @@
   },
   "active": "c718d470c497b9bd",
   "lastOpenFiles": [
+    "Projects/AI Plots/Sinco T/Floating Island (Part 1).md",
     "Projects/Plots/Kai-cyn (Story)/1 Year after discovery.md",
     "Projects/AI Plots/Sinco T/Floating Island (Part 2).md",
     "Other/AI Explanations/Tirok.md",
@@ -214,7 +215,6 @@
     "Other/AI Plotlines/Sinco T/Floating Island (Part 2) Plotline.md",
     "Templates/Plotline Template.md",
     "Templates/Plotline Continuation Template.md",
-    "Projects/AI Plots/Sinco T/Floating Island (Part 1).md",
     "Templates/Species Template.md",
     "Other/AI Explanations/Knuren.md",
     "Projects/AI Plots/Sinco T",

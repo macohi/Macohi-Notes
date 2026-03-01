@@ -1,4 +1,4 @@
-#story #sinco 
+#plot #sinco 
 
 The island drifted through open sky, its underside wrapped in mist and its surface crowned with unfinished steel.
 
