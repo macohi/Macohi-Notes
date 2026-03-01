@@ -1,4 +1,4 @@
-#plotline #sinco 
+#aiplotline #sinco 
 
 I want you to write a story piece for me, don't worry about the before or the after, that's what I'll worry about.
 

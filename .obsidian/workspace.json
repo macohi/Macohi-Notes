@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/AI Plotlines/Sinco T/Floating Island (Part 3) Plotline.md",
+                "file": "Other/AI Plotlines/Sinco T/Floating Island (Part 1) Plotline.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Floating Island (Part 3) Plotline"
+              "title": "Floating Island (Part 1) Plotline"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#plotline",
+                "query": "tag:#aiplotline",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
