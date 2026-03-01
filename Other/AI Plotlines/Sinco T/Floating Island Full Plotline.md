@@ -101,7 +101,7 @@ Here's some things that I figured needed extra explanation:
 
 T-mor: The merging of all realms, this was an excuse for me to merge all my stories into one, some characters were merged, others now have multiple variants of themself.
 
-[Sinco](../../../Other/AI%20Explanations/Sinco.md)
+Sinco: Meta-Human teenager raised by himself in Tempo City with speedster powers and electricity / lightning powers. A mix of Movie Sonic and The Flash. Ever since T-mor he's gotten a full array of techniques and abilities he can use that the other Sinco's had. His main power color is green.
 
 [Tirok](../../../Other/AI%20Explanations/Tirok.md) (Using Evil Tirok)
 

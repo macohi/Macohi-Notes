@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/AI Explanations/T-mor.md",
+                "file": "Other/AI Plotlines/Sinco T/Floating Island Full Plotline.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "T-mor"
+              "title": "Floating Island Full Plotline"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/AI Explanations/T-mor.md",
+                "file": "Other/AI Explanations/Tirok.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "T-mor"
+              "title": "Tirok"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/AI Explanations/T-mor.md",
+                "file": "Other/AI Explanations/Tirok.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of T-mor"
+              "title": "Outline of Tirok"
             }
           },
           {
@@ -230,8 +231,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "21aabebaf35a04a1",
+  "active": "d6c4e820da4ee5eb",
   "lastOpenFiles": [
+    "Other/AI Explanations/Sinco.md",
     "Other/AI Plotlines/Sinco T/Floating Island Full Plotline.md",
     "Other/AI Explanations/T-mor.md",
     "Other/AI Plotlines/Sinco T/Floating Island (Part 5) Plotline.md",
@@ -254,7 +256,6 @@
     "Templates/Species Template.md",
     "Other/AI Explanations/Knuren.md",
     "Projects/AI Plots/Sinco T",
-    "Other/AI Explanations/Sinco.md",
     "Templates/Plot Template.md",
     "Templates/AI Explanation Template.md",
     "Projects/AI Plots/README.md",
