@@ -24,4 +24,4 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 10. Ancient messages in another language that seems familiar to Sinco but he can't remember, Sinco continues walking through the area and then arrives at an emerald chamber, there are 7 giant emeralds, all cracked and grayed out, and then 1 emerald that's even bigger then all of them, its green color glows brighter as Sinco gets closer. (Keep this part as slow paced as you can while also having it as long as you can)
 
-11. Sinco suddenly is struck by Knuren again, a fight begins once more, 
+11. Sinco suddenly is struck by Knuren again, a fight begins once more, Knuren this time is much more stronger, 
