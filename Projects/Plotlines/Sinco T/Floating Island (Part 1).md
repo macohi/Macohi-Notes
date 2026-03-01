@@ -10,6 +10,9 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 4. Sinco and Knuren fight, Sinco slowly moving towards Tirok's Base of Operations.
 5. Knuren then suddenly charges an attack, Sinco can't process it fast enough and then gets blasted into a mountain.
 
+6. Sinco is now inside of an ancient city, filled with water (think Hydrocity Zone from Sonic 3 & Knuckles), falling.
+7. Knuren follows, almost grabbing Sinco but then Sinco flies up, letting Knuren fall into the water and be washed away.
+
 Here's some things that I figured needed extra explanation:
 
 [T-mor](../../AI%20Explanations/T-mor.md)
