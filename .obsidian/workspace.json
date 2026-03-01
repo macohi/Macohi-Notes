@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/AI Plots/README.md",
+                "file": "Projects/Plotlines/Sinco T/Floating Island.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Floating Island"
             }
           }
         ]
@@ -205,9 +205,9 @@
   },
   "active": "c718d470c497b9bd",
   "lastOpenFiles": [
+    "Projects/AI Plots/README.md",
     "Projects/AI Plots",
     "Projects/Plotlines/Sinco T/Floating Island.md",
-    "Projects/AI Plots/README.md",
     "Projects/AI Explanations/T-mor.md",
     "Projects/AI Explanations/Knuren.md",
     "Other/Characters/Knuren.md",
@@ -247,7 +247,6 @@
     "Other/Images/kaicyn-fuerza20.jpg",
     "Other/Images/sincot-crash.jpg",
     "Other/Images",
-    "Projects/Plots/Sinco T/images",
     "Other/Images/kaicyn-thediscovery.jpg",
     "Untitled.canvas"
   ]
