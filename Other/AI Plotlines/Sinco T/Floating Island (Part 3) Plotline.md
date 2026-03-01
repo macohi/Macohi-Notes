@@ -26,4 +26,8 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 11. Sinco suddenly is struck by Knuren again, a fight begins once more, Knuren this time is much more stronger, his power being fueled by rage, Knuren rants and rants, talking about the sacred ground and how Sinco SHOULD, NOT, BE, THERE.
 
-12. Suddenly the room 
+12. Suddenly the room shakes, machines appear targeting the giant green emerald.
+
+13. Knuren screams "THE MASTER EMERALD!"
+
+14. Cliffhanger ending
