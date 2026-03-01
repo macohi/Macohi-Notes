@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#plotline",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,11 +201,14 @@
       "bases:Create new base": true,
       "obsidian-git:Open Git source control": false,
       "enhance-youtube-links:Get YouTube data": false,
-      "activity-heatmap:Open activity heatmap": false
+      "activity-heatmap:Open activity heatmap": false,
+      "random-note:Open random note": false,
+      "publish:Publish changes...": false
     }
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
+    "Templates/Plotline Template.md",
     "Templates/Plotline Continuation Template.md",
     "Other/AI Plotlines/Sinco T/Floating Island (Part 1) Plotline.md",
     "Other/AI Plotlines/Sinco T/Floating Island (Part 2) Plotline.md",
@@ -217,7 +220,6 @@
     "Other/AI Explanations/Tirok.md",
     "Other/AI Explanations/T-mor.md",
     "Other/AI Explanations/Fuerza.md",
-    "Templates/Plotline Template.md",
     "Templates/Species Template.md",
     "Other/AI Explanations/Knuren.md",
     "Projects/AI Plots/Sinco T",
