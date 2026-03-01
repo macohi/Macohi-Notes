@@ -7,7 +7,8 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 1. Sinco and Tirok are charging at each other in an instant but the Death Star rumbles.
 2. Even Tirok is surprised when he notices the Master Emerald missing.
 3. Knuren has arrived on the Death Star and is taking his emerald back
-4. 
+4. Sinco punches Tirok and then runs backwards, following the purple aura of Knuren.
+5. Tirok's entire robotic army attempts attack on Sinco
 
 Here are some notes:
 
