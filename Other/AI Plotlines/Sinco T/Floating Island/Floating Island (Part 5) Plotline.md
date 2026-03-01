@@ -12,7 +12,9 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 4. Sinco punches Tirok and then runs backwards, following the purple aura of Knuren.
 
-5. Tirok's entire robotic army attempts attack on Sinco and Knuren, both manage but it's difficult, especially for Knuren who has to make sure the Master Emerald doesn't fall
+5. Tirok's entire robotic army attempts attack on Sinco and Knuren, both manage but it's difficult, especially for Knuren who has to make sure the Master Emerald doesn't fall.
+
+6. Sinco breaks out into the center of the Death Star to join Knuren, running with 
 
 Here are some notes:
 
