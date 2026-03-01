@@ -22,4 +22,4 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 9. Sinco quickly knocks out Knuren, and goes to explore the area.
 
-10. Ancient messages in another 
+10. Ancient messages in another language that seems familiar to Sinco but he can't remember, 
