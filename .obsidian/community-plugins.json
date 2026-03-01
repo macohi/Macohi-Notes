@@ -3,5 +3,10 @@
   "enhance-youtube-links",
   "contribution-graph",
   "activity-heatmap",
-  "dataview"
+  "dataview",
+  "chatgpt-md",
+  "obsidian-tasks-plugin",
+  "obsidian-icon-folder",
+  "oz-image-plugin",
+  "obsidian-jsonifier"
 ]
