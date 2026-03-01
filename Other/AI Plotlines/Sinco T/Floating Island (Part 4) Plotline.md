@@ -14,4 +14,6 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 5. Quickly they are approaching the vacuum of space, Sinco spins into the Death Star through a hatch Tirok opened to get in, he needs air.
 
-6. As soon as Sinco enters the Death Star and the hatch closes, he is immediately attacked by a barrage of Machines and Drones
+6. As soon as Sinco enters the Death Star and the hatch closes, he is immediately attacked by a barrage of Machines and Drones.
+
+7. Sinco 
