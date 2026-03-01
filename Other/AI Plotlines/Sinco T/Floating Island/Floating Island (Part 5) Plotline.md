@@ -20,7 +20,9 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 8. Sinco puts his hand on the Master Emerald, closing his eyes and focusing. This irritates Knuren who is confused by Sinco's action.
 
-9. Suddenly Tirok and his robot army arrives but for T
+9. Suddenly Tirok and his robot army arrives but for Tirok it's too late.
+
+10. A flash
 
 Here are some notes:
 
