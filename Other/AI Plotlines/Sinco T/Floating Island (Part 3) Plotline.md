@@ -12,4 +12,6 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 4. Knuren follows, the building is dark so Knuren turns on the light since he knows where things are, and then Sinco ambushes Knuren.
 
-5. They continue to battle, the Ancient building suffering from the collateral damage.
+5. They continue to battle, the Ancient building suffering from collateral damage.
+
+6. Suddenly 
