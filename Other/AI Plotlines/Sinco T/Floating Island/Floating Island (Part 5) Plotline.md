@@ -24,7 +24,9 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 10. Sinco transforms, his new yellow glow fills the Death Star.
 
-11. Tirok is blinded, Super Sinco
+11. Tirok is blinded, Super Sinco takes Knuren and the Master Emerald out of the Death Star and flies them down towards Earth.
+
+12. Super Sinco 
 
 Here are some notes:
 
