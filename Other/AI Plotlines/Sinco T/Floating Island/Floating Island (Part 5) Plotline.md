@@ -22,7 +22,7 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 9. Suddenly Tirok and his robot army arrives but for Tirok it's too late.
 
-10. Sinco transforms,
+10. Sinco transforms, a massive yellow glow
 
 Here are some notes:
 
