@@ -28,4 +28,4 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 12. After some hesitation Sinco goes into the tube, being flown upwards and gravity is now flipped, Sinco is dazed for a bit and then proceeds once more.
 
 13. Sinco proceeds through the Death Star, facing different gimmicks (including the gravity flipping) and obstacles until finally, Sinco arrives, gravity is flipped (to be normal), and Tirok is waiting on the other side.
-14. Sinco enters the room, Tirok waiting, the Master Emerald 
+14. Sinco enters the room, Tirok waiting, the Master Emerald visible besides the room
