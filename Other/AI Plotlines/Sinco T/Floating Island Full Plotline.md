@@ -107,4 +107,6 @@ Tirok: Grown ass man with issues against kids (Sinco). In all seriousness he's a
 
 Knuren: The last of the moon clan that once was a ruler of the world. His main power color is purple. His power is strength.
 
+Fuerza: Fuerza is a technique that multiplies the user's power depending on the multiplier, the default is 2 but can be increased, but the higher multiplier, the more it puts harm and strain on the user. Think the Kaio-Ken from Dragon Ball Z. This technique when used causes a red aura to flare around the user, changing their power color to red, depending on variables.
+
 Just start with the story, don't write about the past (T-mor).
