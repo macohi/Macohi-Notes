@@ -11,24 +11,10 @@
             "id": "21aabebaf35a04a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other/AI Plotlines/Sinco T/Floating Island (Part 4) Plotline.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Floating Island (Part 4) Plotline"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -207,6 +193,7 @@
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
+    "Projects/AI Plots/Sinco T/Floating Island (Part 4).md",
     "Other/AI Plotlines/Sinco T/Floating Island (Part 4) Plotline.md",
     "Other/AI Plotlines/README.md",
     "Other/AI Plotlines/Sinco T/Floating Island (Part 3) Plotline.md",
@@ -234,7 +221,6 @@
     "Other/Characters/Knuren.md",
     "Other/Characters/Osin.md",
     "Other/Characters/Untitled.md",
-    "Other/Characters/Tirok.md",
     "Other/AI Explanations",
     "Other/AI Plotlines/Sinco T",
     "Other/AI Plotlines",
