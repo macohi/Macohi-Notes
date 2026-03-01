@@ -19,7 +19,7 @@
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
-                  "extraContext": false,
+                  "extraContext": true,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",

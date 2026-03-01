@@ -10,4 +10,6 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 3. The battle continues, but then a boulder Knuren tosses at Sinco crashes into an ancient building, and Sinco runs in.
 
-4. Knuren follows, the building is dark so Knuren turns on the light since he knows where things are, and then Sinco ambushes Knuren
+4. Knuren follows, the building is dark so Knuren turns on the light since he knows where things are, and then Sinco ambushes Knuren.
+
+5. They continue to battle, the Ancient building suffering from the collateral damage
