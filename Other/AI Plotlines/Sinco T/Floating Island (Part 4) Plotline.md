@@ -32,4 +32,4 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 14. Sinco enters the room, Tirok waiting, the Master Emerald visible besides the room.
 
-15. Sinco and Tirok stare at each other.
+15. Sinco and Tirok stare at each other, each preparing for a duel.
