@@ -131,17 +131,17 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 Here's some things that I figured needed extra explanation:
 
-T-mor: The merging of all realms, this was an excuse for me to merge all my stories into one, some characters were merged, others now have multiple variants of themself.
+[T-mor](../../../AI%20Explanations/T-mor.md)
 
-Sinco: Meta-Human teenager raised by himself in Tempo City with speedster powers and electricity / lightning powers. A mix of Movie Sonic and The Flash. Ever since T-mor he's gotten a full array of techniques and abilities he can use that the other Sinco's had. His main power color is green.
+[Sinco](../../../AI%20Explanations/Sinco.md)
 
-Tirok: Grown ass man with issues against kids (Sinco). In all seriousness he's a rich science tech guy that's just, livin' the best life, being... evil... DEPENDING ON WHAT VARIATION ACTUALLY! There's 2: Retold and Evil, Retold Tirok is chill with Sinco and they're friends, but Evil Tirok is just, evil. Don't call them "Retold Tirok" or "Evil Tirok", it's just a way to difference them, but if both are there you can call Evil Tirok "Old Tirok" and Retold Tirok "New Tirok". (Using Evil Tirok)
+[Tirok](../../../AI%20Explanations/Tirok.md)
 
-Knuren: The last of the moon clan that once was a ruler of the world. His main power color is purple. His power is strength.
+[Knuren](../../../AI%20Explanations/Knuren.md)
 
-Fuerza: Fuerza is a technique that multiplies the user's power depending on the multiplier, the default is 2 but can be increased, but the higher multiplier, the more it puts harm and strain on the user. Think the Kaio-Ken from Dragon Ball Z. This technique when used causes a red aura to flare around the user, changing their power color to red, depending on variables.
+[Fuerza](../../../AI%20Explanations/Fuerza.md)
 
-Super Sinco: Super Sinco is the result of Sinco absorbing chaos energy and then using that energy to power up, his hair spiking up, turning golden, and depending on his emotions, his eyes turn red, his power color changing as well to yellow, and he receives a big power up, which can also depend on how much chaos energy he absorbed.
+[Super Sinco](../../../AI%20Explanations/Super%20Sinco.md)
 
 Here are some notes:
 
