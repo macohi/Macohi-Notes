@@ -18,4 +18,6 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 7. Sinco quickly enables and disables Fuerza, quickly charging forward as soon as the barrage is affected.
 
-8. Sinco is running inside of Tirok's Death Star, seeing as the Master Emerald is inserted into it and feeling the Death Star power up and speed up.
+8. Sinco is running inside of Tirok's Death Star, seeing as the Master Emerald is inserted into it and feeling the Death Star power up and speed up. Being forced to the ground and it speeds up.
+
+9. More drones and robots come at Sinco, 
