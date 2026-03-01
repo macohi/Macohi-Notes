@@ -189,6 +189,11 @@
       "mtime": 1772379949579,
       "wordCount": 60,
       "fileSize": 331
+    },
+    "Projects/Plotlines/Sinco T/Namek Saga.md": {
+      "mtime": 1772380035441,
+      "wordCount": 61,
+      "fileSize": 338
     }
   },
   "activityOverTime": {
@@ -217,8 +222,8 @@
       "fileSize": 3969
     },
     "2026-03-01": {
-      "wordCount": 153,
-      "fileSize": 808
+      "wordCount": 214,
+      "fileSize": 1146
     }
   }
 }

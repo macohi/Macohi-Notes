@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5d561a0537bf6bcd",
+        "id": "770214d578974c25",
         "type": "tabs",
         "children": [
           {
-            "id": "b5eff7612e065452",
+            "id": "c718d470c497b9bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -203,14 +203,14 @@
       "activity-heatmap:Open activity heatmap": false
     }
   },
-  "active": "b5eff7612e065452",
+  "active": "c718d470c497b9bd",
   "lastOpenFiles": [
-    "Projects/Plots/Sinco T/Malipor's Return (Sinco T).md",
+    "Projects/Plotlines/README.md",
     "Projects/Plotlines/Sinco T/Namek Saga.md",
+    "Projects/Plots/Sinco T/Malipor's Return (Sinco T).md",
     "Projects/Plotlines/Sinco T",
     "Templates/Plotline Template.md",
     "Templates/Plot Template.md",
-    "Projects/Plotlines/README.md",
     "Daily/2026-03-01.md",
     "Projects/Plotlines",
     "README.md",
