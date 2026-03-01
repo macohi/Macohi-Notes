@@ -31,4 +31,5 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 13. Sinco proceeds through the Death Star, facing different gimmicks (including the gravity flipping) and obstacles until finally, Sinco arrives, gravity is flipped (to be normal), and Tirok is waiting on the other side.
 
 14. Sinco enters the room, Tirok waiting, the Master Emerald visible besides the room.
-15. 
+
+15. Sinco and Tirok stare at each other.
