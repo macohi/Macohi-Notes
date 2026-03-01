@@ -10,3 +10,5 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 Here's some things that I figured needed extra explanation:
 
 Instant Transmission: urmom
+
+Just start with the story, don't write about the past.

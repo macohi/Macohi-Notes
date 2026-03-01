@@ -22,3 +22,5 @@ Here's some things that I figured needed extra explanation:
 [Tirok](../../AI%20Explanations/Tirok.md) (Using Evil Tirok)
 
 [Knuren](../../AI%20Explanations/Knuren.md)
+
+Just start with the story, don't write about the past (T-mor).
