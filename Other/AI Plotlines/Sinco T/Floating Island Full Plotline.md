@@ -49,6 +49,36 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 31. Knuren screams "THE MASTER EMERALD!"
 
+32. Tirok breaks into the ancient area, sand now flooding the room.
+
+33. Knuren charges at Tirok, feeling betrayed, but a drone quickly pins Knuren to the wall, and any amount of resistance is met with double the force.
+
+34. Sinco charges at the machine grabbing the master emerald, flying upwards to Tirok's Base of Operation, which Tirok mentions is called his "Death Star" on both his and Sinco's way upward.
+
+35. The Floating Island begins to fall, while Tirok, Sinco, and Tirok's Death Star rise.
+
+36. Quickly they are approaching the vacuum of space, Sinco spins into the Death Star through a hatch Tirok opened to get in, he needs air.
+
+37. As soon as Sinco enters the Death Star and the hatch closes, he is immediately attacked by a barrage of Tirok's Drones and Robots.
+
+38. Sinco quickly enables and disables Fuerza, quickly charging forward as soon as the barrage is affected.
+
+39. Sinco is running inside of Tirok's Death Star, seeing as the Master Emerald is inserted into it and feeling the Death Star power up and speed up. Being forced to the ground and it speeds up.
+
+40. More drones and robots come at Sinco, who dodges and punches, ripping holes in them and firing energy blasts at them and the Death Star, in an effort to keep going and in an effort to stop the Death Star.
+
+41. Sinco speeds ahead, getting closer and closer to Tirok, the same cycle repeating of drones attempting to stop him.
+
+42. Sinco then stops, noticing the way forward is only through a tube that aims upward.
+
+43. After some hesitation Sinco goes into the tube, being flown upwards and gravity is now flipped, Sinco is dazed for a bit and then proceeds once more.
+
+44. Sinco proceeds through the Death Star, facing different gimmicks (including the gravity flipping) and obstacles until finally, Sinco arrives, gravity is flipped (to be normal), and Tirok is waiting on the other side.
+
+45. Sinco enters the room, Tirok waiting, the Master Emerald visible besides the room.
+
+46. Sinco and Tirok stare at each other, each preparing for a duel.
+
 
 Here's some things that I figured needed extra explanation:
 
