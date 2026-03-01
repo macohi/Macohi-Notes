@@ -339,6 +339,11 @@
       "mtime": 1772392060329,
       "wordCount": 4,
       "fileSize": 36
+    },
+    "Other/AI Explanations/Super Sinco.md": {
+      "mtime": 1772392071970,
+      "wordCount": 9,
+      "fileSize": 51
     }
   },
   "activityOverTime": {
@@ -367,8 +372,8 @@
       "fileSize": 3969
     },
     "2026-03-01": {
-      "wordCount": 11315,
-      "fileSize": 70245
+      "wordCount": 11324,
+      "fileSize": 70296
     }
   }
 }

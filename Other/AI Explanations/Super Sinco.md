@@ -1,3 +1,3 @@
 #ai-explanation
 
-Thing: Description
+Super Sinco: Super Sinco is the r
