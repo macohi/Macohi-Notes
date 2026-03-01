@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-03-01.md",
+                "file": "Templates/Plotline Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-01"
+              "title": "Plotline Template"
             }
           }
         ]
@@ -205,8 +205,12 @@
   },
   "active": "b5eff7612e065452",
   "lastOpenFiles": [
-    "README.md",
+    "Templates/Plot Template.md",
+    "Templates/Plotline Template.md",
+    "Projects/Plotlines/README.md",
     "Daily/2026-03-01.md",
+    "Projects/Plotlines",
+    "README.md",
     "Other/Ideas/Sinco T Knuren Planning.md",
     "Other/Ideas/Sinco T Arc Ideas.md",
     "Other/Characters/Knuren.md",
@@ -242,12 +246,8 @@
     "Projects/Plots/Kai-cyn (Story)/1 Year after discovery.md",
     "Projects/Plots/Kai-cyn (Story)/images",
     "Daily/2026-02-26.md",
-    "Templates/Plot Template.md",
     "Templates/Story Template.md",
-    "Templates/Species Template.md",
     "filesize/Templates/Story Template.html",
-    "filesize/Templates/Species Template.html",
-    "filesize/Templates/Story Template.md",
     "Other/Images/kaicyn-thediscovery.jpg",
     "Untitled.canvas"
   ]
