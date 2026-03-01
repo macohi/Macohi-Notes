@@ -16,6 +16,12 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 6. Sinco breaks out into the center of the Death Star to join Knuren, running with him to escape, also introducing himself and getting Knuren's name.
 
+7. Sinco and Knuren are at the edge, they are right next to the entrance Knuren made by breaking a hole in the Death Star, but they're in space now so neither can breathe.
+
+8. Sinco puts his hand on the Master Emerald, closing his eyes and focusing. This irritates Knuren who is confused by Sinco's action.
+
+9. Suddenly Tirok and his robot army arrives but for T
+
 Here are some notes:
 
 Knuren is much more talkative now, being very irritated at Tirok, but with Sinco it's just a "Meh" kind of feeling.
