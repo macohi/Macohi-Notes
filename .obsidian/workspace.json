@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/AI Explanations/Knuren.md",
+                "file": "Projects/Plotlines/Sinco T/Floating Island (Part 1) Plotline.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Knuren"
+              "title": "Floating Island (Part 1) Plotline"
             }
           }
         ]
@@ -203,14 +203,16 @@
       "activity-heatmap:Open activity heatmap": false
     }
   },
-  "active": "c718d470c497b9bd",
+  "active": "e75e7876739a0a19",
   "lastOpenFiles": [
+    "Projects/AI Plots/Sinco T/Floating Island (Part 1).md",
+    "Projects/AI Explanations/Knuren.md",
+    "Projects/AI Plots/Sinco T",
     "Projects/AI Explanations/Sinco.md",
-    "Projects/Plotlines/Sinco T/Floating Island (Part 1).md",
+    "Projects/Plotlines/Sinco T/Floating Island (Part 1) Plotline.md",
     "Templates/Plotline Template.md",
     "Templates/Plot Template.md",
     "Templates/AI Explanation Template.md",
-    "Projects/AI Explanations/Knuren.md",
     "Projects/Plotlines/README.md",
     "Projects/AI Explanations/Tirok.md",
     "Projects/AI Explanations/T-mor.md",
@@ -246,7 +248,6 @@
     "Other/Images/sincot-fuerzatraining.jpg",
     "Other/Images/kaicyn-fuerza20.jpg",
     "Other/Images/sincot-crash.jpg",
-    "Other/Images",
     "Other/Images/kaicyn-thediscovery.jpg",
     "Untitled.canvas"
   ]
