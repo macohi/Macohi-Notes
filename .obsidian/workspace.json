@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/AI Plotlines/Sinco T/Floating Island (Part 5) Plotline.md",
+                "file": "Other/AI Plotlines/Sinco T/Floating Island (Part 1) Plotline 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Floating Island (Part 5) Plotline"
+              "title": "Floating Island (Part 1) Plotline 1"
             }
           }
         ]
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/AI Plotlines/Sinco T/Floating Island (Part 5) Plotline.md",
+                "file": "Other/AI Plotlines/Sinco T/Floating Island (Part 1) Plotline 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Floating Island (Part 5) Plotline"
+              "title": "Outline of Floating Island (Part 1) Plotline 1"
             }
           },
           {
@@ -208,16 +208,17 @@
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
+    "Other/AI Plotlines/Sinco T/Floating Island (Part 1) Plotline.md",
+    "Other/AI Plotlines/Sinco T/Floating Island (Part 1) Plotline 1.md",
+    "Other/AI Plotlines/Sinco T/Floating Island (Part 5) Plotline.md",
     "Templates/AI Plotline Continuation Template.md",
     "Templates/AI Plotline Template.md",
-    "Other/AI Plotlines/Sinco T/Floating Island (Part 5) Plotline.md",
     "Other/AI Plotlines/Sinco T/Floating Island (Part 4) Plotline.md",
     "Projects/AI Plots/Sinco T/Floating Island (Part 4).md",
     "Other/AI Plotlines/README.md",
     "Other/AI Plotlines/Sinco T/Floating Island (Part 3) Plotline.md",
     "Projects/AI Plots/Sinco T/Floating Island (Part 3).md",
     "README.md",
-    "Other/AI Plotlines/Sinco T/Floating Island (Part 1) Plotline.md",
     "Other/AI Plotlines/Sinco T/Floating Island (Part 2) Plotline.md",
     "Projects/AI Plots/Sinco T/Floating Island (Part 2).md",
     "Projects/AI Plots/Sinco T/Floating Island (Part 2.md",
@@ -235,7 +236,6 @@
     "Projects/AI Plots/README.md",
     "Projects/AI Plots",
     "Other/Characters/Knuren.md",
-    "Other/Characters/Osin.md",
     "Other/AI Explanations",
     "Other/AI Plotlines/Sinco T",
     "Other/AI Plotlines",
