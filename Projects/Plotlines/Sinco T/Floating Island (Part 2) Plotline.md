@@ -13,6 +13,10 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 7. Sinco and Tirok battle for a long period of time, please go into as much detail you can and make it last as long as you can
 8. Sinco can't outmaneuver Tirok's mech, and he falters, Tirok is about to land the finishing blow when Sinco calls out: "FUERZA!"
 
+Here's some things that I figured needed extra explanation:
+
+Fuerza
+
 Here are some notes:
 
 There is barely any conversation between Sinco and Tirok, especially up-close, just glares.
