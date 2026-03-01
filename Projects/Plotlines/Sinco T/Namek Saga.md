@@ -9,4 +9,4 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 Here's some things that I figured needed extra explanation:
 
-Instant Transmission: urmom
+Sinco: Meta-Human teenager raised by himself in Tempo City with speedster powers and electricity / lightning powers. A mix of Movie Sonic and The Flash.
