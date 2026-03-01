@@ -18,4 +18,4 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 7. Sinco and Knuren have fallen to a secret area, to Sinco at least, Knuren recognizes this place and then gets upset, finally speaking for the first time, screaming at Sinco that he cannot be here and must be killed.
 
-8. Sinco attempts to tell Knuren he doesn't want to 
+8. Sinco attempts to tell Knuren he doesn't want to be here but Knuren is still trying to use 
