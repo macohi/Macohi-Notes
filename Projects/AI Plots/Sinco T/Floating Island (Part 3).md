@@ -40,7 +40,7 @@ Knuren’s expression changed—shock, then fury. Recognition burned in his viol
 
 “You cannot be here!” he roared for the first time, voice echoing through the cavern. “You must be… destroyed!”
 
-Sinco’s hands raised, trying to calm him. “Knuren—I don’t even want to be here! I don’t know what this place is!”
+Sinco’s hands raised, trying to calm him. “I don’t even want to be here! I don’t know what this place is!”
 
 But Knuren ignored him, muscles tensing, fist raised, brimming with raw strength. He lunged.
 
