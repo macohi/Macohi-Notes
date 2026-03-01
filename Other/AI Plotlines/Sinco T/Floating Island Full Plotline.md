@@ -113,4 +113,6 @@ Here are some notes:
 
 From parts 8 - 19 there is barely any conversation between Sinco and Tirok, especially up-close, just glares.
 
+From parts 47 and onward Knuren is much more talkative now, being very irritated at Tirok, but with Sinco it's just a "Meh" kind of feeling.
+
 Just start with the story, don't write about the past (T-mor).
