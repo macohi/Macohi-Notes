@@ -206,7 +206,7 @@ The pilot’s glare met his through the visor. No words. Nothing but pure, calcu
 
 The mech raised a massive fist, energy charging at the knuckles, ready to finish him.
 
-“[FUERZA!](../../../Other/AI%20Explanations/Fuerza.md)!” Sinco screamed.
+“[FUERZA!](../../../Other/AI%20Explanations/Fuerza.md)” Sinco screamed.
 
 The world ignited.
 
