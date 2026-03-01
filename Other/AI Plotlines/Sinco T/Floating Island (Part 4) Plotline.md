@@ -8,4 +8,8 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 2. Knuren charges at Tirok, feeling betrayed, but a drone quickly pins Knuren to the wall, and any amount of resistance is met with double the force.
 
-3. Sinco charges at the machine grabbing the master emerald, flying upwards to Tirok's 
+3. Sinco charges at the machine grabbing the master emerald, flying upwards to Tirok's Base of Operation, which Tirok mentions is called his "Death Star" on both his and Sinco's way upward.
+
+4. The Floating Island begins to fall, while Tirok, Sinco, and Tirok's Death Star rise.
+
+5. Quickly they are approaching the vacuum of space, the Floating
