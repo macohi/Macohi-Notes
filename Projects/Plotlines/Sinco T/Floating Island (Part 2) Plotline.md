@@ -7,4 +7,6 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 1. Sinco lands in a new zone, filled with machinery, a launch base. Tirok's base was nearing completion and Sinco needs to sabotage it.
 2. Sinco races through the zone, finding weak spots and sabotaging them.
 3. Sinco keeps up with this for awhile but then Tirok notices and sends some of his drones after Sinco
-4. Sinco now has to avoid death by the drones firing lazers and the drones with saw, etc etc.
+4. Sinco now has to avoid death by the drones firing lazers and the drones with saw, etc. etc.
+5. Sinco slowly but surely still continues sabotaging the launch base, destroying the drones after him in any way he can, the maze that is this launch base helps by quickly turning a corner or phasing through a wall and letting the drone run into the wall or corner.
+6. Tirok is tired of this and personally goes after Sinco in a new mech intended to keep pace with Sinco and to 
