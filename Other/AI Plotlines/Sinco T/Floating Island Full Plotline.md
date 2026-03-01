@@ -105,6 +105,6 @@ Sinco: Meta-Human teenager raised by himself in Tempo City with speedster powers
 
 Tirok: Grown ass man with issues against kids (Sinco). In all seriousness he's a rich science tech guy that's just, livin' the best life, being... evil... DEPENDING ON WHAT VARIATION ACTUALLY! There's 2: Retold and Evil, Retold Tirok is chill with Sinco and they're friends, but Evil Tirok is just, evil. Don't call them "Retold Tirok" or "Evil Tirok", it's just a way to difference them, but if both are there you can call Evil Tirok "Old Tirok" and Retold Tirok "New Tirok". (Using Evil Tirok)
 
-[Knuren](../../../Other/AI%20Explanations/Knuren.md)
+Knuren: The last of the moon clan that once was a ruler of the world. His main power color is purple. His power is strength.
 
 Just start with the story, don't write about the past (T-mor).
