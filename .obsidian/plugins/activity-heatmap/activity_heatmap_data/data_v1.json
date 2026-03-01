@@ -269,6 +269,11 @@
       "mtime": 1772383235891,
       "wordCount": 67,
       "fileSize": 388
+    },
+    "Other/AI Explanations/Tirok.md": {
+      "mtime": 1772383657787,
+      "wordCount": 79,
+      "fileSize": 455
     }
   },
   "activityOverTime": {
@@ -297,8 +302,8 @@
       "fileSize": 3969
     },
     "2026-03-01": {
-      "wordCount": 3435,
-      "fileSize": 21783
+      "wordCount": 3554,
+      "fileSize": 22468
     }
   }
 }
