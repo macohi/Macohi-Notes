@@ -14,4 +14,4 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 5. They continue to battle, the Ancient building suffering from collateral damage.
 
-6. Suddenly 
+6. Suddenly the floor collapses beneath Knuren and Sinco
