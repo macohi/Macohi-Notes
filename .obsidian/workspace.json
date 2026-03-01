@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/AI Plotlines/Sinco T/Floating Island (Part 2) Plotline 1.md",
+                "file": "Other/AI Plotlines/Sinco T/Floating Island (Part 3) Plotline.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Floating Island (Part 2) Plotline 1"
+              "title": "Floating Island (Part 3) Plotline"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sinco",
+                "query": "tag:#plotline",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,10 +204,10 @@
       "activity-heatmap:Open activity heatmap": false
     }
   },
-  "active": "21aabebaf35a04a1",
+  "active": "1f97272c213f115d",
   "lastOpenFiles": [
     "Other/AI Plotlines/Sinco T/Floating Island (Part 2) Plotline.md",
-    "Other/AI Plotlines/Sinco T/Floating Island (Part 2) Plotline 1.md",
+    "Other/AI Plotlines/Sinco T/Floating Island (Part 3) Plotline.md",
     "Projects/AI Plots/Sinco T/Floating Island (Part 2).md",
     "Projects/AI Plots/Sinco T/Floating Island (Part 2.md",
     "Projects/AI Plots/Sinco T/Floating Island (Part 1).md",
