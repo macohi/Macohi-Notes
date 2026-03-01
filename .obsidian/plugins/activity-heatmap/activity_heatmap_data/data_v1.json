@@ -191,9 +191,9 @@
       "fileSize": 331
     },
     "Projects/Plotlines/Sinco T/Namek Saga.md": {
-      "mtime": 1772380684732,
+      "mtime": 1772380706662,
       "wordCount": 60,
-      "fileSize": 395
+      "fileSize": 400
     },
     "Templates/AI Explanation Template.md": {
       "mtime": 1772380586351,
@@ -206,9 +206,19 @@
       "fileSize": 187
     },
     "Projects/AI Explanations/Sinco.md": {
-      "mtime": 1772380633246,
+      "mtime": 1772380720057,
       "wordCount": 47,
       "fileSize": 279
+    },
+    "Projects/Plotlines/Sinco T/Floating Island.md": {
+      "mtime": 1772380763620,
+      "wordCount": 69,
+      "fileSize": 441
+    },
+    "Projects/AI Explanations/Tirok.md": {
+      "mtime": 1772380829879,
+      "wordCount": 40,
+      "fileSize": 252
     }
   },
   "activityOverTime": {
@@ -237,8 +247,8 @@
       "fileSize": 3969
     },
     "2026-03-01": {
-      "wordCount": 532,
-      "fileSize": 3087
+      "wordCount": 647,
+      "fileSize": 3821
     }
   }
 }
