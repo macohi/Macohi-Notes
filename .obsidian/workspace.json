@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Plotlines/Sinco T/Floating Island (Part 1) Plotline.md",
+                "file": "Projects/AI Plots/Sinco T/Floating Island (Part 1).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Floating Island (Part 1) Plotline"
+              "title": "Floating Island (Part 1)"
             }
           }
         ]
@@ -203,13 +203,13 @@
       "activity-heatmap:Open activity heatmap": false
     }
   },
-  "active": "e75e7876739a0a19",
+  "active": "c718d470c497b9bd",
   "lastOpenFiles": [
+    "Projects/Plotlines/Sinco T/Floating Island (Part 1) Plotline.md",
     "Projects/AI Plots/Sinco T/Floating Island (Part 1).md",
     "Projects/AI Explanations/Knuren.md",
     "Projects/AI Plots/Sinco T",
     "Projects/AI Explanations/Sinco.md",
-    "Projects/Plotlines/Sinco T/Floating Island (Part 1) Plotline.md",
     "Templates/Plotline Template.md",
     "Templates/Plot Template.md",
     "Templates/AI Explanation Template.md",

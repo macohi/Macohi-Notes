@@ -1,3 +1,5 @@
+#story #sinco 
+
 The island drifted through open sky, its underside wrapped in mist and its surface crowned with unfinished steel.
 
 Sinco landed in a spiral of **green lightning**, shoes scraping against stone as kinetic wind rolled outward. His jacket snapped behind him while he took in the sight ahead—massive alloy pillars locking into place, drones ferrying equipment, a central tower rising like a needle aimed at the heavens.
