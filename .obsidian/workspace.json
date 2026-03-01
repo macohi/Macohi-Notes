@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/AI Explanations/Fuerza.md",
+                "file": "Other/AI Plotlines/Sinco T/Floating Island/Floating Island (Part 1) Plotline.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fuerza"
+              "title": "Floating Island (Part 1) Plotline"
             }
           }
         ]
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/AI Explanations/Fuerza.md",
+                "file": "Other/AI Plotlines/Sinco T/Floating Island/Floating Island (Part 1) Plotline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fuerza"
+              "title": "Outline of Floating Island (Part 1) Plotline"
             }
           },
           {
@@ -208,6 +208,7 @@
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
+    "Other/AI Explanations/Fuerza.md",
     "Other/AI Explanations/Knuren.md",
     "Other/AI Explanations/Sinco.md",
     "Other/Characters/Knuren.md",
@@ -222,7 +223,6 @@
     "Projects/AI Plots/Sinco T/Floating Island/Floating Island (Part 2).md",
     "Projects/AI Plots/Sinco T/Floating Island/Floating Island (Part 3).md",
     "Projects/AI Plots/Sinco T/Floating Island/Floating Island (Part 4).md",
-    "Other/AI Explanations/Fuerza.md",
     "Other/AI Plotlines/README.md",
     "Other/AI Plotlines/Sinco T/Floating Island/Floating Island (Part 5) Plotline.md",
     "Other/AI Plotlines/Sinco T/Floating Island/Floating Island (Part 1) Plotline.md",
