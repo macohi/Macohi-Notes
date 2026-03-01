@@ -43,3 +43,7 @@ Here's some things that I figured needed extra explanation:
 Here are some notes:
 
 Knuren is much more talkative now, being very irritated at Tirok, but with Sinco it's just a "Meh" kind of feeling.
+
+{
+"1": "2"
+}
