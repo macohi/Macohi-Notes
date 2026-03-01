@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/AI Plotlines/Sinco T/Floating Island/Floating Island Full Plotline.md",
+                "file": "Other/AI Explanations/Fuerza.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Floating Island Full Plotline"
+              "title": "Fuerza"
             }
           }
         ]
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/AI Plotlines/Sinco T/Floating Island/Floating Island Full Plotline.md",
+                "file": "Other/AI Explanations/Fuerza.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Floating Island Full Plotline"
+              "title": "Outline of Fuerza"
             }
           },
           {
@@ -208,18 +208,20 @@
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
+    "Other/AI Explanations/Knuren.md",
+    "Other/AI Explanations/Sinco.md",
+    "Other/Characters/Knuren.md",
+    "Other/AI Explanations/Super Sinco.md",
+    "Other/AI Explanations/T-mor.md",
+    "Other/AI Explanations/Tirok.md",
+    "Projects/AI Plots/Sinco T/Floating Island/Floating Island Full.md",
+    "Other/AI Plotlines/Sinco T/Floating Island/Floating Island Full Plotline.md",
     "Projects/AI Plots/Sinco T/Floating Island/Floating Island (Part 5).md",
     "Projects/AI Plots/Sinco T/Floating Island/Floating Island (Part 1).md",
     "Projects/AI Plots/Sinco T/Floating Island",
     "Projects/AI Plots/Sinco T/Floating Island/Floating Island (Part 2).md",
     "Projects/AI Plots/Sinco T/Floating Island/Floating Island (Part 3).md",
     "Projects/AI Plots/Sinco T/Floating Island/Floating Island (Part 4).md",
-    "Other/AI Plotlines/Sinco T/Floating Island/Floating Island Full Plotline.md",
-    "Other/AI Explanations/Tirok.md",
-    "Other/AI Explanations/T-mor.md",
-    "Other/AI Explanations/Super Sinco.md",
-    "Other/AI Explanations/Sinco.md",
-    "Other/AI Explanations/Knuren.md",
     "Other/AI Explanations/Fuerza.md",
     "Other/AI Plotlines/README.md",
     "Other/AI Plotlines/Sinco T/Floating Island/Floating Island (Part 5) Plotline.md",
@@ -234,7 +236,6 @@
     "Templates/AI Plotline Template.md",
     "README.md",
     "Projects/AI Plots/Sinco T/Floating Island (Part 2.md",
-    "Projects/Plots/Kai-cyn (Story)/1 Year after discovery.md",
     "Projects/AI Plots/Sinco T",
     "Projects/AI Plots",
     "Other/AI Explanations",
