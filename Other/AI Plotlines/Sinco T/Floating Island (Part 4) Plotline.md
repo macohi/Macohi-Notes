@@ -12,4 +12,6 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 4. The Floating Island begins to fall, while Tirok, Sinco, and Tirok's Death Star rise.
 
-5. Quickly they are approaching the vacuum of space, the Floating
+5. Quickly they are approaching the vacuum of space, Sinco spins into the Death Star through a hatch Tirok opened to get in, he needs air.
+
+6. As soon as 
