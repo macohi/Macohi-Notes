@@ -15,12 +15,12 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 Here's some things that I figured needed extra explanation:
 
-[T-mor](../../AI%20Explanations/T-mor.md)
+[T-mor](../../../Other/AI%20Explanations/T-mor.md)
 
-[Sinco](../../AI%20Explanations/Sinco.md)
+[Sinco](../../../Other/AI%20Explanations/Sinco.md)
 
-[Tirok](../../AI%20Explanations/Tirok.md) (Using Evil Tirok)
+[Tirok](../../../Other/AI%20Explanations/Tirok.md) (Using Evil Tirok)
 
-[Knuren](../../AI%20Explanations/Knuren.md)
+[Knuren](../../../Other/AI%20Explanations/Knuren.md)
 
 Just start with the story, don't write about the past (T-mor).
