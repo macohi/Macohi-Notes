@@ -11,3 +11,5 @@ Here's some things that I figured needed extra explanation:
 [T-mor](../../AI%20Explanations/T-mor.md)
 
 [Sinco](../../AI%20Explanations/Sinco.md)
+
+[Tirok](../../AI%20Explanations/Tirok.md) (Using Evil Tirok)

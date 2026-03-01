@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/AI Explanations/Tirok.md",
+                "file": "Projects/Plotlines/Sinco T/Floating Island.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tirok"
+              "title": "Floating Island"
             }
           }
         ]
@@ -205,11 +205,11 @@
   },
   "active": "c718d470c497b9bd",
   "lastOpenFiles": [
-    "Other/Characters/Tirok.md",
     "Projects/AI Explanations/Tirok.md",
-    "Projects/Plotlines/Sinco T/Floating Island.md",
-    "Projects/AI Explanations/Sinco.md",
     "Projects/AI Explanations/T-mor.md",
+    "Projects/Plotlines/Sinco T/Floating Island.md",
+    "Other/Characters/Tirok.md",
+    "Projects/AI Explanations/Sinco.md",
     "Templates/AI Explanation Template.md",
     "Templates/Plotline Template.md",
     "Templates/Plot Template.md",
