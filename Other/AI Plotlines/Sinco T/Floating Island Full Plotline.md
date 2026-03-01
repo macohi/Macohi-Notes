@@ -23,6 +23,32 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 16. Evil Tirok didn't know about Fuerza so his mech is quickly overpowered and Sinco escapes.
 17. Sinco flies away and lets the Fuerza power fade away but then Tirok fires a missile at Sinco that had he not ducked under while flying would've killed him, but instead he is just sent flying away by the shockwave.
 18. Tirok returns to his new Base of Operation, mumbling about a power source still being required.
+19. Sinco falls down back to the ground of the Floating Island, now in a sand zone, quicksand EVERYWHERE with ancient buildings spread across the zone.
+
+20. Knuren returns, soaked, Sinco being irritated at the fact, and Knuren attempts fighting Sinco, attempting to land killing blows or to make Sinco suffocate in the quick sand. Sinco keeps phasing out of the quicksand and speeding above Knuren who sends rocks and boulders at Sinco.
+
+21. The battle continues, but then a boulder Knuren tosses at Sinco crashes into an ancient building, and Sinco runs in.
+
+22. Knuren follows, the building is dark so Knuren turns on the light since he knows where things are, and then Sinco ambushes Knuren.
+
+23. They continue to battle, the Ancient building suffering from collateral damage.
+
+24. Suddenly the floor collapses beneath Knuren and Sinco, and both fall.
+
+25. Sinco and Knuren have fallen to a secret area, to Sinco at least, Knuren recognizes this place and then gets upset, finally speaking for the first time, screaming at Sinco that he cannot be here and must be killed.
+
+26. Sinco attempts to tell Knuren he doesn't want to be here but Knuren is still trying to use brute force.
+
+27. Sinco quickly knocks out Knuren, and goes to explore the area.
+
+28. Ancient messages in another language that seems familiar to Sinco but he can't remember, Sinco continues walking through the area and then arrives at an emerald chamber, there are 7 giant emeralds, all cracked and grayed out, and then 1 emerald that's even bigger then all of them, its green color glows brighter as Sinco gets closer. (Keep this part as slow paced as you can while also having it as long as you can)
+
+29. Sinco suddenly is struck by Knuren again, a fight begins once more, Knuren this time is much more stronger, his power being fueled by rage, Knuren rants and rants, talking about the sacred ground and how Sinco SHOULD, NOT, BE, THERE.
+
+30. Suddenly the room shakes, machines appear targeting the giant green emerald.
+
+31. Knuren screams "THE MASTER EMERALD!"
+
 
 Here's some things that I figured needed extra explanation:
 
