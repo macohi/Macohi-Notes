@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/AI Plotline Template.md",
+                "file": "Other/AI Plotlines/Sinco T/Floating Island Full Plotline.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI Plotline Template"
+              "title": "Floating Island Full Plotline"
             }
           }
         ]
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/AI Plotline Template.md",
+                "file": "Other/AI Plotlines/Sinco T/Floating Island Full Plotline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AI Plotline Template"
+              "title": "Outline of Floating Island Full Plotline"
             }
           },
           {
@@ -208,6 +208,7 @@
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
+    "Templates/AI Plotline Template.md",
     "Templates/AI Plotline Continuation Template.md",
     "Other/AI Plotlines/Sinco T/Floating Island Full Plotline.md",
     "Other/AI Plotlines/Sinco T/Floating Island (Part 2) Plotline.md",
@@ -220,7 +221,6 @@
     "Other/AI Plotlines/Sinco T/Floating Island (Part 4) Plotline.md",
     "Other/AI Plotlines/Sinco T/Floating Island (Part 3) Plotline.md",
     "Other/AI Plotlines/Sinco T/Floating Island (Part 1) Plotline.md",
-    "Templates/AI Plotline Template.md",
     "Projects/AI Plots/Sinco T/Floating Island (Part 4).md",
     "Other/AI Plotlines/README.md",
     "Projects/AI Plots/Sinco T/Floating Island (Part 3).md",

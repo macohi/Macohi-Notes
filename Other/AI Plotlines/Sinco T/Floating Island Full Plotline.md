@@ -112,6 +112,6 @@ Fuerza: Fuerza is a technique that multiplies the user's power depending on the 
 
 Here are some notes:
 
-Just start with the story, don't write about the past (T-mor).
-
 There is barely any conversation between Sinco and Tirok, especially up-close, just glares.
+
+Just start with the story, don't write about the past (T-mor).
