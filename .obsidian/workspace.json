@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Plotlines/Sinco T/Floating Island.md",
+                "file": "Projects/AI Plots/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Floating Island"
+              "title": "README"
             }
           }
         ]
@@ -205,8 +205,10 @@
   },
   "active": "c718d470c497b9bd",
   "lastOpenFiles": [
-    "Projects/AI Explanations/T-mor.md",
+    "Projects/AI Plots",
     "Projects/Plotlines/Sinco T/Floating Island.md",
+    "Projects/AI Plots/README.md",
+    "Projects/AI Explanations/T-mor.md",
     "Projects/AI Explanations/Knuren.md",
     "Other/Characters/Knuren.md",
     "Other/Characters/Osin.md",
@@ -234,9 +236,7 @@
     "Other/Ideas/Sinco T",
     "Other/Characters/Kai-cyn.md",
     "Other/Ideas",
-    "Daily/2026-02-27.md",
     "filesize/index.html",
-    "index.md",
     "index.html",
     "filesize/Daily/2026-02-27.html",
     "Other/Images/line-types.jpg",
