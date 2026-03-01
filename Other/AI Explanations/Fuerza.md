@@ -1,3 +1,3 @@
 #ai-explanation
 
-Thing: Description
+Fuerza: Description

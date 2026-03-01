@@ -259,6 +259,16 @@
       "mtime": 1772383031920,
       "wordCount": 195,
       "fileSize": 1299
+    },
+    "Other/AI Plotlines/Sinco T/Floating Island (Part 2) Plotline.md": {
+      "mtime": 1772383063151,
+      "wordCount": 252,
+      "fileSize": 1429
+    },
+    "Other/AI Explanations/Fuerza.md": {
+      "mtime": 1772383067517,
+      "wordCount": 4,
+      "fileSize": 37
     }
   },
   "activityOverTime": {
@@ -287,8 +297,8 @@
       "fileSize": 3969
     },
     "2026-03-01": {
-      "wordCount": 3024,
-      "fileSize": 19430
+      "wordCount": 3280,
+      "fileSize": 20896
     }
   }
 }

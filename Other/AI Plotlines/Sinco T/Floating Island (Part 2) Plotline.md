@@ -15,7 +15,7 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 Here's some things that I figured needed extra explanation:
 
-Fuerza
+[Fuerza](../../AI%20Explanations/Fuerza.md)
 
 Here are some notes:
 
