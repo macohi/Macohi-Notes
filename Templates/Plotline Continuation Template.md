@@ -10,3 +10,7 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 Here's some things that I figured needed extra explanation:
 
 Kaio-ken: KAMEHAMEHA
+
+Here are some notes:
+
+urmom
