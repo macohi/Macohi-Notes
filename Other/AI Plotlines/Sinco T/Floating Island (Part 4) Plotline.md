@@ -25,4 +25,6 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 10. Sinco speeds ahead, getting closer and closer to Tirok, the same cycle repeating of drones attempting to stop him.
 
 11. Sinco then stops, noticing the way forward is only through a tube that aims upward.
-12. After some hesitation Sinco goes into the tube, being flown upwards and gravity is now flipped, Sinco is dazed for a bit and then 
+12. After some hesitation Sinco goes into the tube, being flown upwards and gravity is now flipped, Sinco is dazed for a bit and then proceeds once more.
+
+13. 
