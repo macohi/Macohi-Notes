@@ -109,6 +109,8 @@ Knuren: The last of the moon clan that once was a ruler of the world. His main p
 
 Fuerza: Fuerza is a technique that multiplies the user's power depending on the multiplier, the default is 2 but can be increased, but the higher multiplier, the more it puts harm and strain on the user. Think the Kaio-Ken from Dragon Ball Z. This technique when used causes a red aura to flare around the user, changing their power color to red, depending on variables.
 
+Super Sinco: Super Sinco is the result of Sinco absorbing chaos energy and then using that energy to power up, his hair spiking up, turning golden, and depending on his emotions, his eyes turn red, his power color changing as well to yellow, and he receives a big power up, which can also depend on how much chaos energy he absorbed.
+
 Here are some notes:
 
 From parts 8 - 19 there is barely any conversation between Sinco and Tirok, especially up-close, just glares.
