@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/AI Plots/Sinco T/Floating Island (Part 1).md",
+                "file": "Templates/Plotline Continuation Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Floating Island (Part 1)"
+              "title": "Plotline Continuation Template"
             }
           }
         ]
@@ -205,12 +205,15 @@
   },
   "active": "c718d470c497b9bd",
   "lastOpenFiles": [
+    "Projects/Plotlines/Sinco T/Floating Island (Part 2) Plotline.md",
+    "Templates/Plotline Continuation Template.md",
+    "Templates/Plotline Template.md",
+    "Templates/Species Template.md",
     "Projects/Plotlines/Sinco T/Floating Island (Part 1) Plotline.md",
     "Projects/AI Plots/Sinco T/Floating Island (Part 1).md",
     "Projects/AI Explanations/Knuren.md",
     "Projects/AI Plots/Sinco T",
     "Projects/AI Explanations/Sinco.md",
-    "Templates/Plotline Template.md",
     "Templates/Plot Template.md",
     "Templates/AI Explanation Template.md",
     "Projects/Plotlines/README.md",
@@ -233,10 +236,7 @@
     "Other/Ideas/Sinco T Arc Ideas.md",
     "Daily/2026-02-28.md",
     "Projects/Stories/T-mor.md",
-    "Projects/Stories/Post-T-mor/Sinco T.md",
-    "Projects/Stories/Post-T-mor/Kai-cyn (Story).md",
     "Other/Ideas/Sinco T",
-    "Other/Characters/Kai-cyn.md",
     "Other/Ideas",
     "filesize/index.html",
     "index.html",
