@@ -36,6 +36,10 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 16. Tirok flies away.
 
+Here's some things that I figured needed extra explanation:
+
+Kaio-ken: KAMEHAMEHA
+
 Here are some notes:
 
 Knuren is much more talkative now, being very irritated at Tirok, but with Sinco it's just a "Meh" kind of feeling.
