@@ -30,7 +30,7 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 13. Super Sinco, Knuren, and the Master Emerald eventually arrive at the Floating Island, Super Sinco then leaves, Knuren being confused at what just happened.
 
-14. Tirok is flying above the Floating Island
+14. Tirok is flying above the Floating Island, watching Super Sinco fly away and eventually watching the Floating Island piece itself together via the Master Emerald's energy and then starts floating 
 
 Here are some notes:
 
