@@ -11,8 +11,8 @@ Here's some things that I figured needed extra explanation:
 
 Instant Transmission: urmom
 
-Just start with the story, don't write about the past.
-
 Here are some notes:
 
 urmom
+
+Just start with the story, don't write about the past.
