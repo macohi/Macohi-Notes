@@ -34,6 +34,8 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 15. Tirok swears at Sinco that he will launch the Death Star, and to mark his words.
 
+16. Tirok flies away.
+
 Here are some notes:
 
 Knuren is much more talkative now, being very irritated at Tirok, but with Sinco it's just a "Meh" kind of feeling.
