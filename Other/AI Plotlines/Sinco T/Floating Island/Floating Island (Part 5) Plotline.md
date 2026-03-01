@@ -24,9 +24,13 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 
 10. Sinco transforms, his new yellow glow fills the Death Star.
 
-11. Tirok is blinded, Super Sinco takes Knuren and the Master Emerald out of the Death Star and flies them down towards Earth.
+11. Tirok and Knuren are blinded, Super Sinco takes Knuren and the Master Emerald out of the Death Star and flies them down towards Earth.
 
-12. Super Sinco 
+12. Super Sinco turns around real quick to send out an energy blast at the Death Star, his power is immense, and it almost completely destroys the Death Star which begins it's descent to Earth.
+
+13. Super Sinco, Knuren, and the Master Emerald eventually arrive at the Floating Island, Super Sinco then leaves, Knuren being confused at what just happened.
+
+14. Tirok is flying above the Floating Island
 
 Here are some notes:
 
