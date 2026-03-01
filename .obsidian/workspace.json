@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Daily/2026-03-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2026-03-01"
             }
           }
         ]
@@ -205,9 +205,10 @@
   },
   "active": "b5eff7612e065452",
   "lastOpenFiles": [
+    "README.md",
+    "Daily/2026-03-01.md",
     "Other/Ideas/Sinco T Knuren Planning.md",
     "Other/Ideas/Sinco T Arc Ideas.md",
-    "README.md",
     "Other/Characters/Knuren.md",
     "Daily/2026-02-28.md",
     "Projects/Stories/T-mor.md",
@@ -247,7 +248,6 @@
     "filesize/Templates/Story Template.html",
     "filesize/Templates/Species Template.html",
     "filesize/Templates/Story Template.md",
-    "filesize/Templates/Species Template.md",
     "Other/Images/kaicyn-thediscovery.jpg",
     "Untitled.canvas"
   ]

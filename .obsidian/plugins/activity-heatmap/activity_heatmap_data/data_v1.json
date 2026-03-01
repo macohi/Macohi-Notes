@@ -169,6 +169,11 @@
       "mtime": 1772263327453,
       "wordCount": 419,
       "fileSize": 2430
+    },
+    "Other/Characters/Knuren.md": {
+      "mtime": 1772261796930,
+      "wordCount": 1,
+      "fileSize": 0
     }
   },
   "activityOverTime": {
@@ -193,7 +198,7 @@
       "fileSize": 1563
     },
     "2026-02-28": {
-      "wordCount": 660,
+      "wordCount": 661,
       "fileSize": 3969
     }
   }
