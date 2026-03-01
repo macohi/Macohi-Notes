@@ -12,7 +12,8 @@ Here is a step-by-step of the story plotline that I want you to expand into a fu
 6. Tirok is tired of this and personally goes after Sinco in a new mech intended to keep pace with Sinco and overpower Sinco.
 7. Sinco and Tirok battle for a long period of time, please go into as much detail you can and make it last as long as you can
 8. Sinco can't outmaneuver Tirok's mech, and he falters, Tirok is about to land the finishing blow when Sinco calls out: "FUERZA!".
-9. 
+9. Evil Tirok didn't know about Fuerza so he is quickly overpowered and Sinco escapes.
+10. Sinco flies away and lets the Fuerza power fade away
 
 Here's some things that I figured needed extra explanation:
 
