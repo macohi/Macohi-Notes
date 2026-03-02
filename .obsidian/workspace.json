@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Stories/Post-T-mor/RVG.md",
+                "file": "Projects/Plots/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RVG"
+              "title": "Untitled"
             }
           }
         ]
@@ -203,11 +203,12 @@
       "enhance-youtube-links:Get YouTube data": false
     }
   },
-  "active": "34cda017165404b9",
+  "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
+    "Projects/Stories/Post-T-mor/RVG.md",
+    "Projects/Plots/Untitled.md",
     "Projects/Plots/RVG",
     "Daily/2026-03-02.md",
-    "Projects/Stories/Post-T-mor/RVG.md",
     "Other/AI Explanations/Kai-cyn.md",
     "Other/Characters/Kai-cyn.md",
     "Other/AI Plotlines/Kai-cyn/Fights for Strength.md",
@@ -240,7 +241,6 @@
     "Other/AI Plotlines/Sinco T",
     "Other/AI Plotlines",
     "Other/Ideas/Sinco T",
-    "Other/Ideas",
     "Other/Images/line-types.jpg",
     "Other/Images/Pasted image 20260225201826.png",
     "Other/Images/line-types-2.jpg",
