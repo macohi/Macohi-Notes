@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Stories/Post-T-mor/RVG 1.md",
+                "file": "Projects/Stories/Post-T-mor/RVG.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RVG 1"
+              "title": "RVG"
             }
           }
         ]
@@ -205,9 +205,8 @@
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
-    "Projects/Stories/Post-T-mor/RVG.md",
-    "Projects/Stories/Post-T-mor/RVG 1.md",
     "Projects/Stories/Post-T-mor/RVG ; Canvas Adventures.md",
+    "Projects/Stories/Post-T-mor/RVG.md",
     "Projects/Plots/RVG",
     "Daily/2026-03-02.md",
     "Other/AI Explanations/Kai-cyn.md",
