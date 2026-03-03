@@ -11,7 +11,7 @@ Species: [Meta-Human](../../Species/Meta-Human.md)
 
 ## Powers / Techniques
 
-- Hyper Kaeti
+- Hyper Kaeti / Hyper Form
 - [Fuerza](../../AI%20Explanations/Fuerza.md)
 
 - Super Speed

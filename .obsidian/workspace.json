@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Characters/Sinco/Osin.md",
+                "file": "Other/Characters/Sinco/TJ.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Osin"
+              "title": "TJ"
             }
           }
         ]
@@ -205,6 +205,7 @@
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
+    "Other/Characters/Sinco/Tirok.md",
     "Other/Characters/Sinco/Sinco.md",
     "Other/Characters/Sinco/Osin.md",
     "Other/Characters/Sinco/Knuren.md",
@@ -235,7 +236,6 @@
     "Projects/AI Plots/Sinco T/Floating Island (Full).md",
     "Other/AI Plotlines/Sinco T/Floating Island/Floating Island (Part 5) Plotline.md",
     "Other/AI Plotlines/README.md",
-    "Projects/AI Plots/Sinco T/Floating Island/Floating Island (Part 5).md",
     "Projects/AI Plots/Sinco T/Floating Island",
     "Other/AI Plotlines/Sinco T/Floating Island",
     "Projects/AI Plots/Sinco T",

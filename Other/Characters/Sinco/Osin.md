@@ -11,7 +11,7 @@ Species: [Meta-Human](../../Species/Meta-Human.md)
 
 ## Powers / Techniques
 
-- Hyper Kaeti (Retold Variation)
+- Hyper Kaeti / Hyper Form (Retold Variation)
 
 - Super Speed
 - Lightning / Electricity Control
