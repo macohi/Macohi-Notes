@@ -17,7 +17,8 @@ Species: [Stickfigure](../../Species/Stickfigure.md)
 
 - Fury "Form" : Multiplies his power by 3, mainly comes from pure rage but Gray's learned controlling it and eventually starts trying to enhance it.
 
-- After Image : Using his energy to speed away while it leaves behind an after image
+- After Image : Using energy to speed away while it leaves behind an after image.
+
 
 # Projects
 
