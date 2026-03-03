@@ -16,10 +16,8 @@ Species: [Stickfigure](../../Species/Stickfigure.md)
 ## Powers / Techniques
 
 - [Fury "Form"](../../Explanations/Fury%20Form%20(RVG).md)
-
-- After Image
-
-
+- [After Image](../../Explanations/After%20Image.md)
+- 
 # Projects
 
 - [RVG](../../../Projects/Stories/Post-T-mor/RVG.md)
