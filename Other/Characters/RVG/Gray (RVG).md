@@ -11,7 +11,7 @@ Species: Stickfigure
 
 ## Alt Names
 
-- Gra
+- Grey
 
 ## Powers / Techniques
 
