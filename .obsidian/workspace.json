@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Characters/RVG/Gray (RVG).md",
+                "file": "Other/AI Explanations/Tirok.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gray (RVG)"
+              "title": "Tirok"
             }
           }
         ]
@@ -205,8 +205,8 @@
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
-    "Other/Explanations/After Image.md",
     "Other/Characters/RVG/Gray (RVG).md",
+    "Other/Explanations/After Image.md",
     "Other/Explanations/Fury Form (RVG).md",
     "Templates/Explanation Template.md",
     "Templates/AI Explanation Template.md",
