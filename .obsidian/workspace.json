@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Characters/RVG/Gray (RVG).md",
+                "file": "Other/Characters/RVG/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gray (RVG)"
+              "title": "README"
             }
           }
         ]
@@ -205,8 +205,9 @@
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
-    "Other/Characters/README.md",
     "Other/Characters/RVG/Gray (RVG).md",
+    "Other/Characters/RVG/README.md",
+    "Other/Characters/README.md",
     "Other/Species/Stickfigure.md",
     "Projects/Stories/Post-T-mor/RVG.md",
     "Other/Characters/Sinco/Kai-cyn.md",
@@ -234,7 +235,6 @@
     "Other/AI Explanations/Fuerza.md",
     "Other/AI Explanations/Knuren.md",
     "Other/AI Explanations/Sinco.md",
-    "Other/Characters/Sinco/Knuren.md",
     "Projects/AI Plots/Sinco T/Floating Island",
     "Other/AI Plotlines/Sinco T/Floating Island",
     "Projects/AI Plots/Sinco T",
