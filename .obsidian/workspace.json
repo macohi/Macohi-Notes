@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Characters/Sinco/Osin.md",
+                "file": "Other/Characters/Sinco/Sinco.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Osin"
+              "title": "Sinco"
             }
           }
         ]
@@ -205,8 +205,8 @@
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
-    "Other/Characters/Sinco/Sinco.md",
     "Other/Characters/Sinco/Osin.md",
+    "Other/Characters/Sinco/Sinco.md",
     "Other/Characters/Sinco/Knuren.md",
     "Other/Characters/Sinco/Kai-cyn.md",
     "Other/AI Explanations/Fuerza.md",

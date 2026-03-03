@@ -12,7 +12,7 @@ Species: [Meta-Human](../../Species/Meta-Human.md)
 ## Powers / Techniques
 
 - Hyper Kaeti
-- Fuerza
+- [Fuerza](../../AI%20Explanations/Fuerza.md)
 
 - Super Speed
 - Lightning / Electricity Control
