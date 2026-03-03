@@ -15,7 +15,7 @@ Species: [Stickfigure](../../Species/Stickfigure.md)
 
 ## Powers / Techniques
 
-- 
+- Fury "Form" : Multiplies his power by 3, mainly comes from pure rage 
 
 # Projects
 
