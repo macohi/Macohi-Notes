@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Stories/Post-T-mor/RVG.md",
+                "file": "Other/Characters/RVG/Gray (RVG).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RVG"
+              "title": "Gray (RVG)"
             }
           }
         ]
@@ -205,9 +205,9 @@
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
+    "Projects/Stories/Post-T-mor/RVG.md",
     "Other/Characters/RVG/Gray (RVG).md",
     "Other/Characters/Sinco/Kai-cyn.md",
-    "Projects/Stories/Post-T-mor/RVG.md",
     "Other/Characters/Sinco",
     "Other/Characters/RVG",
     "Projects/Stories/Post-T-mor/RVG ; Canvas Adventures.md",
