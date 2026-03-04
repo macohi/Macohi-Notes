@@ -2,7 +2,7 @@
 
 # Overview
 
-The Raditz of RVG
+The Raditz of RVG, he's there for plot purposes
 
 Pronouns: He / Him
 Gender: Male
@@ -11,7 +11,7 @@ Species: [Stickfigure](../../Species/Stickfigure.md)
 
 ## Alt Names
 
-The alt names for the color gray, including other languages.
+The alt names for the color tan, including other languages.
 
 # Projects
 
