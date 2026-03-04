@@ -8,4 +8,5 @@ Also everyone has the same powers and techniques so yeah, they just have to know
 - [After Image (RVG)](../../Explanations/RVG/After%20Image%20(RVG).md)
 - [Mega Energy Blast (RVG)](../../Explanations/RVG/Mega%20Energy%20Blast%20(RVG).md)
 - [Energy Shove (RVG)](../../Explanations/RVG/Energy%20Shove%20(RVG).md)
-- [Regal](../../Explanations/RVG/Regal%20(RVG).md)
+- [Regal (RVG)](../../Explanations/RVG/Regal%20(RVG).md)
+- [Split (RVG)](../../Explanations/RVG/Split%20(RVG).md)
