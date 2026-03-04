@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Explanations/RVG/Energy Shove.md",
+                "file": "Other/Explanations/RVG/Mega Energy Blast.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Energy Shove"
+              "title": "Mega Energy Blast"
             }
           }
         ]
@@ -205,8 +205,8 @@
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
-    "Other/Characters/RVG/Gray (RVG).md",
     "Other/Explanations/RVG/Energy Shove.md",
+    "Other/Characters/RVG/Gray (RVG).md",
     "Other/Characters/RVG/README.md",
     "Other/Explanations/RVG/Mega Energy Blast.md",
     "Other/Explanations/RVG/Fury Form.md",
