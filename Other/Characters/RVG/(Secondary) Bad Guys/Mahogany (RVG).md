@@ -2,7 +2,7 @@
 
 # Overview
 
-Worker of [Sky Blue (RVG)](../(Primary)%20Bad%20Guys/Sky%20Blue%20(RVG).md).
+Worker of [Sky Blue](../(Primary)%20Bad%20Guys/Sky%20Blue%20(RVG).md).
 
 Pronouns: He / Him
 Gender: Male
