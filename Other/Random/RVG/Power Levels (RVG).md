@@ -1,8 +1,8 @@
 
 Latest power levels that I figure important
 
-- Red: 0
-- Orange: 912
-- Green: 1020
 - Gray: 901
+- Red: 1536
+- Green: 510
+- Orange: ???
 - Sky Blue: 2126
