@@ -2,7 +2,7 @@
 
 # Overview
 
-Worker of [Yellow](../(Primary)%20Bad%20Guys/Yellow%2
+Worker of Sky Blue.
 
 Pronouns: He / Him
 Gender: Male
