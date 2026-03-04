@@ -2,7 +2,7 @@
 
 # Overview
 
-The Frieza of RVG.
+Big shot out here with his own subsection of Sky Blue's 
 
 Pronouns: He / Him
 Gender: Male
