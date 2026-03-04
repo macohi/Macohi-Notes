@@ -11,24 +11,10 @@
             "id": "be20a35dcd5e94bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other/Random/RVG/Power Levels (RVG).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Power Levels (RVG)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -205,6 +191,13 @@
   },
   "active": "be20a35dcd5e94bd",
   "lastOpenFiles": [
+    "Other/Explanations/RVG/After Image (RVG).md",
+    "Other/Explanations/RVG/Energy Shove (RVG).md",
+    "Other/Explanations/RVG/Fury Form (RVG).md",
+    "Other/Explanations/RVG/Mega Energy Blast (RVG).md",
+    "Other/Explanations/RVG/Regal (RVG).md",
+    "Other/Explanations/RVG/Split (RVG).md",
+    "Other/Random/RVG/Power Levels (RVG).md",
     "Other/Characters/RVG/(Secondary) Bad Guys/Tan (RVG).md",
     "Other/Characters/RVG/(Secondary) Bad Guys/Mahogany (RVG).md",
     "Other/Characters/RVG/(Secondary) Bad Guys/Aqua Green (RVG).md",
@@ -214,9 +207,7 @@
     "Other/Characters/RVG/Good Guys/Orange (RVG).md",
     "Other/Characters/RVG/Good Guys/Red (RVG).md",
     "Other/Characters/RVG/(Primary) Bad Guys/Yellow (RVG).md",
-    "Other/Random/RVG/Power Levels (RVG).md",
     "Other/Random/RVG",
-    "Other/Explanations/RVG/Regal (RVG).md",
     "Other/Random",
     "Other/Characters/RVG/(Primary) Bad Guys/Blue (RVG).md",
     "Other/Characters/RVG/(Primary) Bad Guys/Sky Blue (RVG).md",
@@ -224,11 +215,7 @@
     "Other/Characters/RVG/(Secondary) Bad Guys",
     "Other/Characters/RVG/Good Guys",
     "Other/Characters/README.md",
-    "Other/Explanations/RVG/After Image (RVG).md",
-    "Other/Explanations/RVG/Energy Shove (RVG).md",
-    "Other/Explanations/RVG/Mega Energy Blast (RVG).md",
     "Projects/Stories/Post-T-mor/RVG.md",
-    "Other/Explanations/RVG/Fury Form (RVG).md",
     "Other/Explanations/RVG",
     "Other/Characters/Sinco/TJ.md",
     "Other/Characters/Sinco/Tirok.md",
@@ -236,7 +223,6 @@
     "Other/Characters/Sinco/Osin.md",
     "Other/Characters/Sinco/Knuren.md",
     "Other/Characters/Sinco/Kai-cyn.md",
-    "Other/AI Explanations/Fuerza.md",
     "Other/Explanations",
     "Other/Characters/Sinco",
     "Other/Characters/RVG",
