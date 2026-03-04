@@ -2,7 +2,7 @@
 
 # Overview
 
-The Raditz of RVG, he's there for plot purposes, he attacked [Gray](Gray%20(RVG).md) and [Red](Red%20(RVG).md) because they were wanted but ended up dying because he didn't finish the job in killing them and just weakened the hell out of them and let them regen.
+The Raditz of RVG, he's there for plot purposes, he attacked [Gray](Gray%20(RVG).md) and [Red](Red%20(RVG).md) because they were wanted, he;s 
 
 Pronouns: He / Him
 Gender: Male
