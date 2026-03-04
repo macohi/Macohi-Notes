@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Characters/RVG/Tan (RVG).md",
+                "file": "Other/Characters/RVG/Yellow (RVG).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tan (RVG)"
+              "title": "Yellow (RVG)"
             }
           }
         ]
@@ -205,8 +205,8 @@
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
-    "Other/Characters/RVG/Yellow (RVG).md",
     "Other/Characters/RVG/Tan (RVG).md",
+    "Other/Characters/RVG/Yellow (RVG).md",
     "Other/Characters/RVG/Orange (RVG).md",
     "Other/Characters/RVG/README.md",
     "Other/Characters/README.md",
