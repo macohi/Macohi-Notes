@@ -1,7 +1,7 @@
 
 Latest power levels that I figure important or that I need
 
-- Gray: 921
+- Gray: 1842
 - Red: 3585
 - Green: 110
 - Orange: 1376
