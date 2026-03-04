@@ -2,7 +2,7 @@
 
 # Overview
 
-The Raditz of RVG, he's there for plot purposes, he attacked [Gray](Gray%20(RVG).md) and [Red](Good%20Guys/Red%20(RVG).md) because they were wanted, he's a worker of [Yellow](Yellow%20(RVG).md).
+The Raditz of RVG, he's there for plot purposes, he attacked [Gray](Good%20Guys/Gray%20(RVG).md) and [Red](Good%20Guys/Red%20(RVG).md) because they were wanted, he's a worker of [Yellow](Yellow%20(RVG).md).
 
 Pronouns: He / Him
 Gender: Male
