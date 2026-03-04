@@ -1,22 +1,18 @@
-#character 
+#character #rvg
 
 # Overview
 
-{{overview}}
+A creati
 
-Pronouns: {{pronouns}}
-Gender: {{gender}}
+Pronouns: He / Him
+Gender: Male
 
-Species: {{species}}
+Species: [Stickfigure](../../../Species/Stickfigure.md)
 
 ## Alt Names
 
-{{alt_names}}
-
-## Powers / Techniques
-
-N / A
+The alt names for the color, including other languages.
 
 # Projects
 
-N / A
+- [RVG](../../../../Projects/Stories/Post-T-mor/RVG.md)
