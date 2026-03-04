@@ -2,7 +2,7 @@
 
 # Overview
 
-Big shot out here with his own subsection of Sky Blue's Workforce. His main target was the pencil [Green](Green%20(RVG).md) had.
+He's got a massive workforce that's out there spreading his influence.
 
 Pronouns: He / Him
 Gender: Male
