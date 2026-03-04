@@ -2,7 +2,7 @@
 
 # Overview
 
-Worker of [Yellow](Yellow%20(RVG).md). B
+Worker of [Yellow](Yellow%20(RVG).md).
 
 Pronouns: He / Him
 Gender: Male
