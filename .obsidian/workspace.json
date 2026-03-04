@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Characters/RVG/Tan (RVG).md",
+                "file": "Other/Characters/RVG/Good Guys/Red (RVG).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tan (RVG)"
+              "title": "Red (RVG)"
             }
           }
         ]
@@ -205,14 +205,14 @@
   },
   "active": "34cda017165404b9",
   "lastOpenFiles": [
-    "Other/Characters/RVG/Untitled",
+    "Other/Characters/RVG/Tan (RVG).md",
+    "Other/Characters/RVG/Good Guys",
     "Other/Characters/RVG/Yellow (RVG).md",
     "Other/Characters/RVG/Sky Blue (RVG).md",
     "Other/Characters/RVG/Gray (RVG).md",
-    "Other/Characters/RVG/Green (RVG).md",
-    "Other/Characters/RVG/Orange (RVG).md",
-    "Other/Characters/RVG/Red (RVG).md",
-    "Other/Characters/RVG/Tan (RVG).md",
+    "Other/Characters/RVG/Good Guys/Green (RVG).md",
+    "Other/Characters/RVG/Good Guys/Orange (RVG).md",
+    "Other/Characters/RVG/Good Guys/Red (RVG).md",
     "Other/Characters/RVG/README.md",
     "Other/Characters/README.md",
     "Other/Explanations/RVG/After Image (RVG).md",
@@ -240,7 +240,6 @@
     "Projects/AI Plots/Sinco T/Floating Island",
     "Other/AI Plotlines/Sinco T/Floating Island",
     "Projects/AI Plots/Sinco T",
-    "Projects/AI Plots",
     "Other/Images/line-types.jpg",
     "Other/Images/Pasted image 20260225201826.png",
     "Other/Images/line-types-2.jpg",
