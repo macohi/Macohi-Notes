@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Characters/RVG/README.md",
+                "file": "Other/Explanations/RVG/Fury Form (RVG).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Fury Form (RVG)"
             }
           }
         ]
@@ -205,12 +205,12 @@
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
-    "Other/Characters/RVG/Gray (RVG).md",
     "Other/Characters/RVG/README.md",
+    "Other/Characters/RVG/Gray (RVG).md",
     "Other/Characters/README.md",
     "Other/Explanations/RVG/Mega Energy Blast.md",
     "Other/Explanations/RVG/Energy Shove.md",
-    "Other/Explanations/RVG/Fury Form.md",
+    "Other/Explanations/RVG/Fury Form (RVG).md",
     "Other/Explanations/RVG/After Image.md",
     "Other/Explanations/RVG",
     "Other/Characters/Sinco/TJ.md",
