@@ -2,7 +2,7 @@
 
 # Overview
 
-One of the main protags of RVG
+One of the main protags of RVG, fighter.
 
 Pronouns: He / Him
 Gender: Male
