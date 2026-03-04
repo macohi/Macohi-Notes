@@ -11,24 +11,10 @@
             "id": "21aabebaf35a04a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other/Characters/RVG/(Secondary) Bad Guys/Aqua Green (RVG).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Aqua Green (RVG)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -205,24 +191,24 @@
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
-    "Other/Characters/RVG/(Secondary) Bad Guys/Mahogany (RVG).md",
-    "Other/Characters/RVG/(Secondary) Bad Guys/Aqua Green (RVG).md",
-    "Other/Characters/RVG/(Secondary) Bad Guys/Tan (RVG).md",
+    "Other/Characters/RVG/Good Guys/Gray (RVG).md",
+    "Other/Characters/RVG/Good Guys/Green (RVG).md",
+    "Other/Characters/RVG/Good Guys/Orange (RVG).md",
+    "Other/Characters/RVG/Good Guys/Red (RVG).md",
+    "Other/Characters/RVG/README.md",
     "Other/Characters/RVG/(Primary) Bad Guys/Yellow (RVG).md",
+    "Other/Characters/RVG/(Secondary) Bad Guys/Aqua Green (RVG).md",
+    "Other/Characters/RVG/(Secondary) Bad Guys/Mahogany (RVG).md",
+    "Other/Characters/RVG/(Secondary) Bad Guys/Tan (RVG).md",
     "Other/Random/RVG/Power Levels.md",
     "Other/Random/RVG",
     "Other/Explanations/RVG/Regal (RVG).md",
     "Other/Random",
     "Other/Characters/RVG/(Primary) Bad Guys/Blue (RVG).md",
     "Other/Characters/RVG/(Primary) Bad Guys/Sky Blue (RVG).md",
-    "Other/Characters/RVG/Good Guys/Red (RVG).md",
     "Other/Characters/RVG/(Primary) Bad Guys",
     "Other/Characters/RVG/(Secondary) Bad Guys",
     "Other/Characters/RVG/Good Guys",
-    "Other/Characters/RVG/Good Guys/Gray (RVG).md",
-    "Other/Characters/RVG/Good Guys/Green (RVG).md",
-    "Other/Characters/RVG/Good Guys/Orange (RVG).md",
-    "Other/Characters/RVG/README.md",
     "Other/Characters/README.md",
     "Other/Explanations/RVG/After Image (RVG).md",
     "Other/Explanations/RVG/Energy Shove (RVG).md",

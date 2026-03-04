@@ -1,3 +1,5 @@
+#rvg
+
 Do not try and make it be logical. It's stick figures based on dragon ball, it's gonna get fuckin' WILD.
 
 Also everyone has the same powers and techniques so yeah, they just have to know how they work and stuff:
