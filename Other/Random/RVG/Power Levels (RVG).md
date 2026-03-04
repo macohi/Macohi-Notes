@@ -7,3 +7,5 @@ Latest power levels that I figure important or that I need
 - Orange: 1376
 
 - Sky Blue: 7000
+
+- Sketch: 0 (His power comes from the pencil)
