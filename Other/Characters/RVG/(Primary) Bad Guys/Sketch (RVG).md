@@ -2,7 +2,7 @@
 
 # Overview
 
-A creation of [Green's](../Good%20Guys/Green%20(RVG).md).
+A creation of [Green's](../Good%20Guys/Green%20(RVG).md). Ate his Pencil and obtained ALOT OF P
 
 Pronouns: He / Him
 Gender: Male
