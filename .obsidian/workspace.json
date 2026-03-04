@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "f738b0712a3084b2",
+        "id": "73938082363c888e",
         "type": "tabs",
         "children": [
           {
-            "id": "21aabebaf35a04a1",
+            "id": "be20a35dcd5e94bd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Other/Random/RVG/Power Levels.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Power Levels"
             }
           }
         ]
@@ -189,17 +203,17 @@
       "enhance-youtube-links:Get YouTube data": false
     }
   },
-  "active": "21aabebaf35a04a1",
+  "active": "34cda017165404b9",
   "lastOpenFiles": [
+    "Other/Characters/RVG/(Secondary) Bad Guys/Tan (RVG).md",
+    "Other/Characters/RVG/(Secondary) Bad Guys/Mahogany (RVG).md",
+    "Other/Characters/RVG/(Secondary) Bad Guys/Aqua Green (RVG).md",
+    "Other/Characters/RVG/README.md",
     "Other/Characters/RVG/Good Guys/Gray (RVG).md",
     "Other/Characters/RVG/Good Guys/Green (RVG).md",
     "Other/Characters/RVG/Good Guys/Orange (RVG).md",
     "Other/Characters/RVG/Good Guys/Red (RVG).md",
-    "Other/Characters/RVG/README.md",
     "Other/Characters/RVG/(Primary) Bad Guys/Yellow (RVG).md",
-    "Other/Characters/RVG/(Secondary) Bad Guys/Aqua Green (RVG).md",
-    "Other/Characters/RVG/(Secondary) Bad Guys/Mahogany (RVG).md",
-    "Other/Characters/RVG/(Secondary) Bad Guys/Tan (RVG).md",
     "Other/Random/RVG/Power Levels.md",
     "Other/Random/RVG",
     "Other/Explanations/RVG/Regal (RVG).md",
