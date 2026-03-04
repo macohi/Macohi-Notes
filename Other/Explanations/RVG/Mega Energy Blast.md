@@ -1,3 +1,3 @@
 #explanation
 
-Mega Energy Blast: Description
+Mega Energy Blast: This is 
