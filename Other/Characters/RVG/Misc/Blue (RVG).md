@@ -2,7 +2,7 @@
 
 # Overview
 
-Worker of [Yellow](Yellow%20(RVG).md). Revived by Sketch to beat up [Orange](../Good%20Guys/Orange%20(RVG).md) but he wants to beat up [Red](../Good%20Guys/Red%20(RVG).md) and [Gray](../Good%20Guys/Gray%20(RVG).md).
+Worker of [Yellow](Yellow%20(RVG).md). Revived by Sketch to beat up [Orange](../Good%20Guys/Orange%20(RVG).md) but he wants to beat up [Gray](../Good%20Guys/Gray%20(RVG).md).
 
 Pronouns: He / Him
 Gender: Male
