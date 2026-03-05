@@ -10,4 +10,4 @@ Latest power levels that I figure important or that I need
 
 - Sky Blue: 7000
 
-- Sketch: 5718 * 0.9 (Most of his power comes from the pencil)
+- Sketch: 4574 (Most of his power comes from the pencil)
