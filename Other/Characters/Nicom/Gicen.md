@@ -14,7 +14,7 @@ Species: [Human](../../Species/Human.md) (Unless you wanna count the Goddess rin
 
 ## Powers / Techniques
 
-N / A
+- Goddess P
 
 # Projects
 
