@@ -2,7 +2,7 @@
 
 # Overview
 
-When Nicom was younger and now, everything was and is fine but in that inbetween point alot happened.
+When Nicom was younger and now, everything was and is fine but in that in-between point a lot happened.
 
 To list it in order 
 - Nicom was raped 
@@ -14,7 +14,13 @@ And now Nicom lives in a place of pure white where the goddesses can give them a
 
 His Girlfriend and the friend who saved him is [Aurora](Aurora.md).
 
-By now Nicom's over the whole being raped thing but it's still a possibility that lives in the back of his mind. But he's living with people he knows, him and Aurora! Different versions who are different but its still them, so he's comfortable. Also little note this Nicom's technically the only one who was raped that's still here, interesting.
+By now Nicom's over the whole being raped thing but it's still a possibility that lives in the back of his mind.
+
+But he's living with people he knows, him and Aurora!
+
+Different versions who are different but its still them, so he's comfortable.
+
+Also little note this Nicom's technically the only one who was raped that's still here, interesting.
 
 Pronouns: He / Him
 Gender: Male
