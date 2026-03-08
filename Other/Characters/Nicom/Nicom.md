@@ -10,7 +10,11 @@ To list it in order
 - Nicom started dating the friend after a bit 
 - Nicom meet other versions of themselves from different AU's (that I made with a friend hehe) 
 
-And now Nicom lives in a place of pure white where the goddesses can give them anything they desire, and it's been pretty chill. Also his Girlfriend is Aurora by DatFlora (https://unvale.io/DatFlora) if you wanted to know. By now Nicom's over the whole being raped thing but it's still a possibility that lives in the back of his mind. But he's living with people he knows, him and Aurora! Different versions who are different but its still them, so he's comfortable. Also little note this Nicom's technically the only one who was raped that's still here, interesting.
+And now Nicom lives in a place of pure white where the goddesses can give them anything they desire, and it's been pretty chill.
+
+His Girlfriend and the friend who saved him is [Aurora](Aurora.md).
+
+By now Nicom's over the whole being raped thing but it's still a possibility that lives in the back of his mind. But he's living with people he knows, him and Aurora! Different versions who are different but its still them, so he's comfortable. Also little note this Nicom's technically the only one who was raped that's still here, interesting.
 
 Pronouns: He / Him
 Gender: Male
