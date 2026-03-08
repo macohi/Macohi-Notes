@@ -3,7 +3,7 @@
 # Overview
 
 Nicom zone is filled with the following characters:
-- [[Nicom]]
+- [Nicom](../../../Nicom.md)
 - [[Aurora]]
 - [[Hero Nicom]]
 - [[Villain Aurora]]
