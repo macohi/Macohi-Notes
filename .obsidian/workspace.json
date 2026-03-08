@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "Gicen"
             }
+          },
+          {
+            "id": "22ba3b6d106bb959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Goddess Ring.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Goddess Ring"
+            }
           }
         ]
       }
@@ -205,8 +229,9 @@
   },
   "active": "f7cbcc27565ff698",
   "lastOpenFiles": [
-    "Other/Characters/Nicom/Aurora.md",
+    "The Goddess Ring.md",
     "Other/Characters/Nicom/Gicen.md",
+    "Other/Characters/Nicom/Aurora.md",
     "Templates/Character Template.md",
     "Projects/Stories/Post-T-mor/Nicom Zone.md",
     "Other/Characters/Nicom/Twisted Nicom.md",
@@ -232,7 +257,6 @@
     "Other/Explanations/RVG/Regal (RVG).md",
     "Other/Characters/RVG/(Primary) Bad Guys/Sketch (RVG).md",
     "Other/Characters/RVG/(Primary) Bad Guys/Sky Blue (RVG).md",
-    "Daily/2026-03-03.md",
     "Other/Random/RVG",
     "Other/Random",
     "Other/Characters/RVG/(Primary) Bad Guys",
