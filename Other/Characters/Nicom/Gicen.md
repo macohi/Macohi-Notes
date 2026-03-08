@@ -14,7 +14,7 @@ Species: [Human](../../Species/Human.md) (Unless you wanna count the Goddess rin
 
 ## Powers / Techniques
 
-- Goddess Powers via [The Goddess Ring](../../Explanations/The%20Goddess%20Ring.md)
+- Goddess Powers via [The Goddess Ring](../../Explanations/Nicom/The%20Goddess%20Ring.md)
 
 # Projects
 
