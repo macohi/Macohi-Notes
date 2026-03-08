@@ -41,8 +41,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,8 +94,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,7 +213,7 @@
       "enhance-youtube-links:Get YouTube data": false
     }
   },
-  "active": "22ba3b6d106bb959",
+  "active": "f7cbcc27565ff698",
   "lastOpenFiles": [
     "Other/Explanations/Nicom/The Goddess Ring.md",
     "Other/Characters/Nicom/Villain Aurora.md",

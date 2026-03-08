@@ -4,14 +4,10 @@
 
 {{overview}}
 
-Pronouns: {{pronouns}}
-Gender: {{gender}}
+Pronouns: She / Her
+Gender: Female
 
-Species: {{species}}
-
-## Alt Names
-
-{{alt_names}}
+Species: [Meta-Human](../../Species/Meta-Human.md)
 
 ## Powers / Techniques
 
