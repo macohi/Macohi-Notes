@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "171f4d4d02af293d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goddess Aurora.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Goddess Aurora"
+            }
+          },
+          {
+            "id": "072614ee63c46722",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gicen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Gicen"
+            }
+          },
+          {
             "id": "6702a35f037fdc4f",
             "type": "leaf",
             "state": {
@@ -55,8 +103,7 @@
               "title": "Villain Aurora"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,10 +275,12 @@
       "enhance-youtube-links:Get YouTube data": false
     }
   },
-  "active": "6702a35f037fdc4f",
+  "active": "0c51dc317237f6a4",
   "lastOpenFiles": [
-    "Villain Aurora.md",
+    "Goddess Aurora.md",
     "Projects/Stories/Post-T-mor/Nicom Zone.md",
+    "Gicen.md",
+    "Villain Aurora.md",
     "Nicom.md",
     "Aurora.md",
     "Hero Nicom.md",
@@ -255,8 +304,6 @@
     "Other/Explanations/RVG/Split (RVG).md",
     "Other/Explanations/RVG/After Image (RVG).md",
     "Other/Explanations/RVG/Energy Shove (RVG).md",
-    "Other/Characters/RVG/(Secondary) Bad Guys/Tan (RVG).md",
-    "Other/Characters/RVG/(Secondary) Bad Guys/Mahogany (RVG).md",
     "Other/Random/RVG",
     "Other/Random",
     "Other/Characters/RVG/(Primary) Bad Guys",
