@@ -16,6 +16,7 @@ Species: [Meta-Human](../../Species/Meta-Human.md) (Mage?)
 - Electricity
 - Magic
 - Liquake (goo snake)
+- Telepathy
 
 # Projects
 
