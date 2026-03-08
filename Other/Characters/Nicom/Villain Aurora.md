@@ -4,7 +4,7 @@
 
 A very aggressive version of [Aurora](Aurora.md), at least early on, now she's kinda chill, but still a bit violent.
 
-In her universe it was at a party where she got jealous of [Nioc](Nioc.md)
+In her universe it was at a party where she got jealous of [Nioc](Nioc.md) and went on her vill
 
 Pronouns: She / Her
 Gender: Female
