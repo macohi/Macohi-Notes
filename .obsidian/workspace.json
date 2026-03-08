@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Characters/Nicom/Rina.md",
+                "file": "Other/Characters/Nicom/Ocpi (Nicom).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rina"
+              "title": "Ocpi (Nicom)"
             }
           }
         ],
@@ -230,9 +230,9 @@
   },
   "active": "22ba3b6d106bb959",
   "lastOpenFiles": [
-    "Other/Characters/Nicom/Goddess Aurora.md",
-    "Other/Characters/Nicom/Rina.md",
     "Other/Characters/Nicom/Nioc.md",
+    "Other/Characters/Nicom/Rina.md",
+    "Other/Characters/Nicom/Goddess Aurora.md",
     "Other/Characters/Nicom/Ocpi (Nicom).md",
     "Other/Characters/Nicom/Hero Nicom.md",
     "Daily/2026-03-08.md",
