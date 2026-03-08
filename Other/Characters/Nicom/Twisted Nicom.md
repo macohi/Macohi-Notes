@@ -2,7 +2,7 @@
 
 # Overview
 
-A Twisted Nicom, acts more like a cat then anything and really likes [Aurora](Aurora.md). He's fine with everyone else now but earlier 
+A Twisted Nicom, acts more like a cat then anything and really likes [Aurora](Aurora.md). He's fine with everyone else now but earlier he would've only liked her and growled a
 
 Pronouns: He / Him
 Gender: Male
