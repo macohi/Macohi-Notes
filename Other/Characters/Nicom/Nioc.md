@@ -9,10 +9,6 @@ Gender: Male
 
 Species: [Human](../../Species/Human.md)
 
-## Powers / Techniques
-
-N / A
-
 # Projects
 
 N / A
