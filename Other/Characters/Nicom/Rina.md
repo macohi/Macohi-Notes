@@ -11,7 +11,7 @@ Species: [Meta-Human](../../Species/Meta-Human.md)
 
 ## Powers / Techniques
 
-- Goddess Powers via [The Goddess Ring](../../Explanations/Nicom/The%20Goddess%20Ring.md)
+- Goddess Powers via inherite[The Goddess Ring](../../Explanations/Nicom/The%20Goddess%20Ring.md)
 
 # Projects
 
