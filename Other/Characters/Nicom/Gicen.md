@@ -18,4 +18,4 @@ N / A
 
 # Projects
 
-- Nicom Zone
+- [Nicom Zone](../../../Projects/Stories/Post-T-mor/Nicom%20Zone.md)
