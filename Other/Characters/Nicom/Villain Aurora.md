@@ -13,7 +13,7 @@ Species: [Meta-Human](../../Species/Meta-Human.md)
 
 - Electricity
 
-She's also got a bunch of
+She's also got a bunch of 
 
 # Projects
 
