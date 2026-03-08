@@ -2,7 +2,7 @@
 
 # Overview
 
-A nicom
+A Nicom
 
 Pronouns: He / Him
 Gender: Male
