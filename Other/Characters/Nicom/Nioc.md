@@ -7,7 +7,7 @@ The [Osin](../Sinco/Osin.md) replacement of the Nicom universe since Nicom isn't
 Pronouns: She / Her
 Gender: Male
 
-Species: {{species}}
+Species: [Human](../../Species/Human.md)
 
 ## Powers / Techniques
 
