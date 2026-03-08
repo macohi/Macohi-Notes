@@ -2,7 +2,7 @@
 
 # Overview
 
-Alternate version of [Sinco](../Sinco/Sinco.md) who is siblings with [[../Sinco/Ocpi (Sinco)]]
+Alternate version of [Sinco](../Sinco/Sinco.md) who is instead of dating and eventually being married to Ocpi, is now [Ocpi's](Ocpi%20(Nicom).md) younger sibling.
 
 Pronouns: He / Him
 Gender: Male
