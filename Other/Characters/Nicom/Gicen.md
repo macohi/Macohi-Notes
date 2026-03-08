@@ -18,5 +18,4 @@ N / A
 
 # Projects
 
-N / A
-
+- Nicom Zone
