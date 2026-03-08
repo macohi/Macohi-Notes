@@ -2,7 +2,7 @@
 
 # Overview
 
-Girlfriend of [Nicom](Nicom.md). This is my girlfriend ([Dat_Flora](https://www.youtube.com/@Dat_Flora))'s character.
+Ex-Husband (?) now I guess just regular boyfriend of [Goddess Aurora](Goddess%20Aurora.md). I dunno, they got married since they became immortal
 
 Pronouns: She / Her
 Gender: Male
