@@ -9,7 +9,7 @@ Nicom zone is filled with the following characters:
 - [Villain Aurora](../../../Other/Characters/Nicom/Villain%20Aurora.md)
 - [Gicen / Goddess Nicom](../../../Other/Characters/Nicom/Gicen.md)
 - [Goddess Aurora](../../../Other/Characters/Nicom/Goddess%20Aurora.md)
-- [[Twisted Nicom]]
+- [[../../../Other/Characters/Nicom/Twisted Nicom]]
 
 # Links
 

@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Twisted Nicom.md",
+                "file": "Projects/Stories/Post-T-mor/Nicom Zone.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Twisted Nicom"
+              "title": "Nicom Zone"
             }
           }
         ],
@@ -350,8 +350,8 @@
   },
   "active": "f7cbcc27565ff698",
   "lastOpenFiles": [
+    "Other/Characters/Nicom/Twisted Nicom.md",
     "Projects/Stories/Post-T-mor/Nicom Zone.md",
-    "Twisted Nicom.md",
     "Other/Characters/Nicom/Aurora.md",
     "Other/Characters/Nicom/Gicen.md",
     "Other/Characters/Nicom/Hero Nicom.md",
