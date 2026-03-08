@@ -15,4 +15,4 @@ Species: [Meta-Human](../../Species/Meta-Human.md)
 
 # Projects
 
-- 
+- [Nicom Zone](../../../Projects/Stories/Post-T-mor/Nicom%20Zone.md)
