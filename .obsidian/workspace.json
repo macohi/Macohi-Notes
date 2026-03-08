@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aurora.md",
+                "file": "Other/Characters/Nicom/Aurora.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Villain Aurora.md",
+                "file": "Other/Characters/Nicom/Villain Aurora.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nicom.md",
+                "file": "Other/Characters/Nicom/Nicom.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aurora.md",
+                "file": "Other/Characters/Nicom/Aurora.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -102,9 +102,81 @@
               "icon": "lucide-file",
               "title": "Aurora"
             }
+          },
+          {
+            "id": "84bcca583ebbe4de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Characters/Nicom/Villain Aurora.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Villain Aurora"
+            }
+          },
+          {
+            "id": "4abc68f53950ca52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Characters/Nicom/Nicom.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nicom"
+            }
+          },
+          {
+            "id": "f7cbcc27565ff698",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Stories/Post-T-mor/Nicom Zone.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nicom Zone"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -276,17 +348,17 @@
       "enhance-youtube-links:Get YouTube data": false
     }
   },
-  "active": "f487fab50eea90e7",
+  "active": "f7cbcc27565ff698",
   "lastOpenFiles": [
-    "Hero Nicom.md",
-    "Nicom.md",
-    "Villain Aurora.md",
+    "Other/Characters/Nicom/Aurora.md",
+    "Other/Characters/Nicom/Gicen.md",
+    "Other/Characters/Nicom/Hero Nicom.md",
+    "Other/Characters/Nicom/Goddess Aurora.md",
+    "Other/Characters/Nicom/Nicom.md",
+    "Other/Characters/Nicom/Villain Aurora.md",
     "README.md",
-    "Aurora.md",
     "Projects/Stories/Post-T-mor/Nicom Zone.md",
     "Other/Characters/Nicom",
-    "Gicen.md",
-    "Goddess Aurora.md",
     "Other/Random/RVG/Power Levels (RVG).md",
     "Daily/2026-03-08.md",
     "Other/Number Phrases.md",
