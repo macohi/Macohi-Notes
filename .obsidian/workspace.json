@@ -35,10 +35,24 @@
             "id": "22ba3b6d106bb959",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-03-08.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-08"
             }
           }
         ],
@@ -216,6 +230,7 @@
   },
   "active": "22ba3b6d106bb959",
   "lastOpenFiles": [
+    "Daily/2026-03-08.md",
     "Other/Characters/Nicom/Nioc.md",
     "Other/Characters/Nicom/Hero Nicom.md",
     "Other/Characters/Nicom/Ocpi (Nicom).md",
@@ -233,7 +248,6 @@
     "README.md",
     "Other/Characters/Nicom",
     "Other/Random/RVG/Power Levels (RVG).md",
-    "Daily/2026-03-08.md",
     "Other/Number Phrases.md",
     "Other/Characters/RVG/Misc/Blue (RVG).md",
     "Other/Explanations/RVG/Fury Form 2 (RVG).md",
