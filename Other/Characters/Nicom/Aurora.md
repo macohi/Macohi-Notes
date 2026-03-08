@@ -8,3 +8,7 @@ Pronouns: She / Her
 Gender: Female
 
 Species: [Human](../../Species/Human.md)
+
+# Projects
+
+- [Nicom Zone](../../../Projects/Stories/Post-T-mor/Nicom%20Zone.md)
