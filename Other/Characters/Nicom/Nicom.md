@@ -2,8 +2,13 @@
 
 # Overview
 
-Alternate version of [Sinco](../Sinco/Sinco.md) who is instead of dating and eventually being married to Ocpi, is now [Ocpi's](Ocpi%20(Nicom).md) younger sibling.
+When Nicom was younger and now, everything was and is fine but in that inbetween point alot happened.
 
+To list it in order 
+- Nicom was raped 
+- Nicom's Rapists were killed by his friend after he told her about the whole thing 
+- Nicom started dating the friend after a bit 
+- Nicom meet other versions of himselfs from different AU's (that I made with a friend hehe) And now Nicom lives in a place of pure white where the goddesses (another AU version of him and the friend who actually got married!) can give them anything they desire, and it's been pretty chill. Also his Girlfriend is Aurora by DatFlora (https://unvale.io/DatFlora) if you wanted to know. By now Nicom's over the whole being raped thing but it's still a possibility that lives in the back of his mind. But he's living with people he knows, him and Aurora! Different versions who are different but its still them, so he's comfortable. Also little note this Nicom's technically the only one who was raped that's still here, interesting.
 
 Pronouns: He / Him
 Gender: Male
