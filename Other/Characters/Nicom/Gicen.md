@@ -8,21 +8,8 @@ Pronouns: She / Her
 Gender: Male
 
 Species: [Human](../../Species/Human.md) (Unless you wanna count the Goddess ring as a)
-
-#character 
-
-# Overview
-
-{{overview}}
-
-Pronouns: {{pronouns}}
-Gender: {{gender}}
-
-Species: {{species}}
-
 ## Alt Names
 
-{{alt_names}}
 
 ## Powers / Techniques
 
