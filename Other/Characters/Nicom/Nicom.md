@@ -2,6 +2,8 @@
 
 # Overview
 
+Alternate version of [Sinco](../Sinco/Sinco.md) who's now [siblings with Ocpi](Ocpi%20(Nicom).md) instead of dating her.
+
 When Nicom was younger and now, everything was and is fine but in that in-between point a lot happened.
 
 To list it in order 
