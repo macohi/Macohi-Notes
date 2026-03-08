@@ -2,7 +2,9 @@
 
 # Overview
 
-Her story with [Gicen](Gicen.md)
+Her story with [Gicen](Gicen.md) was explained there.
+
+Goddess Aurora is a version of Aurora that while dating Gicen, they discovered The Goddess Rings and they were worthy of them, now they're goddesses.
 
 Pronouns: She / Her
 Gender: Female
