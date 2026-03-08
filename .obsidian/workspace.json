@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Characters/Nicom/Villain Aurora.md",
+                "file": "Other/Characters/Nicom/Nioc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Villain Aurora"
+              "title": "Nioc"
             }
           },
           {
@@ -215,8 +215,9 @@
   },
   "active": "f7cbcc27565ff698",
   "lastOpenFiles": [
-    "Other/Explanations/Nicom/The Goddess Ring.md",
     "Other/Characters/Nicom/Villain Aurora.md",
+    "Other/Characters/Nicom/Nioc.md",
+    "Other/Explanations/Nicom/The Goddess Ring.md",
     "Other/Characters/Nicom/Hero Nicom.md",
     "Other/Characters/Nicom/Twisted Nicom.md",
     "Other/Characters/Nicom/Nicom.md",
@@ -243,7 +244,6 @@
     "Other/Characters/RVG/README.md",
     "Other/Explanations/RVG/Mega Energy Blast (RVG).md",
     "Other/Characters/README.md",
-    "Other/Explanations/RVG/Regal (RVG).md",
     "Other/Random/RVG",
     "Other/Random",
     "Other/Characters/RVG/(Primary) Bad Guys",

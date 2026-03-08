@@ -4,12 +4,12 @@
 
 A very aggressive version of [Aurora](Aurora.md), at least early on, now she's kinda chill, but still a bit violent.
 
-In her universe it was at a party where she got jealous of 
+In her universe it was at a party where she got jealous of Nioc
 
 Pronouns: She / Her
 Gender: Female
 
-Species: [Meta-Human](../../Species/Meta-Human.md) (Mage?)
+Species: [Meta-Human](../../Species/Meta-Human.md) (Mage)
 
 ## Powers / Techniques
 
