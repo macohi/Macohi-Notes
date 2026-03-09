@@ -2,7 +2,7 @@
 
 # Overview
 
-Child of 
+Child of H
 
 Pronouns: She / Her
 Gender: Female
@@ -11,7 +11,7 @@ Species: [Meta-Human](../../Species/Meta-Human.md)
 
 ## Powers / Techniques
 
-- Goddess Powers via inherited [Goddess Ring](../../Explanations/Nicom/The%20Goddess%20Ring.md) powers
+- Mage powers
 
 # Projects
 
