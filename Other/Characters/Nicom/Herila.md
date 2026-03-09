@@ -2,7 +2,7 @@
 
 # Overview
 
-Child of [Hero Nicom](Hero%20Nicom.md) and /Vi
+Child of [Hero Nicom](Hero%20Nicom.md) and [Villain Aurora](Villain%20Aurora.md). 
 
 Pronouns: She / Her
 Gender: Female
