@@ -2,7 +2,7 @@
 
 # Overview
 
-Child of H
+Child of [Hero Nicom](Hero%20Nicom.md) and /Vi
 
 Pronouns: She / Her
 Gender: Female
