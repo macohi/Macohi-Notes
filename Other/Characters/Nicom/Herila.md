@@ -2,7 +2,7 @@
 
 # Overview
 
-Child of [Hero Nicom](Hero%20Nicom.md) and [Villain Aurora](Villain%20Aurora.md). 
+Child of [Hero Nicom](Hero%20Nicom.md) and [Villain Aurora](Villain%20Aurora.md). She was born a year before [Rina](Rina.md) and is more a goofy, then randomly serious kid who has an unhealthy obsession with violence and arson (hehe)
 
 Pronouns: She / Her
 Gender: Female

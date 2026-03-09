@@ -35,24 +35,10 @@
             "id": "22ba3b6d106bb959",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other/Characters/Nicom/Herila.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Herila"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -230,8 +216,8 @@
   },
   "active": "22ba3b6d106bb959",
   "lastOpenFiles": [
-    "Other/Characters/Nicom/Rina.md",
     "Other/Characters/Nicom/Herila.md",
+    "Other/Characters/Nicom/Rina.md",
     "Daily/2026-02-23.md",
     "Daily/2026-03-09.md",
     "Other/Characters/Nicom/Ocpi (Nicom).md",
