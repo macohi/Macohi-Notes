@@ -11,4 +11,4 @@ Species: N / A
 
 ## Powers / Techniques
 
-- Writer power
+- Writer powers
