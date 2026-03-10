@@ -2,9 +2,9 @@
 
 # Overview
 
-{{overview}}
+The female half of Bopel, 
 
-Pronouns: They / Them / 
+Pronouns: They / Them / She / Her
 Gender: Female
 
 Species: N / A
