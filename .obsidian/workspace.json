@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Characters/Nicom/Nioc.md",
+                "file": "Other/Characters/Representations/Macohi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nioc"
+              "title": "Macohi"
             }
           }
         ]
@@ -205,6 +205,11 @@
   },
   "active": "f7cbcc27565ff698",
   "lastOpenFiles": [
+    "Other/Characters/Representations/Maki.md",
+    "Other/Characters/Representations/Macohi.md",
+    "Other/Characters/Representations/Bopel.md",
+    "Other/Characters/Nicom/Nioc.md",
+    "Other/Characters/Representations",
     "Daily/2026-03-08.md",
     "Daily/2026-03-09.md",
     "Daily/2026-03-02.md",
@@ -212,7 +217,6 @@
     "Other/Characters/Nicom/Rina.md",
     "Daily/2026-02-23.md",
     "Other/Characters/Nicom/Ocpi (Nicom).md",
-    "Other/Characters/Nicom/Nioc.md",
     "Other/Characters/Nicom/Goddess Aurora.md",
     "Other/Characters/Nicom/Hero Nicom.md",
     "Other/Characters/Nicom/Twisted Nicom.md",
@@ -230,9 +234,6 @@
     "Other/Random/RVG/Power Levels (RVG).md",
     "Other/Number Phrases.md",
     "Other/Characters/RVG/Misc/Blue (RVG).md",
-    "Other/Explanations/RVG/Fury Form 2 (RVG).md",
-    "Daily/2026-03-05.md",
-    "Other/Explanations/RVG/Fury Form (RVG).md",
     "Other/Characters/RVG/Misc",
     "Other/Random/RVG",
     "Other/Random",
@@ -240,7 +241,6 @@
     "Other/Characters/RVG/(Secondary) Bad Guys",
     "Other/Characters/RVG/Good Guys",
     "Other/Explanations/RVG",
-    "Other/Explanations",
     "Other/Images/line-types.jpg",
     "Other/Images/Pasted image 20260225201826.png",
     "Other/Images/line-types-2.jpg",
