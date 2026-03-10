@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Characters/Representations/Macohi.md",
+                "file": "Other/Characters/Representations/Bopel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Macohi"
+              "title": "Bopel"
             }
           }
         ]
@@ -205,8 +205,8 @@
   },
   "active": "f7cbcc27565ff698",
   "lastOpenFiles": [
-    "Other/Characters/Representations/Maki.md",
     "Other/Characters/Representations/Macohi.md",
+    "Other/Characters/Representations/Maki.md",
     "Other/Characters/Representations/Bopel.md",
     "Other/Characters/Nicom/Nioc.md",
     "Other/Characters/Representations",

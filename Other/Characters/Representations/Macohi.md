@@ -2,10 +2,10 @@
 
 # Overview
 
-The female half of [Bopel](Bopel.md), more of an introvert then [Macohi](Macohi.md). The kinder more caring side that is also an emotional trainwreck.
+The male half of [Bopel](Bopel.md), annoying extrovert that still cares but is more likely to overwhelm you then anything...
 
-Pronouns: They / Them / She / Her
-Gender: Female
+Pronouns: They / Them / He / Him
+Gender: Male
 
 Species: N / A
 
