@@ -29,6 +29,10 @@ Gender: Male
 
 Species: [Human](../../Species/Human.md)
 
+# Power(?)
+
+- Can toggle between girl and boy with a kiss cause of [Rina](Rina.md) and [Herila](Herila.md).
+
 # Projects
 
 - [Nicom Zone](../../../Projects/Stories/Post-T-mor/Nicom%20Zone.md)
