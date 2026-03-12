@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-03-11.md",
+                "file": "Daily/2026-03-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-11"
+              "title": "2026-03-12"
             }
           }
         ]
@@ -205,8 +205,9 @@
   },
   "active": "f7cbcc27565ff698",
   "lastOpenFiles": [
-    "Daily/2026-03-10.md",
     "Daily/2026-03-11.md",
+    "Daily/2026-03-12.md",
+    "Daily/2026-03-10.md",
     "Other/Characters/Nicom/Nicom.md",
     "Other/Explanations/Daily/Watermelon Gummy Candy.md",
     "Other/Explanations/Daily",
@@ -233,7 +234,6 @@
     "Other/Explanations/Nicom",
     "Templates/Character Template.md",
     "Projects/Stories/Post-T-mor/Nicom Zone.md",
-    "README.md",
     "Other/Characters/Nicom",
     "Other/Characters/RVG/Misc",
     "Other/Random/RVG",
