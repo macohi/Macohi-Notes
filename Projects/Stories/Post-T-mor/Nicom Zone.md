@@ -2,17 +2,11 @@
 
 # Overview
 
-Nicom zone is filled with the following characters:
-- [Nicom](../../../Other/Characters/Nicom/Nicom.md)
-- [Aurora](../../../Other/Characters/Nicom/Aurora.md)
-- [Hero Nicom](../../../Other/Characters/Nicom/Hero%20Nicom.md)
-- [Villain Aurora](../../../Other/Characters/Nicom/Villain%20Aurora.md)
-- [Gicen / Goddess Nicom](../../../Other/Characters/Nicom/Gicen.md)
-- [Goddess Aurora](../../../Other/Characters/Nicom/Goddess%20Aurora.md)
-- [Twisted Nicom](../../../Other/Characters/Nicom/Twisted%20Nicom.md)
+Nicom zone is filled with [Nicom](../../../Other/Characters/Nicom/Nicom.md) and [Aurora](../../../Other/Characters/Nicom/Aurora.md) related characters.
 
 They've all got their own lores n stuff and Nicom Zone brings them all together.
 
+And then some Sinco characters may join in, mainly [Sinco](../../../Other/Characters/Sinco/Sinco.md), [Ocpi (Sinco)](../../../Other/Characters/Sinco/Ocpi%20(Sinco).md), and Dot right now
 # Links
 
 None as of T-mor
