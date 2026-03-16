@@ -32,7 +32,7 @@ Species: [Human](../../Species/Human.md)
 # Power(?)
 
 - Can toggle between girl and boy with a kiss cause of [Rina](Rina.md) and [Herila](Herila.md).
-- Herila
+	- Can control what clothes he switches with, if it's the clothes he's wearing now or the clothes he wore before as the gender he is turning to
 
 # Projects
 
