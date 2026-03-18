@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-03-17.md",
+                "file": "Daily/2026-03-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-17"
+              "title": "2026-03-18"
             }
           }
         ]
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2026-03-17.md",
+                "file": "Daily/2026-03-18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-17"
+              "title": "Outline of 2026-03-18"
             }
           }
         ],
@@ -195,8 +195,9 @@
   },
   "active": "c53ca75da10dcb8e",
   "lastOpenFiles": [
-    "Daily/2026-03-16.md",
     "Daily/2026-03-17.md",
+    "Daily/2026-03-18.md",
+    "Daily/2026-03-16.md",
     "Daily/2026-03-15.md",
     "Projects/Stories/Post-T-mor/Nicom Zone.md",
     "Other/Characters/Nicom/Nicom.md",
@@ -223,7 +224,6 @@
     "Other/Characters/Nicom/Herila.md",
     "Other/Characters/Nicom/Rina.md",
     "Other/Characters/Nicom/Ocpi (Nicom).md",
-    "Other/Characters/Nicom/Goddess Aurora.md",
     "Other/Explanations/Nicom",
     "Other/Characters/Nicom",
     "Other/Characters/RVG/Misc",
