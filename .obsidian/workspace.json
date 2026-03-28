@@ -11,10 +11,24 @@
             "id": "c53ca75da10dcb8e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-03-27.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-27"
             }
           }
         ]
@@ -190,6 +204,7 @@
   },
   "active": "c53ca75da10dcb8e",
   "lastOpenFiles": [
+    "Daily/2026-03-27.md",
     "Daily/2026-03-18.md",
     "Daily/2026-03-17.md",
     "Daily/2026-03-16.md",
@@ -218,7 +233,6 @@
     "Daily/2026-03-02.md",
     "Other/Characters/Nicom/Herila.md",
     "Other/Characters/Nicom/Rina.md",
-    "Other/Characters/Nicom/Ocpi (Nicom).md",
     "Other/Explanations/Nicom",
     "Other/Characters/Nicom",
     "Other/Characters/RVG/Misc",
