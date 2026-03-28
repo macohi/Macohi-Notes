@@ -1,4 +1,4 @@
-#aiplot #sinco 
+#season1 #aiplot #sinco 
 
 Sand roared through the ancient chamber, pouring in from cracks and fissures in the Floating Island above. The massive green glow of the Master Emerald was dimmed by whirling grains, swirling into towering mini-tornadoes as the chamber trembled.
 

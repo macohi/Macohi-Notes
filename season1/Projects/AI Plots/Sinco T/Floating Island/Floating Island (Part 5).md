@@ -1,4 +1,4 @@
-#aiplot #sinco
+#season1 #aiplot #sinco
 
 Sinco and Tirok moved as one—charging at each other in an instant, green and red sparks colliding, the corridor shaking from the impact of their speed. The Death Star groaned, machinery rattling, warning lights flashing.
 

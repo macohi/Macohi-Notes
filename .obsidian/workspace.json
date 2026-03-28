@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "season2/Test.md",
+                "file": "season1/Projects/AI Plots/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "README"
             }
           }
         ]
@@ -202,8 +202,14 @@
       "enhance-youtube-links:Get YouTube data": false
     }
   },
-  "active": "34cda017165404b9",
+  "active": "c53ca75da10dcb8e",
   "lastOpenFiles": [
+    "season1/Projects/AI Plots/Sinco T/Floating Island (Full).md",
+    "season1/Projects/AI Plots/Sinco T/Floating Island/Floating Island (Part 5).md",
+    "season1/Projects/AI Plots/Sinco T/Floating Island/Floating Island (Part 4).md",
+    "season1/Projects/AI Plots/Sinco T/Floating Island/Floating Island (Part 3).md",
+    "season1/Projects/AI Plots/Sinco T/Floating Island/Floating Island (Part 2).md",
+    "season1/Projects/AI Plots/Sinco T/Floating Island/Floating Island (Part 1).md",
     "season2/Test.md",
     "README.md",
     "season2",
@@ -228,13 +234,7 @@
     "season1/Other/Explanations/Daily/Watermelon Gummy Candy.md",
     "season1/Other/Explanations/Daily",
     "season1/Other/Characters/Representations/Bopel.md",
-    "season1/Other/Characters/Representations/Macohi.md",
-    "season1/Other/Characters/Representations/Maki.md",
-    "season1/Other/Characters/Nicom/Nioc.md",
     "season1/Other/Characters/Representations",
-    "Daily/2026-03-08.md",
-    "Daily/2026-03-09.md",
-    "Daily/2026-03-02.md",
     "season1/Other/Explanations/Nicom",
     "season1/Other/Characters/Nicom",
     "season1/Other/Characters/RVG/Misc",

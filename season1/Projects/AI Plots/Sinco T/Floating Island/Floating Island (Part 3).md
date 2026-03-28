@@ -1,4 +1,4 @@
-#aiplot #sinco 
+#season1 #aiplot #sinco 
 
 Sinco hit the ground with a skid of green lightning, boots carving arcs into the pale sand. Around him stretched a new zone of the Floating Island—endless dunes of shifting sand, punctuated by jagged ruins and toppled pillars of an ancient civilization.
 

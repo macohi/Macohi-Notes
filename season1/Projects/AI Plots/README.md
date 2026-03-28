@@ -1,1 +1,1 @@
-I'm not gonna put the AI ones with the human ones
+#season1 I'm not gonna put the AI ones with the human ones
