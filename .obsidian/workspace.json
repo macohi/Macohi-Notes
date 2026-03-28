@@ -11,10 +11,24 @@
             "id": "c53ca75da10dcb8e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Other/AI Explanations/Fuerza.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Fuerza"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#character",
+                "query": "tag:#ai-explanation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,7 +202,7 @@
       "enhance-youtube-links:Get YouTube data": false
     }
   },
-  "active": "c53ca75da10dcb8e",
+  "active": "34cda017165404b9",
   "lastOpenFiles": [
     "season1/Projects/Stories/Pre-T-mor/Sinco Retold.md",
     "season1/Projects/Stories/Pre-T-mor/Sinco (2025 Remake).md",

@@ -1,1 +1,0 @@
-I'm not gonna put the AI ones with the human ones
