@@ -11,10 +11,24 @@
             "id": "c53ca75da10dcb8e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "post-3-16-2026/Test.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Test"
             }
           }
         ]
@@ -188,8 +202,9 @@
       "enhance-youtube-links:Get YouTube data": false
     }
   },
-  "active": "34cda017165404b9",
+  "active": "c53ca75da10dcb8e",
   "lastOpenFiles": [
+    "post-3-16-2026/Test.md",
     "README.md",
     "post-3-16-2026",
     "Daily/2026-03-27.md",
@@ -220,7 +235,6 @@
     "Daily/2026-03-08.md",
     "Daily/2026-03-09.md",
     "Daily/2026-03-02.md",
-    "pre-3-16-2026/Other/Characters/Nicom/Herila.md",
     "pre-3-16-2026/Other/Explanations/Nicom",
     "pre-3-16-2026/Other/Characters/Nicom",
     "pre-3-16-2026/Other/Characters/RVG/Misc",
