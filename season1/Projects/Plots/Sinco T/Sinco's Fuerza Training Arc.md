@@ -1,4 +1,4 @@
-#plot #sinco
+#season1 #plot #sinco
 
 | Story Date     |
 | -------------- |
