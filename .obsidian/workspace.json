@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "2026-03-27"
             }
+          },
+          {
+            "id": "ebd64147041cbb6b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,7 +215,7 @@
       "enhance-youtube-links:Get YouTube data": false
     }
   },
-  "active": "c53ca75da10dcb8e",
+  "active": "ebd64147041cbb6b",
   "lastOpenFiles": [
     "Daily/2026-03-27.md",
     "Daily/2026-03-18.md",
