@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/FNF/Funkin' Legine (Funkin' Legacy Engine).md",
+                "file": "Coding/FNF/Friday Night Funkin' Legine (Legacy Engine).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Funkin' Legine (Funkin' Legacy Engine)"
+              "title": "Friday Night Funkin' Legine (Legacy Engine)"
             }
           }
         ]
@@ -205,7 +205,7 @@
   "active": "c53ca75da10dcb8e",
   "lastOpenFiles": [
     "Daily/2026-03-29.md",
-    "Coding/FNF/Funkin' Legine (Funkin' Legacy Engine).md",
+    "Coding/FNF/Friday Night Funkin' Legine (Legacy Engine).md",
     "Coding/FNF",
     "Coding",
     "Ideas/whitevoid/Whitevoid.md",
