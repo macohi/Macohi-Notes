@@ -5,4 +5,4 @@ Basically I do everything but music.
 # Current Plan:
 
 - Release songs **slowly** as to not outpace the current game (just add more details and polish)
-- Start the p
+- Start the project out on Itch cause I do remember that video cutscenes don't work 
