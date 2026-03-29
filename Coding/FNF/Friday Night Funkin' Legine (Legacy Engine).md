@@ -4,4 +4,4 @@ Basically I do everything but music.
 
 # Current Plan:
 
-Release songs slowly
+Release songs **slowly** as to not outpace the current game
