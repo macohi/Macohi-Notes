@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-03-29.md",
+                "file": "Coding/FNF/LegacyEngine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-29"
+              "title": "LegacyEngine"
             }
           }
         ]
@@ -204,9 +204,11 @@
   },
   "active": "34cda017165404b9",
   "lastOpenFiles": [
+    "Daily/2026-03-29.md",
+    "Coding/FNF/LegacyEngine.md",
+    "Coding/FNF",
     "Coding",
     "Ideas/whitevoid/Whitevoid.md",
-    "Daily/2026-03-29.md",
     "Ideas/whitevoid/whitevoid.png",
     "Daily/season1/2026-02-23.md",
     "Ideas/whitevoid/Untitled.png.0.pdnSave",
@@ -239,8 +241,6 @@
     "season1/Projects/AI Plots/Sinco T/Floating Island/Floating Island (Part 1).md",
     "season2",
     "season1",
-    "season1/Projects/Plots/Nicom Zone",
-    "Other/Explanations/Daily",
     "Other/Images/line-types.jpg",
     "Other/Images/Pasted image 20260225201826.png",
     "Other/Images/line-types-2.jpg",
