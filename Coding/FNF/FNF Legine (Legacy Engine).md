@@ -7,6 +7,7 @@ Basically I do everything but music.
 - Release songs **slowly** as to not outpace the current game (just add more details and polish)
 - Start the project out on Itch cause I do remember that video cutscenes don't work on desktop
 	- Well, since I'm gonna be remaking the entire game anyway, why not just only add cutscenes later like, with week 7 or weekend 1?
+	- Actually no
 
 ## Update **Names**
 <!-- Probably not gonna do but hey I can dream. -->
