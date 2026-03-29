@@ -8,10 +8,10 @@ Basically I do everything but music.
 - Start the project out on Itch cause I do remember that video cutscenes don't work on desktop
 	- Well, since I'm gonna be remaking the entire game anyway, why not just only add cutscenes later like, with week 7 or weekend 1?
 
-## Update Names
+## Update **Names**
 
 Something like Minecraft's: 2026.1, 2026.2, etc, but instead it's month based,
 
 Examples:
 
-- May 2026 Update #1 
+- May 2026 Update #1 (0.3.)
