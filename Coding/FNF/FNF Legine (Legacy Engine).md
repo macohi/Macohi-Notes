@@ -9,7 +9,7 @@ Basically I do everything but music.
 	- Well, since I'm gonna be remaking the entire game anyway, why not just only add cutscenes later like, with week 7 or weekend 1?
 
 ## Update **Names**
-Probably not gonna d
+<!-- Probably not gonna do but hey I can dream. -->
 
 Something like Minecraft's: 2026.1, 2026.2, etc, but instead it's month based,
 
