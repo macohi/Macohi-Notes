@@ -15,3 +15,4 @@ Something like Minecraft's: 2026.1, 2026.2, etc, but instead it's month based,
 Examples:
 
 - May 2026 Update 1
+- August 2
